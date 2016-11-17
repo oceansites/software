@@ -1,4 +1,8 @@
 # coding: utf-8
+# Author: Nathan Anderson
+# Email: nathan.anderson@noaa.gov
+# Date: 11/3/2016
+
 from datetime import datetime
 import re
 import netCDF4
@@ -53,13 +57,13 @@ def set_ocs_global_attributes(cdf, resolution, mode, cdfname, modtime, datarange
    cdf.principal_investigator_url = "http://example_url_for_PI_info.com"
 
    cdf.license = "These data are made freely available without restriction"
-   cdf.citation = "These data were collected and made freely available by [insert project office or affliliation]"
+   cdf.citation = "These data were collected and made freely available by [insert project office or affiliation]"
    cdf.update_interval = "[void/PnYnMnDTnHnM (the latter is ISO 8601 format, e.g. PT12H for 12hr updates)] "
 
    cdf.acknowledgement = '''[Statement of how to acknowledge the data provider.  Can include where and to whom relevant publications are sent.]'''
-   cdf.platform_code = "[Obtain from OceanSITES; contact Champika Gallage: cgallage@jcommops.org]"
-   cdf.site_code = "[Obtain from OceanSITES; contact Champika Gallage: cgallage@jcommops.org]"
-   cdf.array = "[The array is determined by the project and put into the OceanSITES catalog, maintained by C Gallage.]"
+   cdf.platform_code = "[Obtain from OceanSITES]"
+   cdf.site_code = "[Obtain from OceanSITES]"
+   cdf.array = "[The array is determined by the project and put into the OceanSITES catalog.]"
    cdf.title = "OceanSITES %s Minute Resolution Data" % resolution
 
    cdf.geospatial_lon_min = "[Float or string, min longitude]"
@@ -83,19 +87,19 @@ def set_ocs_global_attributes(cdf, resolution, mode, cdfname, modtime, datarange
    if ( re.search('RAD', cdf.id, re.IGNORECASE) ):
       cdf.geospatial_vertical_min = "0.0"
       cdf.geospatial_vertical_max = "5.0"
-      cdf.geospatial_vertical_positive = "up"
+      cdf.geospatial_vertical_positive = "[up of down]"
       cdf.summary = """This file contains 1 minute in situ data from the [OceanSITES + mission identifier + month/year of deployment] deployment. \
  Included in this file are [which measurements?]."""
    elif ( re.search('TEMP', cdf.id, re.IGNORECASE) ) :
       cdf.geospatial_vertical_min = "0.0"
-      cdf.geospatial_vertical_max = "1.0"
-      cdf.geospatial_vertical_positive = "down"
+      cdf.geospatial_vertical_max = "5.0"
+      cdf.geospatial_vertical_positive = "[up or down]"
       cdf.summary = """This file contains 10 minute in situ data from the [OceanSITES + mission identifier + month/year of deployment] deployment. \
  Included in this file are [which measurements?]."""
    elif ( re.search('MET', cdf.id, re.IGNORECASE) ) :
       cdf.geospatial_vertical_min = "0.0"
       cdf.geospatial_vertical_max = "5.0"
-      cdf.geospatial_vertical_positive = "up"
+      cdf.geospatial_vertical_positive = "[up or down]"
       cdf.summary = """This file contains 10 minute in situ data from the [OceanSITES + mission identifier + month/year of deployment] deployment. \
  Included in this file are [which measurements?]."""
 

@@ -2,6 +2,11 @@
 #
 # Primary script to create an OceanSITES template file in python. 
 #
+# Author: Nathan Anderson
+# Email: nathan.anderson@noaa.gov
+# Date: 11/3/2016
+#
+
 import sys
 import os
 import time
@@ -37,7 +42,7 @@ LWR=DataFrame(np.arange(1.1,51.1,1),columns=['LWR'])
 SWR=DataFrame(np.arange(1.1,51.1,1),columns=['SWR'])
 SUN=DataFrame(np.arange(1.1,51.1,1),columns=['SUN'])
 lat=DataFrame(np.arange(50.00001,50.50001,0.01),columns=['lat'])
-lon=DataFrame(np.arange(145.00001,145.50001,0.01),columns=['lon'])
+lon=DataFrame(np.arange(-145.00001,-145.50001,-0.01),columns=['lon'])
 
 # Time data
 surfacetime=date_range('1/1/2017 00:00', periods=50, freq='10min')
@@ -221,7 +226,7 @@ OSattributes.set_lon_attributes(longitudes)
 deploylon = float('-145')
 if deploylon > 180. :
    deploylon -= 360.
-longitudes[:] = [145]
+longitudes[:] = [-145]
 
 # Shortwave Radiation
 #---------------------
