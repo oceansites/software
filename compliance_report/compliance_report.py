@@ -60,11 +60,11 @@ def main(args):
         print(('{},' + hdr_fmt[:-1]).format('url', *sorted(args.test)))
 
     for cat in args.catalog_urls:
-        if args.verbose:
+        if args.verbose > 1:
             print(f'Opening catalog_url: {cat}')
         for url in get_opendap_urls(cat):
 
-            if args.verbose:
+            if args.verbose > 1:
                 print(f'Checking OPeNDAP URL: {url}')
 
             if args.format == 'summary':
@@ -76,7 +76,8 @@ def main(args):
                 elif args.criteria == 'lenient':
                     limit = 3
                 ds = cs.load_dataset(url)
-                score_groups = cs.run(ds, *args.test)
+                skip_checks = ()
+                score_groups = cs.run(ds, skip_checks, *args.test)
 
                 # Always use sorted test (groups) so they print in correct order
                 reports = {}
@@ -108,10 +109,8 @@ def parse_command_line():
                         nargs='?', default='normal',
                         choices = ['lenient', 'normal', 'strict'])
 
-    parser.add_argument('--verbose', '-v',
-                        help="Increase output. May be specified up to three times.",
-                        action="count",
-                        default=0)
+    parser.add_argument('--verbose', '-v', choices=[1,2,3], type=int, 
+                        help='Turn on verbose output. Higher number = more output.', default=0)
 
     parser.add_argument('-f', '--format', default='text',
                         choices=['text', 'html', 'json', 'summary'], help='Output format')
