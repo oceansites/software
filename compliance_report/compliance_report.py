@@ -59,8 +59,13 @@ def main(args):
         report_fmt = '{},' + rpt_fmt[:-1]
         print(('{},' + hdr_fmt[:-1]).format('url', *sorted(args.test)))
 
-    for cat in args.catalog_url:
+    for cat in args.catalog_urls:
+        if args.verbose > 1:
+            print(f'Opening catalog_url: {cat}')
         for url in get_opendap_urls(cat):
+
+            if args.verbose > 1:
+                print(f'Checking OPeNDAP URL: {url}')
 
             if args.format == 'summary':
                 cs = CheckSuite()
@@ -71,7 +76,8 @@ def main(args):
                 elif args.criteria == 'lenient':
                     limit = 3
                 ds = cs.load_dataset(url)
-                score_groups = cs.run(ds, *args.test)
+                skip_checks = ()
+                score_groups = cs.run(ds, skip_checks, *args.test)
 
                 # Always use sorted test (groups) so they print in correct order
                 reports = {}
@@ -79,7 +85,7 @@ def main(args):
                     groups, _ = rpair
                     _, points, out_of = cs.get_points(groups, limit)
                     reports[checker] = (100 * float(points) / float(out_of))
-                
+
                 print((report_fmt).format(url, *[reports[t] for t in sorted(args.test)]))
                 sys.stdout.flush()
 
@@ -103,10 +109,8 @@ def parse_command_line():
                         nargs='?', default='normal',
                         choices = ['lenient', 'normal', 'strict'])
 
-    parser.add_argument('--verbose', '-v',
-                        help="Increase output. May be specified up to three times.",
-                        action="count",
-                        default=0)
+    parser.add_argument('--verbose', '-v', choices=[1,2,3], type=int, 
+                        help='Turn on verbose output. Higher number = more output.', default=0)
 
     parser.add_argument('-f', '--format', default='text',
                         choices=['text', 'html', 'json', 'summary'], help='Output format')
@@ -114,8 +118,8 @@ def parse_command_line():
                         help='Output filename')
     parser.add_argument('-V', '--version', action='store_true',
                         help='Display the IOOS Compliance Checker version information.')
-    parser.add_argument('catalog_url', nargs='*',
-                        help="The THREDDS Catalog URL ending in '.xml'.")
+    parser.add_argument('catalog_urls', nargs='*',
+                        help="The THREDDS Catalog URLs ending in '.xml' (one or more).")
 
     args = parser.parse_args()
     return args
