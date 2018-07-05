@@ -1,8 +1,7 @@
 # compliance_report.py
 
-Running `compliance_report.py` requires [compliance-checker](https://github.com/ioos/compliance-checker),
-which has its own set of system requirements; follow the instructions there for setting up your system. 
-In addition it requires beautifulsoup4. 
+Running `compliance_report.py` requires [compliance-checker](https://github.com/ioos/compliance-checker)
+and beautifulsoup4. 
 
 Configuring your system to execute this code:
 
