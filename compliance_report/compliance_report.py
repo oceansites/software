@@ -59,8 +59,13 @@ def main(args):
         report_fmt = '{},' + rpt_fmt[:-1]
         print(('{},' + hdr_fmt[:-1]).format('url', *sorted(args.test)))
 
-    for cat in args.catalog_url:
+    for cat in args.catalog_urls:
+        if args.verbose:
+            print(f'Opening catalog_url: {cat}')
         for url in get_opendap_urls(cat):
+
+            if args.verbose:
+                print(f'Checking OPeNDAP URL: {url}')
 
             if args.format == 'summary':
                 cs = CheckSuite()
@@ -79,7 +84,7 @@ def main(args):
                     groups, _ = rpair
                     _, points, out_of = cs.get_points(groups, limit)
                     reports[checker] = (100 * float(points) / float(out_of))
-                
+
                 print((report_fmt).format(url, *[reports[t] for t in sorted(args.test)]))
                 sys.stdout.flush()
 
@@ -114,8 +119,8 @@ def parse_command_line():
                         help='Output filename')
     parser.add_argument('-V', '--version', action='store_true',
                         help='Display the IOOS Compliance Checker version information.')
-    parser.add_argument('catalog_url', nargs='*',
-                        help="The THREDDS Catalog URL ending in '.xml'.")
+    parser.add_argument('catalog_urls', nargs='*',
+                        help="The THREDDS Catalog URLs ending in '.xml' (one or more).")
 
     args = parser.parse_args()
     return args
