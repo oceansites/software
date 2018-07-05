@@ -8,16 +8,12 @@ Mike McCann
 30 April 2016
 '''
 
-import sys
-
-# Temporary. Use local compliance-checker 
-# Assumes repos cloned into directories next to dmt repo clone
-sys.path.insert(0, '../../compliance-checker')
-
 import argparse
 import logging
 import re
 import requests
+import sys
+import xarray
 from bs4 import BeautifulSoup
 from compliance_checker.runner import ComplianceChecker, CheckSuite
 

@@ -18,8 +18,7 @@ cd software/compliance_report
 ```
 conda create --name compliance_report
 source activate compliance_report
-conda install -c conda-forge compliance-checker
-conda install -c conda-forge beautifulsoup4
+conda install -c conda-forge beautifulsoup4 compliance-checker xarray
 ```
 
 4. Execute the compliance_report for a SITE, e.g.:
