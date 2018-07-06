@@ -8,16 +8,13 @@ Mike McCann
 30 April 2016
 '''
 
-import sys
-
-# Temporary. Use local compliance-checker 
-# Assumes repos cloned into directories next to dmt repo clone
-sys.path.insert(0, '../../compliance-checker')
-
 import argparse
+import asyncio
 import logging
 import re
 import requests
+import sys
+import xarray
 from bs4 import BeautifulSoup
 from compliance_checker.runner import ComplianceChecker, CheckSuite
 
@@ -52,6 +49,59 @@ def get_opendap_urls(catalog_url):
         for e in soup.findAll('dataset', attrs={'urlpath': re.compile(search_str)}):
             yield base_url + e['urlpath']
 
+async def cc_report(args):
+
+    if args.verbose > 1:
+        print(f'Checking OPeNDAP URL: {url}')
+
+    if args.format == 'summary':
+        cs = CheckSuite()
+        if args.criteria == 'normal':
+            limit = 2
+        elif args.criteria == 'strict':
+            limit = 1
+        elif args.criteria == 'lenient':
+            limit = 3
+
+
+        ds = cs.load_dataset(url)
+        skip_checks = ()
+        score_groups = cs.run(ds, skip_checks, *args.test)
+
+        # Always use sorted test (groups) so they print in correct order
+        reports = {}
+        for checker, rpair in sorted(score_groups.items()):
+            groups, _ = rpair
+            _, points, out_of = cs.get_points(groups, limit)
+            reports[checker] = (100 * float(points) / float(out_of))
+
+        print((report_fmt).format(url, *[reports[t] for t in sorted(args.test)]))
+        sys.stdout.flush()
+    else:
+        # Send the compliance report to stdout
+        ComplianceChecker.run_checker(url, args.test, args.verbose, args.criteria,
+                                        args.output, args.format)
+
+def main_async(args):
+    if args.format == 'summary':
+        hdr_fmt = '{},' * len(args.test)
+        rpt_fmt = '{:.1f},' * len(args.test)
+        report_fmt = '{},' + rpt_fmt[:-1]
+        print(('{},' + hdr_fmt[:-1]).format('url', *sorted(args.test)))
+
+    for cat in args.catalog_urls:
+        if args.verbose > 1:
+            print(f'Opening catalog_url: {cat}')
+
+        loop = asyncio.get_event_loop()
+        for url in get_opendap_urls(cat):
+
+                future = asyncio.ensure_future(cc_report(args))
+                loop.run_until_complete(future)
+
+
+
+
 def main(args):
     if args.format == 'summary':
         hdr_fmt = '{},' * len(args.test)
@@ -75,9 +125,17 @@ def main(args):
                     limit = 1
                 elif args.criteria == 'lenient':
                     limit = 3
-                ds = cs.load_dataset(url)
+
+                try:
+                    ds = cs.load_dataset(url)
+                except ValueError as e:
+                    print(f'Failed to get report for {url}')
+                    print(str(e))
+                    continue
+                    
                 skip_checks = ()
                 score_groups = cs.run(ds, skip_checks, *args.test)
+                
 
                 # Always use sorted test (groups) so they print in correct order
                 reports = {}
@@ -93,7 +151,6 @@ def main(args):
                 # Send the compliance report to stdout
                 ComplianceChecker.run_checker(url, args.test, args.verbose, args.criteria,
                                               args.output, args.format)
-
 def parse_command_line():
 
     parser = argparse.ArgumentParser()
@@ -116,6 +173,7 @@ def parse_command_line():
                         choices=['text', 'html', 'json', 'summary'], help='Output format')
     parser.add_argument('-o', '--output', default='-', action='store',
                         help='Output filename')
+    parser.add_argument('--async', action='store_true', help='Parallelize processing with xarray and asyncio')
     parser.add_argument('-V', '--version', action='store_true',
                         help='Display the IOOS Compliance Checker version information.')
     parser.add_argument('catalog_urls', nargs='*',
@@ -127,5 +185,8 @@ def parse_command_line():
 
 if __name__ == '__main__':
     args = parse_command_line()
-    main(args)
+    if args.async:
+        main_async(args)
+    else:
+        main(args)
 
