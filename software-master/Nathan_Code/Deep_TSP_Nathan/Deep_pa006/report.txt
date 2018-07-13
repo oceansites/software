@@ -1,4 +1,0 @@
-Salinity drift (post cal data - pre cal data): pa006 
-For the listed drift, negative values indicate scouring;
-positive values indicate fouling;
-4182m Drift = 0.004757
