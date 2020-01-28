@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<!-- Instrument lookup for oceansites -->
+<!-- Crosswalk from 'local names' to SeaVoX_L22_code -->
+<!-- WHOI/UOP applies this using XML_io Toolbox for Matlab -->
+<!-- Ideally we could use code to check for combinations, i.e. vmcm/rdi  -->
+<!--   for combined VMCM2 and Workhorse; currently these have to be added to the XML -->
+<insts lastModified="01-28-2020" author="Nan Galbraith, WHOI/UOP">
+
+<!-- RBR -->
+<inst>
+<localname>tpod</localname>
+<model>XX-105</model>
+<mfgr>RBR-Global</mfgr>
+<url>http://www.rbr-global.com/products</url>
+<comment>Waterproof thermometer: generic temperature sensor capable of being immersed in water</comment>
+<SeaVoX_L22_code>TOOL0237</SeaVoX_L22_code>
+</inst>
+
+<inst>
+<localname>tr1060</localname>
+<localname>tr1060p</localname>
+<model>TR1060</model>
+<mfgr>RBR-Global</mfgr>
+<url>http://www.rbr-global.com/products/small-single-channel-loggers/tr-1060-temperature</url>
+<SeaVoX_L22_code>TOOL0728</SeaVoX_L22_code>
+</inst>
+
+<inst>
+<localname>tr1050</localname>
+<model>TR1050</model>
+<mfgr>RBR-Global</mfgr>
+<url>http://www.rbr-global.com/component/content/article/54-single-channel-loggers/99-tr-1050-temperature</url>
+<SeaVoX_L22_code>TOOL0055</SeaVoX_L22_code>
+</inst>
+
+<inst>
+<localname>Solo D</localname>
+<localname>Solo-D</localname>
+<model>Solo D</model>
+<mfgr>RBR-Global</mfgr>
+<url>https://rbr-global.com/products/compact-loggers/rbrsolo-d</url>
+<SeaVoX_L22_code>NA</SeaVoX_L22_code>
+</inst>
+
+<inst>
+<localname>Solo T</localname>
+<localname>SoloT</localname>
+<localname>Solo-T</localname>
+<model>Solo T</model>
+<mfgr>RBR-Global</mfgr>
+<url>https://rbr-global.com/products/compact-loggers/rbrsolo-t</url>
+<SeaVoX_L22_code>TOOL1024</SeaVoX_L22_code>
+</inst>
+
+<inst>
+<localname>xr420</localname>
+<localname>xr-420</localname>
+<model>XR-420</model>
+<mfgr>RBR-Global</mfgr>
+<url>http://www.rbr-global.com/products/ctd-a-multi-channel-loggers/xr-420-620-ctd</url>
+<SeaVoX_L22_code>TOOL0053</SeaVoX_L22_code>
+</inst>
+
+<!-- Sea-Bird Scientific -->
+<inst>
+<localname>mcat</localname>
+<localname>sbe37</localname>
+<localname>sbe-37</localname>
+<localname>sbe37p</localname>
+<model>SBE 37</model>
+<mfgr>Sea-Bird Scientific</mfgr>
+<url>http://www.seabird.com/products/spec_sheets/37smdata.htm</url>
+<SeaVoX_L22_code>NA</SeaVoX_L22_code>
+</inst>
+
+<inst>
+<localname>scat</localname>
+<localname>sbe16</localname>
+<localname>sbe-16</localname>
+<model>SBE 16</model>
+<mfgr>Sea-Bird Scientific</mfgr>
+<url>http://www.seabird.com/pdf_documents/Reference_Sheets/16plus_rs232_ReferenceSheet_011.pdf</url>
+<SeaVoX_L22_code>TOOL0023</SeaVoX_L22_code>
+</inst>
+
+<inst>
+<localname>sbe39</localname>
+<localname>sbe-39</localname>
+<model>SBE 39</model>
+<mfgr>Sea-Bird Scientific</mfgr>
+<url>http://www.seabird.com/products/spec_sheets/39data.htm</url>
+<SeaVoX_L22_code>TOOL0266</SeaVoX_L22_code>
+</inst>
+
+<!-- SonTek -->
+<inst>
+<localname>sontek</localname>
+<localname>argonaut</localname>
+<localname>argonaut_md</localname>
+<model>Argonaut_MD</model>
+<mfgr>SonTek</mfgr>
+<url>http://www.sontek.com/argonautmd.php</url>
+<SeaVoX_L22_code>TOOL0090</SeaVoX_L22_code>
+</inst>
+
+<!-- Teledyne RDI -->
+<inst>
+<localname>workhorse sentinel adcp 300khz</localname>
+<localname>adcp</localname>
+<model>Workhorse Sentinel ADCP 300kHz</model>
+<mfgr>Teledyne-RDI</mfgr>
+<url>http://www.rdinstruments.com/sen.aspx</url>
+<SeaVoX_L22_code>TOOL0295</SeaVoX_L22_code>
+</inst>
+
+
+<!-- Aanderaa -->
+<inst>
+<localname>seaguard_rcm</localname>
+<localname>seaguard_rcm_11</localname>
+<localname>seaguard_rcm_dw</localname>
+<localname>seaguard</localname>
+<model>Seaguard_RCM</model>
+<mfgr>Aanderaa</mfgr>
+<url>http://www.aadi.no/Aanderaa/Document%20Library/1/Data%20Sheets/Seaguard%C2%AE%20RCM.pdf</url>
+<SeaVoX_L22_code>TOOL0306</SeaVoX_L22_code>
+</inst>
+
+<inst>
+<localname>aa_adcm</localname>
+<localname>rcm</localname>
+<localname>aa_rcm</localname>
+<localname>aanderaa</localname>
+<localname>rcm_11</localname>
+<localname>rcm11</localname>
+<model>RCM11</model>
+<mfgr>Aanderaa</mfgr>
+<url>http://www.aadi.no/Aanderaa/Document%20Library/1/Data%20Sheets/Recording%20Current%20Meter%20RCM11.pdf</url>
+<SeaVoX_L22_code>TOOL0026</SeaVoX_L22_code>
+</inst>
+
+<!-- Nortek -->
+<inst>
+<localname>aquadopp</localname>
+<localname>aquadopp_cm</localname>
+<localname>aquadopp_im</localname>
+<model>Aquadopp_3D</model>
+<mfgr>Nortek</mfgr>
+<url>http://www.nortekusa.com/lib/data-sheets/datasheet-aquadopp</url>
+<comment>May be TOOL0477:Aquadopp 3000 3D Doppler cm, w higher power, increased STN ratio vs standard 300m depth rated Aquadopp</comment>
+<SeaVoX_L22_code>TOOL0089</SeaVoX_L22_code>
+</inst>
+
+<inst>
+<localname>aquadopp_pro_400</localname>
+<localname>aquapro_400</localname>
+<model>Aquadopp_400kHz_Profiler</model>
+<mfgr>Nortek</mfgr>
+<url>http://www.nortek-as.com/en/products/current-profilers/aquadopp-profiler</url>
+<SeaVoX_L22_code>TOOL0392</SeaVoX_L22_code>
+</inst>
+
+<inst>
+<localname>aquadopp_pro_600</localname>
+<localname>aquad_pro_600</localname>
+<model>Aquadopp_600kHz_Profiler</model>
+<mfgr>Nortek</mfgr>
+<url>http://www.nortek-as.com/en/products/current-profilers/aquadopp-profiler</url>
+<SeaVoX_L22_code>TOOL0887</SeaVoX_L22_code>
+</inst>
+
+<!--                unspecified frequency -->
+<inst>
+<localname>aquadopp_pro</localname>
+<localname>aquad_pro</localname>
+<model>Aquadopp_Profiler</model>
+<mfgr>Nortek</mfgr>
+<url>http://www.nortek-as.com/en/products/current-profilers/aquadopp-profiler</url>
+<SeaVoX_L22_code>TOOL0898</SeaVoX_L22_code>
+</inst>
+
+<inst>
+<localname>Sig500</localname>
+<localname>Signature500</localname>
+<model>Signature500</model>
+<mfgr>Nortek</mfgr>
+<url>https://www.nortekgroup.com/export/pdf/Signature500.pdf</url>
+<SeaVoX_L22_code>TOOL1010</SeaVoX_L22_code>
+</inst> 
+
+<!-- WHOI and Star Engineering -->
+<inst>
+<localname>vmcm2</localname>
+<localname>vmcm</localname>
+<localname>ngvm</localname>
+<model>VMCM</model>
+<mfgr>WHOI and Star Engineering</mfgr>
+<url>http://frodo.whoi.edu/vmcm2/index.html</url>
+<SeaVoX_L22_code>NA</SeaVoX_L22_code>
+</inst>
+
+<inst>
+<localname>vmcm</localname>
+<localname>vm</localname>
+<model>VMCM</model>
+<mfgr>WHOI</mfgr>
+<url>http://www.sciencedirect.com/science/article/pii/0198014980900412</url>
+<SeaVoX_L22_code>NA</SeaVoX_L22_code>
+</inst>
+
+<inst>
+<localname>vmcm/rdi</localname>
+<model>combined VMCM2 and Workhorse Sentinel ADCP 300kHz</model>
+<mfgr>VMCM:WHOI and Star Engineering; ADCP:Teledyne-RDI</mfgr>
+<url>VMCM:http://frodo.whoi.edu/vmcm2/index.html ADCP:http://www.rdinstruments.com/sen.aspx</url>
+<SeaVoX_L22_code>NA</SeaVoX_L22_code>
+</inst>
+
+</insts>
