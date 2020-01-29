@@ -10,7 +10,9 @@ function[stdInst]=InstLookup(localInsts)
 % returns:
 % stdInst: structure with 'standard' model, mfgr, url, and SeaVoX_L22_code
 % 
-% requires: an xml handler like xml_io_tools, does not use native Matlab XML
+% requires: an xml handler like xml_io_tools, does not use native Matlab XML.
+% I use xml_io_tools, Copyright (c) 2007, by Jaroslaw Tuszynski.
+%
 % includes: match1, function that actually does the lookup
 
 %% set up (for remote or local work) 
