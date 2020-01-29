@@ -4,7 +4,8 @@ In the XML file, list the local names you use in your current code or data files
 Sea-Bird microcat) and the L22 code for that instrument. 
 
 In the Matlab code, send in the local names you want to look up, and get back the L22 codes (plus 
-cleaned-up versions of the Manufacturer and Model).
+cleaned-up versions of the Manufacturer and Model). This code uses xml_io_tools, Copyright (c) 2007, 
+Jaroslaw Tuszynski.
 
 The current (Jan29,2020) version of the Data Format Reference Manual describes two ways to document sensors:
 1: as attributes to a data variable:
