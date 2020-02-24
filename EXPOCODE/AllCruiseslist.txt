@@ -1,0 +1,2330 @@
+  Research Vessel Schedules from https://www.researchvessels.org
+
+<http://www.researchvessels.org/ship_info_display.asp?shipID=122>
+This schedule for this ship was last updated on: 1/15/2002 2:41:34 PM
+
+Field Key
+Ship Name 	Departure Date 	Departure Port 	General Area 	Discipline
+Endeavor    	3/22/1991    	Narra   	Labrodor Sea   	  	NA4  
+Endeavor    	4/27/1991    	Reykjavic   	Iceland   	  	NA5  
+Endeavor    	6/9/1991    	Narra   	Bermuda   	  	NA6  
+Endeavor    	8/3/1991    	Narra   	Gulf of Maine   	  	NA6  
+Endeavor    	8/15/1991    	Narra   	Iceland   	  	NA5  
+Endeavor    	9/10/1991    	Reykjavik   	Mid Atlantic   	  	NA7  
+Endeavor    	11/8/1991    	Narra   	W. NO. Atlantic   	  	NA6  
+Endeavor    	11/16/1991    	Lauderdale   	Gulf Stream   	  	NA6  
+Endeavor    	11/28/1991    	Lauderdale   	W. NO. Atlantic   	  	NA6  
+Endeavor    	1/13/1992    	NARRA   	South of Bermuda   	  	NA6  
+Endeavor    	1/31/1992    	Ancillary   	WHOI to Bermuda   	  	NA6  
+Endeavor    	2/28/1992    	NARRA   	Western N. Atlantic   	  	NA6, NA9  
+Endeavor    	3/25/1992    	Bermuda   	Sargasso   	  	NA6  
+Endeavor    	4/16/1992    	Bermuda   	Sites 'S', 'OFP'   	  	NA6  
+Endeavor    	5/1/1992    	Bermuda   	West Atlantic   	  	NA6  
+Endeavor    	5/19/1992    	NARRA   	George's Bank   	  	NA6  
+Endeavor    	6/8/1992    	NARRA   	Bermuda   	  	NA6  
+Endeavor    	7/12/1992    	NARRA   	Cape Hatteras   	  	NA6  
+Endeavor    	7/23/1992    	Morehead City   	Blake-Bahama   	  	NA6  
+Endeavor    	8/12/1992    	NARRA   	Gulf of Maine   	  	NA6  
+Endeavor    	8/19/1992    	Ancillary   	Gulf of Maine   	  	NA6  
+Endeavor    	8/24/1992    	NARRA   	Cape Hatteras   	  	NA6  
+Endeavor    	9/15/1992    	Bermuda   	Sites 'S', 'OFP'   	  	NA6  
+Endeavor    	10/1/1992    	Bermuda   	West Atlantic   	  	NA6  
+Endeavor    	6/28/1994    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	7/5/1994    	Narra   	Gulf of Maine   	  	NA6  
+Endeavor    	7/24/1994    	Narra   	Gulf of Maine   	  	NA6  
+Endeavor    	7/26/1994    	Newport   	Out of Service   	  	 
+Endeavor    	8/4/1994    	WHOI   	Hatteras   	  	NA6  
+Endeavor    	8/16/1994    	Norfolk   	Sargasso   	  	NA6  
+Endeavor    	8/31/1994    	Norfolk   	Hatteras   	  	NA6  
+Endeavor    	9/9/1994    	Narra   	Gulf of Maine   	  	NA6  
+Endeavor    	9/18/1994    	WHOI   	Gulf of Maine   	  	NA6  
+Endeavor    	10/1/1994    	WHOI   	Hatteras   	  	NA6  
+Endeavor    	10/11/1994    	WHOI   	Grand Banks   	  	NA6  
+Endeavor    	10/26/1994    	WHOI   	Georges Bank   	  	NA6  
+Endeavor    	11/5/1994    	WHOI   	Grand Banks   	  	NA6  
+Endeavor    	12/1/1994    	WHOI   	Hatteras   	  	NA6  
+Endeavor    	1/10/1995    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	1/29/1995    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	2/10/1995    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	2/23/1995    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	3/13/1995    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	3/27/1995    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	4/11/1995    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	4/26/1995    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	5/22/1995    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	6/25/1995    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	7/10/1995    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	7/20/1995    	WHOI   	NJ Coast   	  	NA6  
+Endeavor    	8/22/1995    	WHOI   	Georges Bank   	  	NA6  
+Endeavor    	8/30/1995    	Narra   	Gulf Stream   	  	NA6  
+Endeavor    	9/20/1995    	Narra   	Gulf of Maine   	  	NA6  
+Endeavor    	9/29/1995    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	12/5/1995    	Narra   	NE Slope   	  	NA6  
+Endeavor    	1/10/1996    	Narra   	George's Bank   	  	NA6  
+Endeavor    	2/4/1996    	Narra   	Georges Slope   	  	NA6  
+Endeavor    	2/13/1996    	Narra   	George's Bank   	  	NA6  
+Endeavor    	3/1/1996    	Narra   	Del Coast   	  	NA6  
+Endeavor    	3/11/1996    	Narra   	Del Coast   	  	NA6  
+Endeavor    	3/26/1996    	Narra   	Georges Slope   	  	NA6  
+Endeavor    	4/8/1996    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	5/5/1996    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	5/21/1996    	Narra   	Georges Slope   	  	NA6  
+Endeavor    	6/4/1996    	Narra   	N.E. Shelf   	  	NA6  
+Endeavor    	7/19/1996    	Narra   	Coastal   	  	NA6  
+Endeavor    	8/14/1996    	Narra   	Coastal   	  	NA6  
+Endeavor    	9/6/1996    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	10/21/1996    	Narra   	Georges Slope   	  	NA6  
+Endeavor    	12/17/1996    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	1/3/1997    	Narra   	Wilkinson Basin   	  	NA6  
+Endeavor    	1/3/1997    	Narra   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	1/8/1997    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	1/8/1997    	Narra   	N W Atlantic   	multi   	NA6  
+Endeavor    	1/24/1997    	Narra   	N W Atlantic   	geo   	NA6  
+Endeavor    	1/25/1997    	Narra   	Georges Slope   	  	NA6  
+Endeavor    	1/31/1997    	Narra   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	1/31/1997    	Narra   	Wilkinson Basin   	  	NA6  
+Endeavor    	2/7/1997    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	2/9/1997    	WHOI   	Coastal   	  	NA6  
+Endeavor    	3/4/1997    	Narra   	N W Atlantic   	multi   	NA6  
+Endeavor    	3/4/1997    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	3/21/1997    	Narra   	N W Atlantic   	multi   	NA6  
+Endeavor    	4/7/1997    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	4/7/1997    	Narra   	N W Atlantic   	multi   	NA6  
+Endeavor    	4/24/1997    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	4/25/1997    	Narra   	Coastal   	  	NA6  
+Endeavor    	5/18/1997    	Narra   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	5/18/1997    	Narra   	Wilkinson Basin   	  	NA6  
+Endeavor    	5/23/1997    	Narra   	N W Atlantic   	multi   	NA6  
+Endeavor    	5/23/1997    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	6/9/1997    	Narra   	N W Atlantic   	multi   	NA6  
+Endeavor    	6/9/1997    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	6/21/1997    	Narra   	NJ Coast   	  	NA6  
+Endeavor    	6/26/1997    	Narra   	N W Atlantic   	multi   	NA6  
+Endeavor    	6/26/1997    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	7/10/1997    	Narra   	Shelf   	  	NA6  
+Endeavor    	7/10/1997    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	7/18/1997    	Narra   	Coastal   	  	NA6  
+Endeavor    	10/1/1997    	Narra   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	10/1/1997    	Narra   	Wilkinson Basin   	  	NA6  
+Endeavor    	10/8/1997    	WHOI   	Georges Bank   	  	NA6  
+Endeavor    	10/8/1997    	Narra   	N W Atlantic   	multi   	NA6  
+Endeavor    	10/20/1997    	Narra   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	10/21/1997    	WHOI   	Georges Bank   	  	NA6  
+Endeavor    	10/29/1997    	WHOI   	Continental Slope   	  	NA6  
+Endeavor    	11/4/1997    	WHOI   	Gulf of Maine   	  	NA6  
+Endeavor    	12/1/1997    	Narra   	Georges Bank   	  	NA6  
+Endeavor    	12/1/1997    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	7/16/1998    	Narra   	  	  	 
+Endeavor    	7/16/1998    	Narragansett   	N E Pacific   	transit   	 
+Endeavor    	7/28/1998    	Panama   	S E Pacific   	bio   	 
+Endeavor    	7/30/1998    	Panama   	Eastern Trop. Pacific   	  	 
+Endeavor    	8/31/1998    	Hilo   	S E Pacific   	bio   	 
+Endeavor    	9/1/1998    	Hilo   	Eastern Trop. Pacific   	  	 
+Endeavor    	9/30/1998    	Manzanillo   	S E Pacific   	bio   	 
+Endeavor    	9/30/1998    	Manzanillo   	Eastern Trop. Pacific   	  	 
+Endeavor    	10/28/1998    	Puntarenas   	Eastern Trop. Pacific   	  	 
+Endeavor    	10/28/1998    	Puntarenas   	S E Pacific   	bio   	 
+Endeavor    	11/21/1998    	Callao   	Eastern Trop. Pacific   	  	 
+Endeavor    	12/11/1998    	Panama   	  	  	 
+Endeavor    	2/21/1999    	Narragansett   	N W Atlantic   	GLOBEC
+Endeavor    	3/10/1999    	Narragansett   	N W Atlantic   	GLOBEC BS  
+Endeavor    	3/28/1999    	Narragansett   	N W Atlantic   	GLOBEC   	NA6  
+Endeavor    	4/17/1999    	Narragansett   	N W Atlantic   	GLOBEC   	NA6  
+Endeavor    	5/5/1999    	Narragansett   	N W Atlantic   	GLOBEC   	NA6  
+Endeavor    	5/14/1999    	Whoi   	N W Atlantic   	GLOBEC   	NA6  
+Endeavor    	6/13/1999    	Narragansett   	N W Atlantic   	GLOBEC   	NA6  
+Endeavor    	7/8/1999    	Narragansett   	N W Atlantic   	Chemistry  
+Endeavor    	8/2/1999    	Narragansett   	N W Atlantic   	Chemistry  
+Endeavor    	8/25/1999    	Narragansett   	N E Atlantic   	WOCE  
+Endeavor    	9/23/1999    	Azores   	  	Transit   	 
+Endeavor    	10/10/1999    	Whoi   	N W Atlantic   	GLOBEC   	NA6  
+Endeavor    	12/1/1999    	Whoi   	N W Atlantic   	GLOBEC   	NA6  
+Endeavor    	2/7/2000    	Narra   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	3/2/2000    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	3/6/2000    	Narra   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	3/13/2000    	Narra   	N W Atlantic   	chem   	NA6  
+Endeavor    	4/6/2000    	Narra   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	4/14/2000    	Narra   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	5/15/2000    	Narra   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	5/30/2000    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	6/12/2000    	Narra   	N W Atlantic   	chem   	NA6  
+Endeavor    	7/7/2000    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	7/23/2000    	Narra   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	8/17/2000    	Narra   	N W Atlantic   	bio   	NA6  
+Endeavor    	9/12/2000    	Narra   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	9/26/2000    	WHOI   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	10/7/2000    	WHOI   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	10/17/2000    	WHOI   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	11/1/2000    	WHOI   	N W Atlantic   	transit   	NA6  
+Endeavor    	11/9/2000    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	11/12/2000    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	11/17/2000    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	11/19/2000    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	11/24/2000    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	11/27/2000    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	12/1/2000    	Narra   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	12/7/2000    	WHOI   	N W Atlantic   	phys oc   	NA6  
+Endeavor    	1/1/2001    	Tampa   	  	repairs   	 
+Endeavor    	2/17/2001    	Tampa   	  	transit   	NA6  
+Endeavor    	2/28/2001    	Narra   	  	phys oc   	NA6  
+Endeavor    	3/12/2001    	WHOI   	  	transit   	NA6  
+Endeavor    	3/16/2001    	Portland   	N W Atlantic   	bio   	NA6  
+Endeavor    	3/23/2001    	Portland   	  	transit   	NA6  
+Endeavor    	3/28/2001    	Narra   	  	bio   	NA6  
+Endeavor    	4/11/2001    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	4/12/2001    	WHOI   	unk   	unk   	 
+Endeavor    	4/18/2001    	WHOI   	  	phys oc   	NA6  
+Endeavor    	4/27/2001    	WHOI   	  	unk   	NA6  
+Endeavor    	5/10/2001    	WHOI   	  	unk   	NA6  
+Endeavor    	5/24/2001    	WHOI   	  	unk   	NA6  
+Endeavor    	5/31/2001    	Narra   	  	bio   	NA6  
+Endeavor    	6/19/2001    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	7/9/2001    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	7/22/2001    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	8/12/2001    	Narra   	  	unk   	NA6  
+Endeavor    	9/16/2001    	Narra   	  	bio   	NA6  
+Endeavor    	10/2/2001    	Narra   	  	bio   	NA6  
+Endeavor    	10/19/2001    	Narra   	  	transit   	NA6  
+Endeavor    	10/21/2001    	Portland   	N W Atlantic   	unk   	NA6  
+Endeavor    	11/10/2001    	Portland   	  	phys oc   	NA6  
+Endeavor    	11/20/2001    	Portland   	  	transit   	NA6  
+Endeavor    	12/1/2001    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	12/12/2001    	Narra   	N W Atlantic   	transit   	NA6  
+Endeavor    	12/14/2001    	Portland   	N W Atlantic   	geo   	NA6  
+Endeavor    	12/20/2001    	Portland   	N W Atlantic   	transit   	NA6  
+Endeavor    	1/31/2002    	Narra   	  	phys oc   	NA6,NA7,NA  
+Endeavor    	2/28/2002    	Bridgetown   	  	chem   	NA9,NA10,S  
+Endeavor    	3/24/2002    	Rio de Janiero   	  	unk   	NA9,NA10,S  
+Endeavor    	4/10/2002    	Bridgetown   	  	phys oc   	NA6,NA10  
+Endeavor    	5/13/2002    	Narra   	  	unk   	NA6  
+Endeavor    	6/8/2002    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	6/23/2002    	Narra   	  	unk   	NA6  
+Endeavor    	7/20/2002    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	8/7/2002    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	8/23/2002    	Narra   	N W Atlantic   	bio   	NA6  
+Endeavor    	9/17/2002    	Narra   	  	unk   	NA6  
+Endeavor    	1/21/2003    	Narra   	  	transit   	NA6  
+Endeavor    	1/25/2003    	Portland   	  	geo   	NA6  
+Endeavor    	1/29/2003    	Portland   	  	geo   	NA6  
+Endeavor    	2/6/2003    	Portland   	  	geo   	NA6  
+Endeavor    	2/15/2003    	Portland   	  	transit   	NA6  
+Endeavor    	4/12/2003    	Narra   	  	unk   	NA6  
+Endeavor    	4/24/2003    	Narra   	  	transit   	NA6  
+Endeavor    	4/28/2003    	WHOI   	  	unk   	NA6  
+Endeavor    	5/19/2003    	WHOI   	  	unk   	NA6  
+Endeavor    	5/28/2003    	Narra   	  	unk   	NA6  
+Endeavor    	6/8/2003    	Narra   	  	transit   	 
+Endeavor    	6/12/2003    	Portland   	  	unk   	NA6  
+Endeavor    	6/23/2003    	Portland   	  	transit   	NA6  
+Endeavor    	7/1/2003    	Narra   	  	unk   	NA6  
+Endeavor    	7/12/2003    	Narra   	  	unk   	NA6  
+Endeavor    	8/11/2003    	Narra   	  	unk   	NA6  
+Endeavor    	10/1/2003    	Narra   	  	unk   	 
+Endeavor    	11/16/2003    	Narra   	  	transit   	NA6  
+Endeavor    	11/17/2003    	WHOI   	  	unk   	NA6  
+Endeavor    	12/3/2003    	WHOI   	  	unk   	NA6  
+Endeavor    	12/8/2003    	Narra   	  	unk   	NA6  
+Endeavor    	12/16/2003    	WHOI   	  	transit   	NA6  
+Endeavor    	1/8/2004    	Narra   	  	transit   	NA6  
+Endeavor    	1/10/2004    	Woods Hole   	N W Atlantic   	unk   	NA6  
+Endeavor    	1/17/2004    	Woods Hole   	  	phys oc   	NA6  
+Endeavor    	1/20/2004    	Woods Hole   	  	unk   	NA6  
+Endeavor    	1/30/2004    	Woods Hole   	  	unk   	NA6  
+Endeavor    	3/1/2004    	Narragansett   	  	unk   	NA6  
+Endeavor    	3/7/2004    	Norfolk   	N W Atlantic   	bio   	NA6,NA9  
+Endeavor    	3/30/2004    	Bridgetown   	  	transit   	NA6,NA7  
+Endeavor    	4/21/2004    	Narra   	  	unk   	NA6  
+Endeavor    	5/11/2004    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	6/4/2004    	Narra   	N W Atlantic   	unk   	NA4  
+Endeavor    	6/23/2004    	Narra   	  	unk   	NA6  
+Endeavor    	7/16/2004    	Narra   	  	unk   	NA6  
+Endeavor    	8/8/2004    	Narra   	N W Atlantic   	unk   	NA6  
+Endeavor    	8/19/2004    	Narra   	N W Atlantic   	unk   	NA4  
+Endeavor    	9/3/2004    	St. Johns Newfoundland   	  	phys oc   	NA6  
+Endeavor    	9/19/2004    	Bergen, Norway   	  	unk   	NA2,NA5  
+Endeavor    	10/7/2004    	Torshavn, Faroe Is.   	  	transit   	NA4  
+Endeavor    	10/27/2004    	Narragansett   	  	unk   	NA6  
+Endeavor    	11/29/2004    	Narragansett   	  	unk   	NA6  
+Endeavor    	1/25/2005    	Narragansett   	  	transit   	NA6,NA8  
+Endeavor    	2/14/2005    	Port La Nouvelle   	  	unk   	NA8  
+Endeavor    	3/3/2005    	Port La Nouvelle   	  	transit   	NA8  
+Endeavor    	3/8/2005    	Nice   	  	port   	NA8  
+Endeavor    	3/18/2005    	Monaco   	  	transit   	NA8,NA9  
+Endeavor    	3/27/2005    	Istanbul   	  	unk   	NA8  
+Endeavor    	4/9/2005    	Istanbul   	  	transit   	NA8  
+Endeavor    	4/18/2005    	Port La Nouvelle   	  	unk   	NA8  
+Endeavor    	5/6/2005    	Port La Nouvelle   	  	unk   	NA8  
+Endeavor    	5/20/2005    	Port La Nouvalle   	  	unk   	NA8  
+Endeavor    	6/3/2005    	Port La Nouvelle   	  	transit   	NA6,NA7,NA  
+Endeavor    	6/25/2005    	Narragansett   	  	unk   	NA6  
+Endeavor    	7/8/2005    	Narragansett   	  	unk   	NA6,NA7,NA  
+Endeavor    	7/31/2005    	Bridgetown   	  	transit   	NA6,NA7  
+Endeavor    	8/16/2005    	Narragansett   	  	unk   	NA6  
+Endeavor    	9/12/2005    	Narragansett   	  	unk   	NA6  
+Endeavor    	9/21/2005    	Narragansett   	  	phys oc   	NA6  
+Endeavor    	10/4/2005    	Narragansett   	  	unk   	NA6  
+Endeavor    	10/14/2005    	Narragansett   	  	phys oc   	NA6  
+Endeavor    	12/12/2005    	Narragansett   	  	unk   	NA6  
+Endeavor    	1/1/2006    	Narragansett, RI   	  	unk   	 
+Endeavor    	2/21/2006    	Narragansett   	  	unk   	 
+Endeavor    	3/15/2006    	Narragansett   	  	transit   	NA8  
+Endeavor    	4/8/2006    	Nice, FR   	  	unk   	NA8  
+Endeavor    	4/18/2006    	Nice, France   	  	transit   	NA8  
+Endeavor    	4/26/2006    	Heraklion, Greece   	  	unk   	NA8  
+Endeavor    	5/7/2006    	Istanbul   	unk   	unk   	NA8  
+Endeavor    	5/14/2006    	Yalta, Ukraine   	unk   	unk   	NA8  
+Endeavor    	5/25/2006    	Yalta, Ukraine   	unk   	unk   	NA8  
+Endeavor    	5/28/2006    	Istanbul   	unk   	unk   	NA8  
+Endeavor    	6/10/2006    	Santorini, Greece   	  	unk   	NA8  
+Endeavor    	6/20/2006    	Herkalion, Greece   	  	transit   	NA8  
+Endeavor    	7/15/2006    	Narragansett, RI   	N W Atlantic   	unk   	NA6  
+Endeavor    	7/20/2006    	Norfolk, VA   	N W Atlantic   	unk   	NA6  
+Endeavor    	7/31/2006    	Narragansett, RI   	  	unk   	NA6  
+Endeavor    	8/3/2006    	Woods Hole, MA   	  	unk   	NA6  
+Endeavor    	8/24/2006    	Woods Hole, MA   	  	unk   	NA6  
+Endeavor    	9/14/2006    	Narragansett, RI   	  	unk   	NA6  
+Endeavor    	9/19/2006    	Woods Hole, MA   	  	unk   	NA6  
+Endeavor    	10/11/2006    	Woods Hole, MA   	  	unk   	NA6  
+Endeavor    	10/12/2006    	Narragansett, RI   	  	unk   	 
+Endeavor    	1/10/2007    	Narragansett RI USA   	N J Shelf   	  	NA6,
+Endeavor    	1/10/2007    	Narragansett   	N W Atlantic   	unk   	NA6  
+Endeavor    	1/24/2007    	Narragansett   	  	transit   	NA6  
+Endeavor    	1/24/2007    	Narragansett RI USA   	Transit   	  	 
+Endeavor    	1/30/2007    	Charleston, SC   	  	geo   	NA6  
+Endeavor    	1/30/2007    	Charleston SC USA   	  	  	NA6, NA6  
+Endeavor    	2/4/2007    	Charleston SC USA   	Transit   	  	 
+Endeavor    	2/5/2007    	Charleston, SC   	  	transit   	NA6  
+Endeavor    	2/18/2007    	Narragansett   	N W Atlantic   	unk   	NA6  
+Endeavor    	2/18/2007    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	3/12/2007    	Narragansett   	  	unk   	NA6  
+Endeavor    	3/12/2007    	Narragansett RI USA   	  	  	 
+Endeavor    	3/21/2007    	Narragansett   	  	bio   	NA6  
+Endeavor    	3/21/2007    	Narragansett RI USA   	  	  	 
+Endeavor    	4/2/2007    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	4/2/2007    	Narragansett   	N W Atlantic   	unk   	NA6  
+Endeavor    	4/18/2007    	Narragansett   	  	transit   	NA6  
+Endeavor    	4/18/2007    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	4/23/2007    	Morehead City, NC   	  	unk   	NA6  
+Endeavor    	4/23/2007    	Morehead City NC USA   	  	  	NA6, NA6  
+Endeavor    	5/1/2007    	Morehead City NC USA   	  	  	NA6, NA6  
+Endeavor    	5/1/2007    	Morehead City, NC   	  	transit   	NA6  
+Endeavor    	5/4/2007    	Charleston SC USA   	  	  	NA6, NA6  
+Endeavor    	5/4/2007    	Charleston, SC   	  	geo   	NA6  
+Endeavor    	5/10/2007    	Charleston SC USA   	  	  	 
+Endeavor    	5/10/2007    	Charleston, SC   	  	transit   	NA6  
+Endeavor    	5/17/2007    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	5/17/2007    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	5/17/2007    	Narragansett   	N W Atlantic   	unk   	NA6  
+Endeavor    	6/13/2007    	Narragansett   	  	port   	NA6  
+Endeavor    	6/13/2007    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	6/21/2007    	Narragansett   	N W Atlantic   	unk   	NA6  
+Endeavor    	6/21/2007    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	6/21/2007    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	7/18/2007    	Narragansett RI USA   	  	  	 
+Endeavor    	9/5/2007    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	10/1/2007    	Narragansett   	N W Atlantic   	unk   	NA6  
+Endeavor    	10/1/2007    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	10/15/2007    	Narragansett   	  	unk   	NA6  
+Endeavor    	10/20/2007    	Narragansett   	  	unk   	NA6  
+Endeavor    	10/22/2007    	Narragansett   	  	unk   	NA6  
+Endeavor    	10/26/2007    	Narragansett RI USA   	  	  	 
+Endeavor    	1/7/2008    	Narragansett RI USA   	  	  	NA6, NA9  
+Endeavor    	3/28/2008    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	5/2/2008    	Narragansett RI USA   	  	  	NA6, AR9  
+Endeavor    	5/27/2008    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	6/4/2008    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	6/27/2008    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	7/8/2008    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	7/15/2008    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	7/28/2008    	St. John's Canada   	  	  	 
+Endeavor    	7/30/2008    	St. John's Canada   	  	  	 
+Endeavor    	8/7/2008    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	8/17/2008    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	9/3/2008    	Narragansett RI USA   	  	  	 
+Endeavor    	9/15/2008    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	9/18/2008    	Woods Hole MA USA   	  	  	NA6, NA6  
+Endeavor    	9/30/2008    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	10/14/2008    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	12/4/2008    	  	  	  	 
+Endeavor    	3/4/2009    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	3/16/2009    	Narragansett RI USA   	  	  	NA6, NA9  
+Endeavor    	3/24/2009    	Panama City FL USA   	NA09   	  	NA9, NA9  
+Endeavor    	4/6/2009    	Panama City FL USA   	NA09   	  	 
+Endeavor    	4/6/2009    	Panama City FL USA   	NA09   	  	 
+Endeavor    	4/13/2009    	Port Everglades FL USA   	  	  	 
+Endeavor    	4/19/2009    	Port Everglades FL USA   	NA09   	  	NA9, NA9  
+Endeavor    	5/6/2009    	Port Everglades FL USA   	SA1   	  	NA9, SA1  
+Endeavor    	5/22/2009    	Fortaleza Brazil   	SA1   	  	SA1, SA2  
+Endeavor    	6/30/2009    	Walvisbaai Namibia   	NA10   	  	SA2, NA6  
+Endeavor    	8/12/2009    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	8/31/2009    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	9/14/2009    	Narragansett RI USA   	  	  	 
+Endeavor    	9/17/2009    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	9/28/2009    	Narragansett RI USA   	NE Shelf&Slope   	 
+Endeavor    	10/19/2009    	Narragansett RI USA   	NA10   	  	NA6, NA6  
+Endeavor    	11/10/2009    	Narragansett RI USA   	NA06   	  	NA6, NA6  
+Endeavor    	11/10/2009    	  	  	  	 
+Endeavor    	1/1/2010    	Narragansett RI USA   	  	  	 
+Endeavor    	2/17/2010    	Narragansett RI USA   	  	  	 
+Endeavor    	2/24/2010    	Port Everglades FL USA   	  	  	 
+Endeavor    	3/16/2010    	Port Everglades FL USA   	  	  	 
+Endeavor    	5/15/2010    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	5/26/2010    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	6/8/2010    	Narragansett RI USA   	  	  	NA6, NA9  
+Endeavor    	6/17/2010    	St. Petersburg FL USA   	  	  	NA9, NA9  
+Endeavor    	7/4/2010    	St. Petersburg FL USA   	  	  	NA9, NA9  
+Endeavor    	7/13/2010    	Bridgetown Barbados   	  	  	NA9, SA1  
+Endeavor    	7/25/2010    	Bridgetown Barbados   	  	  	SA1, NA10  
+Endeavor    	8/21/2010    	Dakar Senegal   	  	  	NA10, NA6  
+Endeavor    	9/8/2010    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	9/22/2010    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	10/5/2010    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	10/13/2010    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	10/27/2010    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	11/9/2010    	Narragansett RI USA   	  	  	NA6, NA6  
+Endeavor    	1/1/2011    	  	  	  	 
+Endeavor    	3/21/2011    	Narragansett RI USA   	  	  	 
+Endeavor    	4/4/2011    	Narragansett RI USA   	  	  	 
+Endeavor    	4/17/2011    	Narragansett RI USA   	  	  	 
+Endeavor    	4/22/2011    	St. John's Canada   	  	  	 
+Endeavor    	5/24/2011    	St. John's Canada   	  	  	 
+Endeavor    	5/30/2011    	Morehead City NC USA   	  	  	 
+Endeavor    	5/30/2011    	Morehead City NC USA   	  	  	 
+Endeavor    	6/23/2011    	Morehead City NC USA   	  	  	 
+Endeavor    	6/30/2011    	Gulfport MS USA   	  	  	 
+Endeavor    	7/29/2011    	Gulfport MS USA   	  	  	 
+Endeavor    	8/21/2011    	Gulfport MS USA   	  	  	 
+Endeavor    	9/18/2011    	Narragansett RI USA   	  	  	 
+Endeavor    	10/11/2011    	Narragansett RI USA   	  	  	 
+Endeavor    	10/24/2011    	Narragansett RI USA   	  	  	 
+Endeavor    	1/1/2012    	  	  	  	 
+Endeavor    	2/6/2012    	Narragansett RI USA   	  	  	 
+Endeavor    	2/22/2012    	Narragansett RI USA   	  	  	 
+Endeavor    	3/28/2012    	Narragansett RI USA   	  	  	 
+Endeavor    	3/30/2012    	Narragansett RI USA   	  	  	 
+Endeavor    	4/4/2012    	Narragansett RI USA   	  	  	 
+Endeavor    	4/12/2012    	Gulfport MS USA   	  	  	 
+Endeavor    	4/12/2012    	Gulfport MS USA   	  	  	 
+Endeavor    	4/26/2012    	Gulfport MS USA   	  	  	 
+Endeavor    	4/29/2012    	Key West FL USA   	  	  	 
+Endeavor    	4/29/2012    	Key West FL USA   	  	  	 
+Endeavor    	5/8/2012    	Key West FL USA   	  	  	 
+Endeavor    	5/11/2012    	Gulfport MS USA   	  	  	 
+Endeavor    	5/23/2012    	Gulfport MS USA   	  	  	 
+Endeavor    	6/22/2012    	Gulfport MS USA   	  	  	 
+Endeavor    	7/7/2012    	Gulfport MS USA   	  	  	 
+Endeavor    	7/13/2012    	Morehead City NC USA   	  	  	 
+Endeavor    	8/13/2012    	Narragansett RI USA   	  	  	 
+Endeavor    	8/29/2012    	Morehead City NC USA   	  	  	 
+Endeavor    	8/29/2012    	Morehead City NC USA   	  	  	 
+Endeavor    	9/4/2012    	Gulfport MS USA   	  	  	 
+Endeavor    	9/4/2012    	Gulfport MS USA   	  	  	 
+Endeavor    	9/18/2012    	Gulfport MS USA   	  	  	 
+Endeavor    	9/22/2012    	Port Everglades FL USA   	  	  	 
+Endeavor    	10/12/2012    	Port Everglades FL USA   	  	  	 
+Endeavor    	10/22/2012    	Narragansett RI USA   	  	  	 
+Endeavor    	11/5/2012    	Narragansett RI USA   	  	  	 
+Endeavor    	11/22/2012    	Narragansett RI USA   	  	  	 
+Endeavor    	1/1/2013    	Quonset Point RI USA   	  	  	NA06  
+Endeavor    	3/15/2013    	Narragansett RI USA   	NA10   	  	NA10  
+Endeavor    	3/15/2013    	Narragansett RI USA   	NA10   	  	NA10  
+Endeavor    	4/24/2013    	Quonset Point RI USA   	  	  	 
+Endeavor    	4/24/2013    	Quonset Point RI USA   	  	  	 
+Endeavor    	5/17/2013    	Quonset Point RI USA   	  	  	 
+Endeavor    	5/19/2013    	Narragansett RI USA   	Mud Patch   	  	NA06  
+Endeavor    	5/26/2013    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	6/10/2013    	Narragansett RI USA   	  	  	 
+Endeavor    	6/10/2013    	Narragansett RI USA   	  	  	 
+Endeavor    	6/10/2013    	Narragansett RI USA   	  	  	 
+Endeavor    	6/19/2013    	Gulfport MS USA   	  	  	 
+Endeavor    	7/4/2013    	Gulfport MS USA   	  	  	 
+Endeavor    	7/7/2013    	Gulfport MS USA   	  	  	 
+Endeavor    	7/7/2013    	Gulfport MS USA   	  	  	 
+Endeavor    	7/26/2013    	Gulfport MS USA   	  	  	 
+Endeavor    	7/26/2013    	Gulfport MS USA   	  	  	 
+Endeavor    	7/31/2013    	Palm Beach FL USA   	  	  	 
+Endeavor    	7/31/2013    	Palm Beach FL USA   	  	  	 
+Endeavor    	8/15/2013    	Morehead City NC USA   	  	  	 
+Endeavor    	8/20/2013    	  	  	  	 
+Endeavor    	8/22/2013    	Morehead City NC USA   	  	  	NA06  
+Endeavor    	9/19/2013    	Ponta Delgada Azores (Acores) Portugal  
+Endeavor    	9/19/2013    	Ponta Delgada Azores (Acores) Portugal  
+Endeavor    	10/14/2013    	Woods Hole MA USA   	  	  	 
+Endeavor    	10/14/2013    	Woods Hole MA USA   	  	  	 
+Endeavor    	10/22/2013    	Narragansett RI USA   	  	  	 
+Endeavor    	10/22/2013    	Narragansett RI USA   	  	  	 
+Endeavor    	11/4/2013    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	11/13/2013    	Quonset Point RI USA   	  	  	 
+Endeavor    	11/25/2013    	  	  	  	 
+Endeavor    	12/18/2013    	Quonset Point RI USA   	  	  	NA06  
+Endeavor    	3/14/2014    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	4/1/2014    	Quonset Point RI USA   	  	  	NA06  
+Endeavor    	4/1/2014    	Quonset Point RI USA   	  	  	NA06  
+Endeavor    	4/29/2014    	Narragansett RI USA   	  	  	 
+Endeavor    	5/24/2014    	Reykjavik Iceland   	  	  	 
+Endeavor    	5/26/2014    	Reykjavik Iceland   	  	  	 
+Endeavor    	6/4/2014    	Reykjavik Iceland   	  	  	 
+Endeavor    	6/23/2014    	Narragansett RI USA   	  	  	 
+Endeavor    	7/8/2014    	Narragansett RI USA   	Nantucket canyo   	 
+Endeavor    	7/18/2014    	Narragansett RI USA   	west atlantic   	 
+Endeavor    	8/13/2014    	Narragansett RI USA   	  	  	 
+Endeavor    	8/13/2014    	Narragansett RI USA   	  	  	 
+Endeavor    	8/21/2014    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	8/23/2014    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	8/23/2014    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	9/12/2014    	Quonset Point RI USA   	Mid-Atlantic US  
+Endeavor    	9/12/2014    	Quonset Point RI USA   	Mid-Atlantic US  
+Endeavor    	10/31/2014    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	10/31/2014    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	11/7/2014    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	11/23/2014    	  	  	  	NA06  
+Endeavor    	12/5/2014    	Narragansett RI USA   	  	  	 
+Endeavor    	12/23/2014    	Bridgetown Barbados   	  	  	NA06  
+Endeavor    	12/29/2014    	Bridgetown Barbados   	Mid Atlantic   	 
+Endeavor    	12/29/2014    	Bridgetown Barbados   	  	  	NA09  
+Endeavor    	1/19/2015    	Praia Sao Tiago Cape Verde Islands   	Mid
+Endeavor    	2/14/2015    	San Juan Puerto Rico   	Bahamas   	  	NA09  
+Endeavor    	3/1/2015    	Port Everglades FL USA   	  	  	NA09  
+Endeavor    	3/1/2015    	Port Everglades FL USA   	  	  	NA09  
+Endeavor    	3/19/2015    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	3/19/2015    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	3/27/2015    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	3/27/2015    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	4/14/2015    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	4/27/2015    	Narragansett RI USA   	S/SE Woods Hole   	 
+Endeavor    	5/12/2015    	Quonset Point RI USA   	  	  	NA06  
+Endeavor    	5/22/2015    	Morehead City NC USA   	  	  	NA06  
+Endeavor    	5/29/2015    	Gulfport MS USA   	  	  	NA09  
+Endeavor    	6/23/2015    	Gulfport MS USA   	  	  	NA09  
+Endeavor    	6/28/2015    	Gulfport MS USA   	  	  	NA09  
+Endeavor    	7/6/2015    	Narragansett RI USA   	Iceland   	  	NA06  
+Endeavor    	7/19/2015    	Reykjavik Iceland   	Iceland   	  	NA01  
+Endeavor    	8/3/2015    	Reykjavik Iceland   	  	  	NA01  
+Endeavor    	8/16/2015    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	8/23/2015    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	9/2/2015    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	9/9/2015    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	9/13/2015    	Norfolk VA USA   	  	  	NA06  
+Endeavor    	9/27/2015    	Norfolk VA USA   	  	  	NA06  
+Endeavor    	10/3/2015    	Port Everglades FL USA   	Florida   	  	NA09  
+Endeavor    	10/21/2015    	Port Everglades FL USA   	Rhode Island  
+Endeavor    	10/21/2015    	Port Everglades FL USA   	Rhode Island  
+Endeavor    	11/3/2015    	Narragansett RI USA   	  	  	NA06  
+Endeavor    	11/3/2015    	Narragansett RI USA   	  	  	NA06  
+Ka'imimoana    	1/17/1997    	Pearl Harbor   	N E Pacific   	transit   	 
+Ka'imimoana    	2/3/1997    	Manzanillo   	N E Pacific   	phys oc   	 
+Ka'imimoana    	3/10/1997    	San Diego   	N E Pacific   	phys oc   	 
+Ka'imimoana    	4/17/1997    	Pearl Harbor   	S W Pacific   	phys oc   	 
+Ka'imimoana    	5/20/1997    	Kwajalein   	S W Pacific   	phys oc   	 
+Ka'imimoana    	6/24/1997    	Pearl Harbor   	N E Pacific   	transit   	 
+Ka'imimoana    	7/10/1997    	Manzanillo   	N E Pacific   	phys oc   	 
+Ka'imimoana    	9/15/1997    	San Diego   	N E Pacific   	phys oc   	 
+Ka'Imimoana    	10/1/1997    	At Sea   	  	  	 
+Ka'Imimoana    	11/6/1997    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	1/19/1998    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	2/5/1998    	San Diego, CA   	  	  	 
+Ka'Imimoana    	4/18/1998    	San Diego, CA   	  	  	 
+Ka'Imimoana    	6/2/1998    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	7/7/1998    	Kwajalein, RMI   	  	  	 
+Ka'Imimoana    	8/21/1998    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	9/5/1998    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	10/1/1998    	Underway   	  	  	 
+Ka'Imimoana    	10/19/1998    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	11/18/1998    	Suva, Fiji   	  	  	 
+Ka'Imimoana    	1/22/1999    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	4/30/1999    	San Diego, CA   	  	  	 
+Ka'Imimoana    	6/10/1999    	San Diego, CA   	  	  	 
+Ka'Imimoana    	6/30/1999    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	8/4/1999    	Kwajalein, RMI   	  	  	 
+Ka'Imimoana    	9/9/1999    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	10/1/1999    	Underway   	  	  	 
+Ka'Imimoana    	10/20/1999    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	11/20/1999    	Suva, Fiji   	  	  	 
+Ka'Imimoana    	1/10/2000    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	2/1/2000    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	4/11/2000    	San Diego, CA   	  	  	 
+Ka'Imimoana    	5/25/2000    	San Diego, CA   	  	  	 
+Ka'Imimoana    	6/15/2000    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	7/17/2000    	Kwajalein, RMI   	  	  	 
+Ka'Imimoana    	8/30/2000    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	10/14/2000    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	11/16/2000    	Kwajalein, RMI   	  	  	 
+Ka'Imimoana    	1/8/2001    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	1/14/2001    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	3/28/2001    	San Diego, CA   	  	  	 
+Ka'Imimoana    	5/10/2001    	San Diego, CA   	  	  	 
+Ka'Imimoana    	5/29/2001    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	7/2/2001    	Kwajalein, RMI   	  	  	 
+Ka'Imimoana    	8/13/2001    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	9/4/2001    	NuKu Hiva, Marquesas   	  	  	 
+Ka'Imimoana    	9/27/2001    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	10/1/2001    	Underway   	  	  	 
+Ka'Imimoana    	10/1/2001    	Underway   	  	  	 
+Ka'Imimoana    	10/30/2001    	Kwajalein, RMI   	  	  	 
+Ka'Imimoana    	10/30/2001    	Kwajalein, RMI   	  	  	 
+Ka'Imimoana    	12/7/2001    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	12/7/2001    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	2/19/2002    	Seattle, WA   	  	  	 
+Ka'Imimoana    	2/21/2002    	Seattle, WA   	  	  	 
+Ka'Imimoana    	3/1/2002    	San Diego, CA   	  	  	 
+Ka'Imimoana    	4/8/2002    	Manzanillo, Mexico   	  	  	 
+Ka'Imimoana    	5/1/2002    	Nuku Hiva   	  	  	 
+Ka'Imimoana    	5/29/2002    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	7/4/2002    	Kwajalein, RMI   	  	  	 
+Ka'Imimoana    	8/16/2002    	Pearl Harbor, HI   	  	  	 
+Ka'Imimoana    	9/6/2002    	Nuku Hiva   	  	  	 
+Kilo Moana    	1/1/2002    	Jacksonville   	N W Atlantic   	unk   	NA6  
+Kilo Moana    	6/25/2002    	Jacksonville   	N W Atlantic   	unk   	NA6  
+Kilo Moana    	7/25/2002    	Jacksonville   	N W Atlantic   	unk   	NA9  
+Kilo Moana    	8/12/2002    	Colon   	N W Atlantic   	transit   	NA9  
+Kilo Moana    	8/14/2002    	Balboa   	N Pacific   	unk   	NP11,NP12,  
+Kilo Moana    	9/11/2002    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	9/12/2002    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	9/18/2002    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	9/22/2002    	Honolulu   	N W Pacific   	unk   	NP10,NP11,  
+Kilo Moana    	10/22/2002    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	11/18/2002    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	12/3/2002    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	12/11/2002    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	12/12/2002    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	12/17/2002    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	1/9/2003    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	1/10/2003    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	3/8/2003    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	3/15/2003    	Honolulu   	N Pacific   	educ   	NP11  
+Kilo Moana    	3/19/2003    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	3/22/2003    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	3/27/2003    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	4/1/2003    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	4/7/2003    	Honolulu   	N E Pacific   	transit   	NP6  
+Kilo Moana    	4/17/2003    	Kodiak   	N E Pacific   	unk   	NP6  
+Kilo Moana    	5/20/2003    	Kodiak   	N E Pacific   	unk   	NP6  
+Kilo Moana    	6/12/2003    	Seattle   	N E Pacific   	repairs   	NP9  
+Kilo Moana    	6/18/2003    	Seattle   	N E Pacific   	unk   	NP6  
+Kilo Moana    	8/6/2003    	Dutch Harbor   	N E Pacific   	unk   	NP6  
+Kilo Moana    	9/9/2003    	Dutch Harbor   	N E Pacific   	transit   	NP6  
+Kilo Moana    	9/11/2003    	Kodiak   	N E Pacific   	unk   	NP6  
+Kilo Moana    	9/30/2003    	Kodiak   	N E Pacific   	transit   	NP6  
+Kilo Moana    	10/13/2003    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	10/18/2003    	Honolulu   	N Pacific   	educ   	NP11  
+Kilo Moana    	10/26/2003    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	11/3/2003    	Honolulu   	N E Pacific   	educ   	NP12  
+Kilo Moana    	11/8/2003    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	11/15/2003    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	11/21/2003    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	12/8/2003    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	12/18/2003    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	1/7/2004    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	1/14/2004    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	2/14/2004    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	2/19/2004    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	2/24/2004    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	3/5/2004    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	3/16/2004    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	3/18/2004    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	3/24/2004    	Honolulu   	S W Pacific   	transit   	SP1  
+Kilo Moana    	4/6/2004    	Suva, Fiji   	S W Pacific   	unk   	SP1  
+Kilo Moana    	5/12/2004    	Suva,Fiji   	S W Pacific   	transit   	SP4  
+Kilo Moana    	5/20/2004    	Wellington   	S W Pacific   	geo   	SP4  
+Kilo Moana    	6/4/2004    	Wellington   	S W Pacific   	transit   	SP1  
+Kilo Moana    	6/20/2004    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	7/15/2004    	Honolulu   	N W Pacific   	unk   	NP7  
+Kilo Moana    	8/28/2004    	Honolulu   	Indian   	transit   	IN5  
+Kilo Moana    	9/9/2004    	Suva,Fiji   	S W Pacific   	unk   	SP1  
+Kilo Moana    	10/18/2004    	Suva, Fiji   	Indian   	unk   	IN5  
+Kilo Moana    	10/21/2004    	Suva, Fiji   	S W Pacific   	transit   	SP1  
+Kilo Moana    	11/11/2004    	Lae, PNG   	Indian   	unk   	IN5  
+Kilo Moana    	12/19/2004    	Lae, PNG   	S W Pacific   	transit   	SP1  
+Kilo Moana    	1/1/2005    	Auckland, NZ   	S W Pacific   	repairs   	SP4  
+Kilo Moana    	1/7/2005    	Wellington   	S W Pacific   	unk   	SP4  
+Kilo Moana    	2/4/2005    	Wellington   	S W Pacific   	geo   	SP4  
+Kilo Moana    	2/17/2005    	Wellington,NZ   	S W Pacific   	unk   	SP4  
+Kilo Moana    	3/24/2005    	Brisbane,Au.   	S W Pacific   	transit  
+Kilo Moana    	4/4/2005    	Pago Pago   	S W Pacific   	phys oc   	SP1  
+Kilo Moana    	4/29/2005    	Pago Pago   	S Pacific   	transit   	SP2  
+Kilo Moana    	5/16/2005    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	5/21/2005    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	5/24/2005    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	5/28/2005    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	6/2/2005    	Honolulu   	N E Pacific   	bio   	NP12  
+Kilo Moana    	6/13/2005    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	6/24/2005    	Honolulu   	N E Pacific   	unk   	NP6  
+Kilo Moana    	9/8/2005    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	9/15/2005    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	10/6/2005    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	10/15/2005    	Honolulu   	N E Pacific   	educ   	NP12  
+Kilo Moana    	11/7/2005    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	11/10/2005    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	11/14/2005    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	1/23/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	1/28/2006    	Honolulu   	N E Pacific   	educ   	NP12  
+Kilo Moana    	2/6/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	2/8/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	2/13/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	2/18/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	3/5/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	3/8/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	3/20/2006    	Honolulu   	N E Pacific   	repairs   	NP12  
+Kilo Moana    	3/22/2006    	Honolulu   	N E Pacific   	educ   	NP12  
+Kilo Moana    	3/31/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	4/12/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	5/14/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	5/25/2006    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Kilo Moana    	6/1/2006    	Honolulu   	N E Pacific   	educ   	NP12  
+Kilo Moana    	6/7/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	6/12/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	6/17/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	7/5/2006    	Honolulu   	N E Pacific   	educ   	NP12  
+Kilo Moana    	7/11/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	7/16/2006    	Honolulu   	N E Pacific   	educ   	NP12  
+Kilo Moana    	7/25/2006    	Honolulu   	N Pacific   	unk   	NP11  
+Kilo Moana    	8/7/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	8/15/2006    	Honolulu   	S W Pacific   	phys oc   	SP1  
+Kilo Moana    	8/18/2006    	Honolulu   	S W Pacific   	phys oc   	SP1  
+Kilo Moana    	10/5/2006    	Rabaul   	S W Pacific   	transit   	SP1  
+Kilo Moana    	10/18/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	10/30/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	11/4/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	11/7/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	11/16/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	11/27/2006    	Honolulu   	N E Pacific   	educ   	NP12  
+Kilo Moana    	12/1/2006    	At Sea   	N E Pacific   	unk   	NP12  
+Kilo Moana    	12/8/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	12/13/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	12/16/2006    	Honolulu   	N E Pacific   	educ   	NP12  
+Kilo Moana    	12/20/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	1/3/2007    	Honolulu   	S W Pacific   	unk   	SP1  
+Kilo Moana    	2/13/2007    	Brisbane,Au.   	S W Pacific   	unk   	SP1  
+Kilo Moana    	3/11/2007    	Brisbane,Au.   	S W Pacific   	transit  
+Kilo Moana    	3/14/2007    	Townsville,Au.   	S W Pacific   	open   	SP4  
+Kilo Moana    	4/19/2007    	Suva, Fiji   	S W Pacific   	transit   	SP4  
+Kilo Moana    	5/3/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	5/11/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	6/8/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	6/12/2007    	Honolulu   	N E Pacific   	repairs   	NP12  
+Kilo Moana    	6/24/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	7/6/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	7/10/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	7/23/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	7/29/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	8/2/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	8/9/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	8/23/2007    	Honolulu   	N E Pacific   	chem   	NP12  
+Kilo Moana    	9/1/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	9/10/2007    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Kilo Moana    	10/11/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	10/31/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	11/17/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	11/30/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	12/6/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	12/19/2007    	Honolulu   	N E Pacific   	unk   	NP12  
+Kilo Moana    	1/1/2008    	Honolulu HI USA   	Honolulu   	  	NP12, NP12  
+Kilo Moana    	1/28/2008    	Honolulu HI USA   	  	  	NP12, NP8  
+Kilo Moana    	2/2/2008    	Honolulu HI USA   	Honolulu   	  	NP12, NP12  
+Kilo Moana    	2/22/2008    	Honolulu HI USA   	  	  	NP12, NP8  
+Kilo Moana    	2/27/2008    	Honolulu HI USA   	Honolulu   	  	NP12, NP12  
+Kilo Moana    	3/10/2008    	Honolulu HI USA   	Pacific   	  	NP12, SP1  
+Kilo Moana    	3/10/2008    	Honolulu HI USA   	Pacific   	  	NP12, SP1  
+Kilo Moana    	3/26/2008    	Nuku'alofa Tonga   	Lau Basin   	  	SP1, SP1  
+Kilo Moana    	3/26/2008    	Nuku'alofa Tonga   	Lau Basin   	  	SP1, SP1  
+Kilo Moana    	5/14/2008    	Nuku'alofa Tonga   	Pacific   	  	SP1, NP12  
+Kilo Moana    	5/26/2008    	Honolulu HI USA   	  	  	NP12, NP8  
+Kilo Moana    	5/30/2008    	Honolulu HI USA   	Hawaiian Island   	 
+Kilo Moana    	6/3/2008    	Honolulu HI USA   	  	  	NP12, NP12  
+Kilo Moana    	6/12/2008    	Honolulu HI USA   	  	  	NP12, NP12  
+Kilo Moana    	6/12/2008    	Honolulu HI USA   	  	  	NP12, NP12  
+Kilo Moana    	6/15/2008    	Honolulu HI USA   	  	  	NP12, NP12  
+Kilo Moana    	6/15/2008    	Honolulu HI USA   	  	  	NP12, NP12  
+Kilo Moana    	6/24/2008    	Honolulu HI USA   	  	  	NP12, NP8  
+Kilo Moana    	7/1/2008    	Honolulu HI USA   	  	  	NP8, NP8  
+Kilo Moana    	7/25/2008    	Honolulu HI USA   	  	  	NP12, NP8  
+Kilo Moana    	7/30/2008    	Honolulu HI USA   	  	  	NP12, NP12  
+Kilo Moana    	8/15/2008    	Honolulu HI USA   	  	  	NP12, NP8  
+Kilo Moana    	8/21/2008    	Honolulu HI USA   	Hawaiian Island   	 
+Kilo Moana    	8/25/2008    	Honolulu HI USA   	  	  	NP12, NP12  
+Kilo Moana    	8/28/2008    	  	  	  	NP12, NP9  
+Kilo Moana    	9/8/2008    	Port Hueneme CA USA   	  	  	NP9, NP9  
+Kilo Moana    	9/25/2008    	Port Hueneme CA USA   	  	  	NP9, NP12  
+Kilo Moana    	10/3/2008    	Honolulu HI USA   	Hawaiian Island   	 
+Kilo Moana    	10/9/2008    	Honolulu HI USA   	  	  	NP12, NP8  
+Kilo Moana    	10/15/2008    	Honolulu HI USA   	N.Pacific   	  	NP13,
+Kilo Moana    	11/29/2008    	Honolulu HI USA   	  	  	NP12, NP8  
+Kilo Moana    	12/3/2008    	Honolulu HI USA   	Hawaiian Island   	 
+Kilo Moana    	12/6/2008    	Honolulu HI USA   	Hawaiian Island   	 
+Kilo Moana    	12/11/2008    	Honolulu HI USA   	Hawaiian Island   	 
+Kilo Moana    	12/15/2008    	Honolulu HI USA   	  	  	NP12, NP8  
+Kilo Moana    	12/20/2008    	Honolulu HI USA   	Hawaiian Island   	 
+Kilo Moana    	1/12/2009    	Honolulu HI USA   	Hawaii   	  	NP12, NP12  
+Kilo Moana    	1/19/2009    	Honolulu HI USA   	Hawaiian Island   	 
+Kilo Moana    	1/26/2009    	Honolulu HI USA   	Honolulu   	  	NP12, NP12  
+Kilo Moana    	1/30/2009    	Honolulu HI USA   	Hawaii   	  	NP12, NP12  
+Kilo Moana    	2/4/2009    	Honolulu HI USA   	Hawaii   	  	NP12, NP12  
+Kilo Moana    	2/7/2009    	Honolulu HI USA   	Hawaii   	  	NP12, NP12  
+Kilo Moana    	2/12/2009    	Honolulu HI USA   	Hawaii   	  	NP12, NP12  
+Kilo Moana    	2/16/2009    	Honolulu HI USA   	  	  	NP12, NP8  
+Kilo Moana    	2/27/2009    	Honolulu HI USA   	North Pacific   	 
+Kilo Moana    	3/20/2009    	Kao-hsiung Taiwan   	  	  	IN2, IN2  
+Kilo Moana    	4/14/2009    	Kao-hsiung Taiwan   	Philippine Sea   	 
+Kilo Moana    	5/15/2009    	Kao-hsiung Taiwan   	North Pacific   	 
+Kilo Moana    	5/23/2009    	Apra Harbor Guam   	Marianas trench   	 
+Kilo Moana    	5/23/2009    	Apra Harbor Guam   	Marianas trench   	 
+Kilo Moana    	6/7/2009    	Apra Harbor Guam   	  	  	NP10, NP12  
+Kilo Moana    	6/22/2009    	Honolulu HI USA   	  	  	NP12, NP12  
+Kilo Moana    	6/22/2009    	Honolulu HI USA   	  	  	NP12, NP12  
+Kilo Moana    	7/2/2009    	Honolulu HI USA   	  	  	NP12, NP8  
+Kilo Moana    	7/9/2009    	Honolulu HI USA   	Hawaii   	  	NP12, NP12  
+Kilo Moana    	7/19/2009    	Honolulu HI USA   	Hawaii   	  	NP12, NP12  
+Kilo Moana    	7/23/2009    	Honolulu HI USA   	  	  	NP12, NP8  
+Kilo Moana    	7/29/2009    	Honolulu HI USA   	  	  	NP8, NP8  
+Kilo Moana    	8/17/2009    	Honolulu HI USA   	Hawaiian Isl.   	 
+Kilo Moana    	8/23/2009    	Honolulu HI USA   	Hawaii   	  	NP12, NP12  
+Kilo Moana    	9/18/2009    	Honolulu HI USA   	  	  	NP12, NP12  
+Kilo Moana    	9/22/2009    	Honolulu HI USA   	Honolulu   	  	NP12, NP12  
+Kilo Moana    	10/1/2009    	Honolulu HI USA   	  	  	NP12, NP12  
+Kilo Moana    	10/22/2009    	Honolulu HI USA   	North Pacific   	 
+Kilo Moana    	11/29/2009    	Honolulu HI USA   	Hawaii   	  	NP12, NP12  
+Kilo Moana    	12/2/2009    	Honolulu HI USA   	North Pacific   	 
+Kilo Moana    	12/11/2009    	Portland OR USA   	Portland, OR   	  	NP9,
+Kilo Moana    	1/1/2010    	Portland OR USA   	West Coast   	  	NP9, NP9  
+Kilo Moana    	1/29/2010    	Portland OR USA   	Oregon Coast   	  	NP9,
+Kilo Moana    	2/1/2010    	Coos Bay OR USA   	North Pacific   	  	NP9,
+Kilo Moana    	2/10/2010    	Honolulu HI USA   	Hawaii   	  	NP12, NP12  
+Kilo Moana    	2/20/2010    	Honolulu HI USA   	Hawaii   	  	NP12, NP12  
+Kilo Moana    	2/26/2010    	Honolulu HI USA   	Pacific   	  	NP11, NP10  
+Kilo Moana    	3/16/2010    	Apra Harbor Guam   	Guam   	  	NP10, NP10  
+Kilo Moana    	3/16/2010    	Apra Harbor Guam   	Guam   	  	NP10, NP10  
+Kilo Moana    	4/1/2010    	Apra Harbor Guam   	Guam   	  	NP10, NP10  
+Kilo Moana    	4/3/2010    	Apra Harbor Guam   	Pacific   	  	NP10, SP1  
+Kilo Moana    	4/16/2010    	Suva Harbor Fiji Islands   	Lau basin  
+Kilo Moana    	4/16/2010    	Suva Harbor Fiji Islands   	Lau basin  
+Kilo Moana    	4/26/2010    	Apia Western Samoa   	Western Samoa   	 
+Kilo Moana    	4/28/2010    	Apia Western Samoa   	Lau basin   	  	SP1,
+Kilo Moana    	4/28/2010    	Apia Western Samoa   	Lau basin   	  	SP1,
+Kilo Moana    	5/10/2010    	Apia Western Samoa   	Western Samoa   	 
+Kilo Moana    	5/17/2010    	Pago Pago Harbor American Samoa  
+Kilo Moana    	6/18/2010    	Honolulu HI USA   	Hawaiian Isl.   	 
+Kilo Moana    	6/20/2010    	Honolulu HI USA   	North Pacific   	 
+Kilo Moana    	6/20/2010    	Honolulu HI USA   	North Pacific   	 
+Kilo Moana    	6/29/2010    	Honolulu HI USA   	  	  	NP12, NP12  
+Kilo Moana    	7/7/2010    	Honolulu HI USA   	North Pacific   	  	NP12,
+Kilo Moana    	7/13/2010    	Honolulu HI USA   	ALOHA   	  	NP12, NP12  
+Kilo Moana    	7/27/2010    	Honolulu HI USA   	Hawaii   	  	NP12, NP12  
+Kilo Moana    	8/6/2010    	Honolulu HI USA   	North Pacific   	  	NP12,
+Kilo Moana    	8/11/2010    	Honolulu HI USA   	Hawaiian Isl.   	 
+Kilo Moana    	8/20/2010    	Honolulu HI USA   	offshore Hawaii   	 
+Kilo Moana    	9/2/2010    	Honolulu HI USA   	North Pacific   	  	NP12,
+Kilo Moana    	9/12/2010    	Honolulu HI USA   	Hawaiian Isl.   	 
+Kilo Moana    	9/16/2010    	Honolulu HI USA   	Lo`ihi seamount   	 
+Kilo Moana    	9/29/2010    	Honolulu HI USA   	Hawaiian Isl.   	 
+Kilo Moana    	10/2/2010    	Honolulu HI USA   	North Pacific   	 
+Kilo Moana    	10/9/2010    	Honolulu HI USA   	  	  	NP12, NP12  
+Kilo Moana    	10/17/2010    	Honolulu HI USA   	Pacific   	  	NP12, NP10  
+Kilo Moana    	11/11/2010    	Apra Harbor Guam   	Pacific   	  	NP10, SP1  
+Kilo Moana    	11/24/2010    	Suva Harbor Fiji Islands   	Lau Basin
+Kilo Moana    	12/10/2010    	Nuku'alofa Tonga   	Pacific   	  	SP1, NP12  
+Kilo Moana    	12/10/2010    	Nuku'alofa Tonga   	Pacific   	  	SP1, NP12  
+Kilo Moana    	12/10/2010    	Nuku'alofa Tonga   	Pacific   	  	SP1, NP12  
+Kilo Moana    	12/10/2010    	Nuku'alofa Tonga   	Pacific   	  	SP1, NP12  
+Kilo Moana    	12/28/2010    	Honolulu HI USA   	Hawaiian Isl.   	 
+Kilo Moana    	1/7/2011    	Honolulu HI USA   	North Pacific   	  	 
+Kilo Moana    	1/13/2011    	Honolulu HI USA   	Line Islands   	  	 
+Kilo Moana    	1/26/2011    	Honolulu HI USA   	North Pacific   	  	 
+Kilo Moana    	2/1/2011    	Honolulu HI USA   	Hawaiian Isl.   	  	 
+Kilo Moana    	2/13/2011    	Honolulu HI USA   	Hawaiian Isl.   	  	 
+Kilo Moana    	2/19/2011    	Honolulu HI USA   	Hawaiian Isl.   	  	 
+Kilo Moana    	2/23/2011    	Honolulu HI USA   	Hawaiian Isl.   	  	 
+Kilo Moana    	2/26/2011    	Honolulu HI USA   	North Pacific   	  	 
+Kilo Moana    	3/4/2011    	Honolulu HI USA   	Hawaiian Isl.   	  	 
+Kilo Moana    	3/11/2011    	Honolulu HI USA   	offshore Hawaii   	  	 
+Kilo Moana    	3/24/2011    	Honolulu HI USA   	Hawaiian Isl.   	  	 
+Kilo Moana    	4/1/2011    	Honolulu HI USA   	Station ALOHA   	  	 
+Kilo Moana    	4/9/2011    	Honolulu HI USA   	North Pacific   	  	 
+Kilo Moana    	4/15/2011    	Honolulu HI USA   	Hawaiian Isl.   	  	 
+Kilo Moana    	4/25/2011    	Honolulu HI USA   	Line Islands   	  	 
+Kilo Moana    	5/16/2011    	Honolulu HI USA   	Station ALOHA   	  	 
+Kilo Moana    	5/16/2011    	Honolulu HI USA   	Station ALOHA   	  	 
+Kilo Moana    	6/9/2011    	Honolulu HI USA   	Hawaiian Isl.   	  	 
+Kilo Moana    	6/11/2011    	Honolulu HI USA   	Hawaiian Isl.   	  	 
+Kilo Moana    	6/23/2011    	Honolulu HI USA   	PMRF   	  	 
+Kilo Moana    	7/17/2011    	Honolulu HI USA   	North Pacific   	  	 
+Kilo Moana    	7/23/2011    	Honolulu HI USA   	Lo`ihi seamount   	  	 
+Kilo Moana    	7/30/2011    	Honolulu HI USA   	Hawaiian Isl.   	  	 
+Kilo Moana    	7/30/2011    	Honolulu HI USA   	Hawaiian Isl.   	  	 
+Kilo Moana    	8/10/2011    	Honolulu HI USA   	Hawaiian Isl.   	  	 
+Kilo Moana    	8/18/2011    	Honolulu HI USA   	North Pacific   	  	 
+Kilo Moana    	8/28/2011    	Honolulu HI USA   	North Pacific   	  	 
+Kilo Moana    	9/1/2011    	Honolulu HI USA   	Hawaiian Isl.   	  	 
+Kilo Moana    	9/5/2011    	Honolulu HI USA   	north of Hawaii   	  	 
+Kilo Moana    	9/23/2011    	Honolulu HI USA   	North Pacific   	  	 
+Kilo Moana    	9/29/2011    	Honolulu HI USA   	South Pacific   	  	 
+Kilo Moana    	10/26/2011    	Apia Western Samoa   	Samoan Passage   	  	 
+Kilo Moana    	10/26/2011    	Apia Western Samoa   	Samoan Passage   	  	 
+Kilo Moana    	11/6/2011    	Apia Western Samoa   	Lau Basin   	  	 
+Kilo Moana    	12/6/2011    	Apia Western Samoa   	N-S Pacific   	  	 
+Kilo Moana    	12/6/2011    	Apia Western Samoa   	N-S Pacific   	  	 
+Kilo Moana    	12/6/2011    	Apia Western Samoa   	N-S Pacific   	  	 
+Kilo Moana    	12/17/2011    	Honolulu HI USA   	North Pacific   	  	 
+Kilo Moana    	1/1/2012    	Honolulu HI USA   	Station ALOHA   	  	 
+Kilo Moana    	1/3/2012    	Honolulu HI USA   	Station ALOHA   	  	 
+Kilo Moana    	1/3/2012    	Honolulu HI USA   	Station ALOHA   	  	 
+Kilo Moana    	1/25/2012    	Honolulu HI USA   	  	  	 
+Kilo Moana    	2/4/2012    	Portland OR USA   	  	  	 
+Kilo Moana    	3/3/2012    	Portland OR USA   	  	  	 
+Kilo Moana    	3/13/2012    	Honolulu HI USA   	NP12   	  	 
+Kilo Moana    	3/18/2012    	Honolulu HI USA   	Station ALOHA   	  	 
+Kilo Moana    	3/24/2012    	Honolulu HI USA   	  	  	 
+Kilo Moana    	4/6/2012    	Pohnepi Harbor Caroline Islands
+Kilo Moana    	5/1/2012    	Pohnepi Harbor Caroline Islands
+Kilo Moana    	5/14/2012    	Honolulu HI USA   	Station ALOHA   	  	 
+Kilo Moana    	5/20/2012    	Honolulu HI USA   	north of Hawaii   	  	 
+Kilo Moana    	5/27/2012    	Honolulu HI USA   	Offshore Hawaii   	  	 
+Kilo Moana    	6/11/2012    	Honolulu HI USA   	north of Hawaii   	  	 
+Kilo Moana    	6/22/2012    	Honolulu HI USA   	North Pacific   	  	 
+Kilo Moana    	6/28/2012    	Honolulu HI USA   	Station ALOHA   	  	 
+Kilo Moana    	7/7/2012    	Honolulu HI USA   	north of Hawaii   	  	 
+Kilo Moana    	7/29/2012    	Honolulu HI USA   	  	  	 
+Kilo Moana    	8/7/2012    	Honolulu HI USA   	north of Hawaii   	  	 
+Kilo Moana    	8/19/2012    	Honolulu HI USA   	North Pacific   	  	 
+Kilo Moana    	8/25/2012    	Honolulu HI USA   	north of Hawaii   	  	 
+Kilo Moana    	9/21/2012    	Honolulu HI USA   	North Pacific   	  	 
+Kilo Moana    	9/27/2012    	Honolulu HI USA   	north of Hawaii   	  	 
+Kilo Moana    	10/2/2012    	Honolulu HI USA   	Hawaiian Isl.   	  	 
+Kilo Moana    	10/18/2012    	Honolulu HI USA   	North Pacific   	  	 
+Kilo Moana    	10/25/2012    	Honolulu HI USA   	North Pacific   	  	 
+Kilo Moana    	11/5/2012    	Pohnepi Harbor Caroline Islands
+Kilo Moana    	12/1/2012    	Pohnepi Harbor Caroline Islands
+Kilo Moana    	12/16/2012    	Honolulu HI USA   	NP12   	  	 
+Kilo Moana    	1/10/2013    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	2/11/2013    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	2/15/2013    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	2/22/2013    	Honolulu HI USA   	Musician Seamts   	 
+Kilo Moana    	3/1/2013    	Honolulu HI USA   	Coastal Oahu   	  	NP12  
+Kilo Moana    	3/5/2013    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	3/11/2013    	Honolulu HI USA   	NP-12   	  	NP12  
+Kilo Moana    	3/16/2013    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	4/1/2013    	Honolulu HI USA   	NP-12   	  	NP12  
+Kilo Moana    	5/16/2013    	Honolulu HI USA   	NP12   	  	NP12  
+Kilo Moana    	5/22/2013    	Honolulu HI USA   	NP12   	  	NP12  
+Kilo Moana    	6/6/2013    	  	  	  	 
+Kilo Moana    	6/11/2013    	Honolulu HI USA   	NP-12   	  	NP12  
+Kilo Moana    	6/24/2013    	Honolulu HI USA   	NP-12   	  	NP12  
+Kilo Moana    	7/1/2013    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	7/30/2013    	San Diego CA USA   	  	  	NP09  
+Kilo Moana    	8/7/2013    	Seattle WA USA   	  	  	NP09  
+Kilo Moana    	9/10/2013    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	9/16/2013    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	9/30/2013    	Honolulu HI USA   	NP-12   	  	NP12  
+Kilo Moana    	10/18/2013    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	10/26/2013    	Honolulu HI USA   	NP-12   	  	NP12  
+Kilo Moana    	11/3/2013    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	11/25/2013    	Honolulu HI USA   	NP-12   	  	NP12  
+Kilo Moana    	12/9/2013    	Honolulu HI USA   	Station Aloha   	  	NP12  
+Kilo Moana    	12/19/2013    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	1/6/2014    	Honolulu HI USA   	South of Oahu   	  	NP12  
+Kilo Moana    	1/14/2014    	Honolulu HI USA   	ALOHA   	  	NP12  
+Kilo Moana    	1/22/2014    	Honolulu HI USA   	Oahu Area   	  	NP12  
+Kilo Moana    	1/26/2014    	  	Oahu   	  	NP12  
+Kilo Moana    	1/30/2014    	Honolulu HI USA   	Oahu   	  	NP12  
+Kilo Moana    	2/8/2014    	Honolulu HI USA   	Oahu Area   	  	NP12  
+Kilo Moana    	2/13/2014    	Honolulu HI USA   	ALOHA   	  	NP12  
+Kilo Moana    	2/19/2014    	Honolulu HI USA   	Station ALOHA   	  	NP12  
+Kilo Moana    	3/4/2014    	Honolulu HI USA   	ALOHA   	  	NP12  
+Kilo Moana    	3/11/2014    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	4/9/2014    	Honolulu HI USA   	ALOHA   	  	NP12  
+Kilo Moana    	4/15/2014    	Honolulu HI USA   	ISA Lease Area   	  	NP13  
+Kilo Moana    	6/9/2014    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	6/16/2014    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	6/29/2014    	Honolulu HI USA   	ALOHA   	  	NP12  
+Kilo Moana    	7/7/2014    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	7/7/2014    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	7/19/2014    	Papeete Tahiti French Polynesia  
+Kilo Moana    	8/9/2014    	Papeete Tahiti French Polynesia   	  	  	SP02  
+Kilo Moana    	8/17/2014    	Johnston Atoll US Pacific Islands USA  
+Kilo Moana    	8/29/2014    	Honolulu HI USA   	Station ALOHA   	  	NP12  
+Kilo Moana    	8/29/2014    	Honolulu HI USA   	Station ALOHA   	  	NP12  
+Kilo Moana    	9/13/2014    	Honolulu HI USA   	ALOHA   	  	NP12  
+Kilo Moana    	9/21/2014    	Honolulu HI USA   	ISA Lease Area   	  	NP12  
+Kilo Moana    	10/12/2014    	Honolulu HI USA   	ALOHA   	  	NP12  
+Kilo Moana    	10/17/2014    	Honolulu HI USA   	  	  	NP12  
+Kilo Moana    	10/22/2014    	Honolulu HI USA   	South Oahu   	  	NP12  
+Kilo Moana    	10/29/2014    	Honolulu HI USA   	ALOHA   	  	NP12  
+Kilo Moana    	11/6/2014    	Honolulu HI USA   	ISA Lease Area   	  	NP12  
+Kilo Moana    	11/20/2014    	Honolulu HI USA   	ALOHA   	  	NP12  
+Kilo Moana    	12/3/2014    	Honolulu HI USA   	S. Oahu   	  	NP12  
+Kilo Moana    	12/8/2014    	Honolulu HI USA   	ALOHA   	  	NP12  
+Kilo Moana    	12/15/2014    	Honolulu HI USA   	ALOHA   	  	NP12  
+Kilo Moana    	1/2/2015    	Honolulu HI USA   	  	  	NP09  
+Kilo Moana    	1/12/2015    	Portland OR USA   	Shipyard   	  	NP09  
+Kilo Moana    	3/20/2015    	Portland OR USA   	Trans. Shipyard   	 
+Kilo Moana    	4/6/2015    	Honolulu HI USA   	Station Aloha   	  	NP12  
+Kilo Moana    	4/20/2015    	Honolulu HI USA   	Station Aloha   	  	NP12  
+Kilo Moana    	4/28/2015    	Honolulu HI USA   	South Oahu   	  	NP12  
+Kilo Moana    	5/3/2015    	Honolulu HI USA   	Station Aloha   	  	NP12  
+Kilo Moana    	5/3/2015    	Honolulu HI USA   	Station Aloha   	  	NP12  
+Kilo Moana    	5/14/2015    	Honolulu HI USA   	Station Aloha   	  	NP12  
+Kilo Moana    	5/22/2015    	Honolulu HI USA   	Station Aloha   	  	NP12  
+Kilo Moana    	6/10/2015    	Honolulu HI USA   	Station Aloha   	  	NP12  
+Kilo Moana    	6/18/2015    	Honolulu HI USA   	Station Aloha   	  	NP12  
+Kilo Moana    	6/25/2015    	Honolulu HI USA   	DORD Claim   	  	NP12  
+Kilo Moana    	7/18/2015    	Honolulu HI USA   	Station Aloha   	  	NP12  
+Kilo Moana    	7/24/2015    	Honolulu HI USA   	Station Aloha   	  	NP12  
+Kilo Moana    	8/9/2015    	Honolulu HI USA   	South Oahu   	  	NP12  
+Kilo Moana    	8/15/2015    	Honolulu HI USA   	155W to EQ   	  	NP12  
+Kilo Moana    	9/16/2015    	Honolulu HI USA   	Station Aloha   	  	NP12  
+Kilo Moana    	9/24/2015    	Honolulu HI USA   	Emperors/NWHI   	  	NP08  
+Kilo Moana    	9/24/2015    	Honolulu HI USA   	Emperors/NWHI   	  	NP08  
+Kilo Moana    	11/12/2015    	Honolulu HI USA   	Station Aloha   	  	NP12  
+Kilo Moana    	11/17/2015    	Honolulu HI USA   	Honolulu   	  	NP12  
+Kilo Moana    	11/20/2015    	Honolulu HI USA   	USAPI EEZ   	  	NP12  
+Kilo Moana    	12/28/2015    	Honolulu HI USA   	Station Aloha   	  	NP12  
+Melville    	1/1/1992    	Amelia, LA   	  	  	NA9  
+Melville    	3/17/1992    	Amelia, LA   	  	  	NA9, NP9  
+Melville    	4/4/1992    	San Diego   	San Diego   	  	NP9  
+Melville    	7/7/1992    	San Diego   	NE Pacific   	  	NP9, NP13  
+Melville    	7/18/1992    	Acapulco   	  	  	NP9, NP13  
+Melville    	8/18/1992    	Manzanillo   	Guadalupe Is.   	  	NP9  
+Melville    	9/2/1992    	San Diego   	Off San Diego   	  	NP9  
+Melville    	9/5/1992    	San Diego   	  	  	NP9  
+Melville    	9/26/1992    	San Diego   	Off San Diego   	  	NP9  
+Melville    	10/1/1992    	San Diego   	In Port   	  	NP9  
+Melville    	10/6/1992    	San Diego   	  	  	NP9, NP13  
+Melville    	11/5/1992    	Acapulco   	So. EPR   	  	SP3  
+Melville    	12/12/1992    	Easter Is.   	So. EPR   	  	SP3  
+Melville    	12/12/1992    	Easter Is   	South EPR   	  	SP3  
+Melville    	1/10/1993    	Papeete   	Marquesas & Austral FZ   	  	SP3  
+Melville    	2/8/1993    	Papeete   	  	  	SP3,6  
+Melville    	3/22/1993    	Easter Is.   	Easter Smt Chn   	  	SP3  
+Melville    	4/28/1993    	Valparaiso   	Dry Dock   	  	 
+Melville    	5/10/1993    	Valparaiso   	Easter Smt Chn   	  	SP3  
+Melville    	5/31/1993    	Easter Is.   	  	  	SP3  
+Melville    	7/5/1993    	Acapulco   	EPR Natural Lab   	  	NP13  
+Melville    	8/10/1993    	San Diego   	Juan de Fuca Ridge   	  	NP6  
+Melville    	9/9/1993    	Astoria   	Juan de Fuca   	  	NP6  
+Melville    	10/7/1993    	San Diego   	In Port San Diego   	  	NP9  
+Melville    	10/12/1993    	San Diego   	Off San Diego   	  	NP9  
+Melville    	10/16/1993    	San Diego   	In Port San Diego   	  	NP9  
+Melville    	11/17/1993    	San Diego   	Off San Diego   	  	NP9  
+Melville    	11/23/1993    	San Diego   	  	  	NP9-SP3  
+Melville    	11/23/1993    	San Diego   	  	  	NP9-SP3  
+Melville    	1/3/1994    	Papeete   	55oS 128oW   	  	SP8  
+Melville    	2/14/1994    	Wellington   	  	  	SP8  
+Melville    	3/27/1994    	Iquique   	Along 7oS   	  	SP3A, SP3  
+Melville    	5/19/1994    	Papeete   	Along 17oS   	  	SP2,SP1  
+Melville    	6/28/1994    	Brisbane   	In Port   	  	SP2  
+Melville    	8/30/1994    	Brisbane   	Lau Basin   	  	SP1  
+Melville    	10/5/1994    	Nuku'alofa   	  	  	SP6  
+Melville    	11/17/1994    	Dunedin   	S.E. Indian Ridge &
+Melville    	12/10/1994    	Fremantle   	S.E. Indian Ridge   	  	IN7  
+Melville    	12/10/1994    	Fremantle   	S.E. Indian Ridge   	  	IN7  
+Melville    	1/29/1995    	Fremantle   	S. E. Indian Ridge   	  	IN7  
+Melville    	3/18/1995    	Hobart   	S.W. of Tasmania   	  	IN11  
+Melville    	4/18/1995    	Hobart   	So. Pac   	  	IN7,SP4,5,2  
+Melville    	5/14/1995    	Papeete   	  	  	NP13,SP3  
+Melville    	6/22/1995    	Acapulco   	Off Mexico   	  	NP13-9  
+Melville    	7/11/1995    	San Diego   	Off North Pacific Coast   	  	NP9  
+Melville    	8/13/1995    	San Diego   	In Port   	  	 
+Melville    	10/10/1995    	San Diego   	Off San Diego   	  	NP9  
+Melville    	10/11/1995    	San Diego   	  	  	 
+Melville    	10/15/1995    	San Diego   	  	  	NP13,SP3  
+Melville    	11/28/1995    	Papeete   	Louisville Ridge   	  	NP1-4  
+Melville    	12/11/1995    	Chatham Is.   	  	  	SP7  
+Melville    	12/11/1995    	Chatham   	  	  	SP7  
+Melville    	1/8/1996    	Dunedin   	to Indian O.   	  	SP4-IN8  
+Melville    	1/16/1996    	Hobart   	  	  	IN8,11  
+Melville    	2/22/1996    	Fremantle   	  	  	IN3-7  
+Melville    	4/19/1996    	Port Hedland   	to Pacific   	  	IN4-NP10  
+Melville    	5/7/1996    	Suva   	Tonga Forearc   	  	SP1  
+Melville    	6/10/1996    	Pago Pago   	Transit   	  	SP1-NP9  
+Melville    	6/30/1996    	San Diego   	Out of Service   	  	 
+Melville    	9/8/1996    	San Diego   	So. Pac.   	  	SP3  
+Melville    	10/28/1996    	Papeete   	  	  	SP3  
+Melville    	12/15/1996    	Valparaiso   	to Indian Ocean   	  	SP9-4  
+Melville    	12/15/1996    	Valpariso   	to Indian Ocean   	  	SP9-4  
+Melville    	1/8/1997    	Cape Town   	Indian   	phys oc   	IN3-4-5  
+Melville    	1/8/1997    	Cape Town   	  	  	IN3,4,5  
+Melville    	2/19/1997    	Fremantle   	SE Indian Ocean   	  	IN11  
+Melville    	2/19/1997    	Fremantle   	Indian   	transit   	IN11  
+Melville    	3/6/1997    	Hobart   	Indian   	phys oc   	IN8  
+Melville    	3/8/1997    	Hobart   	SE Indian Ocean   	  	IN8  
+Melville    	4/9/1997    	Hobart   	Indian   	repairs   	IN8  
+Melville    	4/10/1997    	Hobart   	East of Tasmania   	  	IN8  
+Melville    	4/11/1997    	Melbourne   	unk   	repairs   	overhaul  
+Melville    	4/18/1997    	Melbourne   	  	  	 
+Melville    	5/11/1997    	Melbourne   	Indian   	transit   	IN8  
+Melville    	5/14/1997    	Melbourne   	SE Indial Ocean   	  	IN8  
+Melville    	5/27/1997    	Papeete   	S E Pacific   	unk   	SP6  
+Melville    	5/30/1997    	Papeete   	  	  	SP6  
+Melville    	7/6/1997    	San Diego   	unk   	unk   	NAVO#5  
+Melville    	7/14/1997    	San Diego   	  	  	NP9  
+Melville    	7/18/1997    	Eureka   	Off Eureka   	  	NP9  
+Melville    	7/30/1997    	Eureka   	Gulf of Alaska   	  	NP9  
+Melville    	9/5/1997    	Kodiak   	Gulf of Alaska   	  	NP9  
+Melville    	9/6/1997    	Astoria   	Gulf of Alaska   	  	NP9  
+Melville    	10/13/1997    	San Diego   	Off Oceanside   	  	NP9  
+Melville    	11/2/1997    	San Diego   	  	  	NP13  
+Melville    	11/3/1997    	San Diego   	N E Pacific   	in port   	NP9  
+Melville    	11/12/1997    	San Diego   	N E Pacific   	geo   	NP13  
+Melville    	12/14/1997    	Acapuco   	along Mid Amer. Trench   	  	NP13  
+Melville    	12/14/1997    	Acapulco   	  	  	NP13  
+Melville    	12/23/1997    	Manzanillo   	S E Pacific   	geo   	SP3-SP6  
+Melville    	12/31/1997    	Callao   	Off Peru & Chile   	  	SP6  
+Melville    	1/15/1998    	Valparaiso   	Valdivia FZ   	  	SP6A  
+Melville    	1/15/1998    	  	S E Pacific   	unk   	SP6A  
+Melville    	3/5/1998    	Easter Is.   	  	  	SP6  
+Melville    	3/5/1998    	Easter Isl.   	  	  	SP6  
+Melville    	3/5/1998    	Easter Is   	S E Pacific   	unk   	SP6  
+Melville    	4/18/1998    	Papeete   	  	  	SP3  
+Melville    	4/18/1998    	Papeete   	S E Pacific   	geo   	SP3  
+Melville    	6/11/1998    	Honolulu   	Off Oahu   	  	NP12  
+Melville    	6/11/1998    	Honolulu   	N E Pacific   	unk   	NP12  
+Melville    	6/21/1998    	Honolulu   	  	  	NP12-9  
+Melville    	7/6/1998    	San Diego   	Off Sur Ridge   	  	NP9  
+Melville    	7/6/1998    	San Diego   	N E Pacific   	phys oc   	NP9  
+Melville    	9/8/1998    	San Diego   	  	  	NP12-13  
+Melville    	9/8/1998    	San Diego   	N E Pacific   	phys oc   	NP12-13  
+Melville    	12/14/1998    	Acapulco   	N E Pacific   	geo   	NP13  
+Melville    	12/31/1998    	Acapulco   	S E Pacific   	bio   	SP6  
+Melville    	1/6/1999    	San Diego   	N E Pacific   	  	NP12-NP9  
+Melville    	1/26/1999    	Majuro   	N Pacific   	  	NP11-SP2  
+Melville    	3/10/1999    	Pago Pago   	  	phys oc   	SP  
+Melville    	3/20/1999    	Apia   	S W Pacific   	phys oc   	SP1  
+Melville    	4/15/1999    	Apia   	S W Pacific   	transit   	SP1-NP12  
+Melville    	4/27/1999    	Honolulu   	N W Pacific   	phys oc   	NP7  
+Melville    	5/24/1999    	Honolulu   	N Pacific   	chem   	NP8  
+Melville    	6/12/1999    	At Sea   	N Pacific   	chem   	NP8  
+Melville    	6/18/1999    	Honolulu   	N E Pacific   	phys oc   	NP12-NP9  
+Melville    	7/7/1999    	Astoria   	N E Pacific   	geo   	NP6-9  
+Melville    	8/5/1999    	Eureka   	N E Pacific   	phys oc   	NP9  
+Melville    	8/14/1999    	San Franc   	N E Pacific   	phys oc   	NP9  
+Melville    	8/19/1999    	Eureka   	N E Pacific   	  	NP9  
+Melville    	9/4/1999    	San Diego   	N E Pacific   	  	NP9  
+Melville    	10/1/1999    	San Diego   	N E Pacific   	phys oc   	NP9  
+Melville    	10/29/1999    	San Diego   	N E Pacific   	geo   	NP9-13  
+Melville    	11/23/1999    	San Diego   	  	unk   	NP9  
+Melville    	11/30/1999    	San Diego   	N E Pacific   	geo   	NP9  
+Melville    	12/4/1999    	San Diego   	  	repairs   	 
+Melville    	1/1/2000    	Rabaul   	S Pacific   	unk   	SP2  
+Melville    	1/1/2000    	Cairns   	Indian   	geo   	IN5  
+Melville    	1/1/2000    	Honolulu   	Indian   	chem   	IN5  
+Melville    	1/1/2000    	San Diego   	N E Pacific   	unk   	NP12  
+Melville    	1/1/2000    	Honolulu   	Indian   	chem   	IN5  
+Melville    	1/1/2000    	Rabaul   	S Pacific   	unk   	SP2  
+Melville    	1/1/2000    	Rabaul   	S Pacific   	unk   	SP2  
+Melville    	1/1/2000    	Rabaul   	S Pacific   	unk   	SP2  
+Melville    	1/1/2000    	Rabaul   	S Pacific   	unk   	SP2  
+Melville    	1/1/2000    	Rabaul   	S Pacific   	unk   	SP2  
+Melville    	1/1/2000    	San Diego   	N E Pacific   	unk   	NP12  
+Melville    	1/1/2000    	Rabaul   	S Pacific   	unk   	SP2  
+Melville    	1/1/2000    	Honolulu   	Indian   	chem   	IN5  
+Melville    	1/1/2000    	San Diego   	N E Pacific   	unk   	NP9  
+Melville    	1/1/2000    	Cairns   	Indian   	geo   	IN5  
+Melville    	1/1/2000    	Cairns   	Indian   	geo   	IN5  
+Melville    	1/1/2000    	Cairns   	Indian   	geo   	IN5  
+Melville    	1/1/2000    	Cairns   	Indian   	geo   	IN5  
+Melville    	1/1/2000    	Cairns   	Indian   	geo   	IN5  
+Melville    	1/1/2000    	Cairns   	Indian   	geo   	IN5  
+Melville    	1/1/2000    	Cairns   	Indian   	geo   	IN5  
+Melville    	1/1/2000    	Cairns   	Indian   	geo   	IN5  
+Melville    	1/1/2000    	Cape Town   	S E Atlantic   	phys oc   	SA2  
+Melville    	1/1/2000    	Cairns   	Indian   	geo   	IN5  
+Melville    	1/1/2000    	Cairns   	Indian   	geo   	IN5  
+Melville    	1/1/2000    	San Diego   	N E Pacific   	unk   	NP12  
+Melville    	1/1/2000    	Rabaul   	S Pacific   	unk   	SP2  
+Melville    	1/1/2000    	Cairns   	Indian   	geo   	IN5  
+Melville    	1/1/2000    	San Diego   	N E Pacific   	unk   	NP9  
+Melville    	2/7/2000    	San Diego   	unk   	unk   	 
+Melville    	2/17/2000    	San Diego   	N E Pacific   	unk   	NP13  
+Melville    	3/12/2000    	at sea   	N E Pacific   	unk   	NP13  
+Melville    	3/24/2000    	Manzanillo   	N E Pacific   	unk   	NP13  
+Melville    	5/15/2000    	Manzanillo   	N E Pacific   	chem   	NP13  
+Melville    	6/12/2000    	Pto. Caldera   	N E Pacific   	unk   	NP13  
+Melville    	6/29/2000    	San Diego   	  	unk   	NP9  
+Melville    	8/21/2000    	San Diego   	S E Pacific   	unk   	SP3A  
+Melville    	10/2/2000    	Arica   	S E Pacific   	phys oc   	SP3A  
+Melville    	10/16/2000    	Arica   	S E Pacific   	transit   	SP3  
+Melville    	11/11/2000    	Papeete   	S W Pacific   	unk   	SP1  
+Melville    	12/24/2000    	Apia   	  	transit   	SP1  
+Melville    	1/7/2001    	Newcastle   	S W Pacific   	unk   	SP1  
+Melville    	1/27/2001    	Newcastle   	  	transit   	SP1  
+Melville    	2/10/2001    	Guam   	N W Pacific   	unk   	NP10  
+Melville    	3/4/2001    	Guam   	  	unk   	NP10  
+Melville    	4/15/2001    	Guam   	N W Pacific   	unk   	NP10  
+Melville    	5/14/2001    	Guam   	N W Pacific   	transit   	NP10  
+Melville    	5/21/2001    	Naha   	N W Pacific   	unk   	NP10  
+Melville    	5/28/2001    	Naha   	N W Pacific   	unk   	NP7  
+Melville    	6/17/2001    	Naha   	N W Pacific   	transit   	NP7  
+Melville    	6/21/2001    	Pusan   	N W Pacific   	phys oc   	NP7  
+Melville    	7/7/2001    	Pusan   	N W Pacific   	unk   	NP7  
+Melville    	7/12/2001    	Pusan   	N W Pacific   	transit   	NP7  
+Melville    	7/21/2001    	Naha   	N W Pacific   	unk   	NP7  
+Melville    	8/9/2001    	Naha   	  	transit   	NP10  
+Melville    	8/20/2001    	Lae   	Indian   	unk   	IN5  
+Melville    	9/25/2001    	Lae   	Indian   	transit   	IN5  
+Melville    	10/6/2001    	Suva   	S Pacific   	unk   	SP2  
+Melville    	10/31/2001    	Apia   	S W Pacific   	transit   	SP4  
+Melville    	11/8/2001    	Papeete   	S E Pacific   	unk   	SP3  
+Melville    	12/25/2001    	Easter Isla   	S W Pacific   	transit   	SP7  
+Melville    	1/2/2002    	Cape Town   	S E Atlantic   	phys oc   	SA2  
+Melville    	1/4/2002    	Papeete   	S W Pacific   	transit   	SP7  
+Melville    	1/19/2002    	Lyttelton   	Southern   	unk   	AN6  
+Melville    	3/2/2002    	Lyttelton   	  	unk   	 
+Melville    	3/7/2002    	Lyttelton   	S W Pacific   	transit   	SP7  
+Melville    	3/24/2002    	Apia   	S W Pacific   	unk   	SP1  
+Melville    	4/14/2002    	Majuro   	N E Pacific   	transit   	NP12  
+Melville    	5/1/2002    	Osaka   	N Pacific   	chem   	NP11  
+Melville    	6/9/2002    	Honolulu   	N Pacific   	chem   	NP8  
+Melville    	6/20/2002    	Honolulu   	N Pacific   	unk   	NP8  
+Melville    	8/5/2002    	San Diego   	N E Pacific   	unk   	NP13  
+Melville    	9/7/2002    	Puerto Caldera   	N E Pacific   	geo   	NP13  
+Melville    	10/13/2002    	Puerto Caldera   	S E Pacific   	phys oc  
+Melville    	11/2/2002    	Arica   	S E Pacific   	unk   	SP3  
+Melville    	12/8/2002    	Valparaiso   	  	transit   	SP3A  
+Melville    	1/19/2003    	Cape Town   	Indian   	geo   	IN6  
+Melville    	2/14/2003    	Cape Town   	Indian   	phys oc   	IN3  
+Melville    	3/23/2003    	Cape Town   	S E Atlantic   	geo   	SA2  
+Melville    	5/15/2003    	Cape Town   	  	unk   	IN3  
+Melville    	6/18/2003    	Port Hedland   	Indian   	phys oc   	IN5  
+Melville    	7/20/2003    	Darwin   	Indian   	unk   	IN5  
+Melville    	7/27/2003    	Darwin   	Indian   	unk   	IN5  
+Melville    	8/9/2003    	Darwin   	Indian   	transit   	IN5  
+Melville    	8/21/2003    	Cairns   	Indian   	geo   	IN5  
+Melville    	8/26/2003    	Port Moresby*   	Indian   	chem   	IN5  
+Melville    	9/18/2003    	Port Moresby*   	Indian   	chem   	IN5  
+Melville    	9/27/2003    	Port Moresby*   	Indian   	chem   	IN5  
+Melville    	10/8/2003    	Cairns   	Indian   	unk   	IN5  
+Melville    	10/13/2003    	Brisbane   	Indian   	unk   	IN5  
+Melville    	12/29/2003    	Brisbane   	Indian   	transit   	IN5  
+Melville    	12/29/2003    	Brisbane   	Indian   	transit   	IN5  
+Melville    	1/8/2004    	Cairns   	Indian   	chem   	IN5  
+Melville    	2/18/2004    	Port Moresby   	Indian   	geo   	IN5  
+Melville    	3/12/2004    	Cairns   	Indian   	geo   	IN5  
+Melville    	4/12/2004    	Cairns   	S W Pacific   	unk   	SP1  
+Melville    	4/16/2004    	Cairns   	Indian   	geo   	IN5  
+Melville    	5/29/2004    	Cairns   	  	transit   	NP7  
+Melville    	6/15/2004    	Yokohama   	N W Pacific   	unk   	NP7,NP7A,N  
+Melville    	7/28/2004    	Honolulu   	N W Pacific   	unk   	NP7,NP7A,N  
+Melville    	9/2/2004    	San Diego   	N E Pacific   	unk   	NP9  
+Melville    	9/10/2004    	San Diego   	N E Pacific   	phys oc   	NP12  
+Melville    	10/15/2004    	Honolulu   	N E Pacific   	unk   	NP9  
+Melville    	11/15/2004    	San Diego   	  	unk   	NP9  
+Melville    	12/31/2004    	San Diego   	N E Pacific   	unk   	NP12  
+Melville    	1/28/2005    	Honolulu   	S W Pacific   	transit   	SP1  
+Melville    	2/9/2005    	Papeete   	S Pacific   	unk   	SP5  
+Melville    	3/26/2005    	Papeete   	  	transit   	SP4  
+Melville    	4/5/2005    	Nuku'alofa   	S Pacific   	phys oc   	SP2  
+Melville    	5/15/2005    	Suva   	S W Pacific   	bio   	SP1  
+Melville    	6/3/2005    	at sea   	S E Pacific   	unk   	SP6  
+Melville    	6/9/2005    	Suva   	S W Pacific   	unk   	SP1  
+Melville    	7/1/2005    	Suva   	  	transit   	NP9  
+Melville    	7/15/2005    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Melville    	7/23/2005    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Melville    	7/31/2005    	Honolulu   	N E Pacific   	transit   	NP9  
+Melville    	8/10/2005    	San Diego   	N E Pacific   	unk   	NP9  
+Melville    	8/19/2005    	San Diego   	N E Pacific   	geo   	NP9  
+Melville    	9/2/2005    	Seattle   	N E Pacific   	unk   	NP9  
+Melville    	9/23/2005    	Seattle   	  	transit   	NP9  
+Melville    	10/1/2005    	San Diego   	N E Pacific   	educ   	NP9  
+Melville    	10/2/2005    	San Diego   	N E Pacific   	educ   	NP9  
+Melville    	3/22/2006    	San Diego   	N W Pacific   	transit   	NP10  
+Melville    	4/18/2006    	Apra, Guam   	N W Pacific   	phys oc   	NP10  
+Melville    	5/18/2006    	Yokohama   	N W Pacific   	unk   	NP7  
+Melville    	6/1/2006    	Yokohama   	N W Pacific   	unk   	NP7  
+Melville    	7/9/2006    	Yokohama   	N W Pacific   	unk   	NP10  
+Melville    	7/21/2006    	Rabaul, PNG   	Indian   	unk   	IN5  
+Melville    	9/5/2006    	Suva   	S W Pacific   	unk   	SP1  
+Melville    	10/4/2006    	Suva   	N E Pacific   	unk   	NP9  
+Melville    	10/11/2006    	Apia   	  	transit   	NP9  
+Melville    	10/24/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Melville    	11/15/2006    	Honolulu   	N W Pacific   	unk   	NP10  
+Melville    	1/1/2007    	Brisbane, Australia   	  	unk   	SP1  
+Melville    	2/3/2007    	Brisbane   	  	transit   	SP4  
+Melville    	2/9/2007    	Wellington   	S Pacific   	unk   	SP5  
+Melville    	3/15/2007    	Pago Pago   	N W Pacific   	transit   	NP10  
+Melville    	4/3/2007    	Kao/hsiung   	N W Pacific   	phys oc   	NP10  
+Melville    	4/13/2007    	Kao/hsiung   	N W Pacific   	unk   	NP10  
+Melville    	4/23/2007    	Kao/hsiung   	N W Pacific   	transit   	NP7  
+Melville    	5/2/2007    	Yokohama   	N W Pacific   	unk   	NP7  
+Melville    	5/26/2007    	Yokohama   	N W Pacific   	unk   	NP10  
+Melville    	6/6/2007    	Manila   	N W Pacific   	phys oc   	NP10  
+Melville    	7/5/2007    	Manila   	  	transit   	NP10  
+Melville    	7/9/2007    	Kao/hsiung   	  	unk   	NP10  
+Melville    	7/18/2007    	Kao/hsiung   	N W Pacific   	unk   	NP10  
+Melville    	7/30/2007    	Kao/hsiung   	N E Pacific   	unk   	NP12  
+Melville    	8/3/2007    	Sasebo   	unk   	unk   	 
+Melville    	10/12/2007    	Sasebo   	N E Pacific   	transit   	NP12  
+Melville    	10/17/2007    	Kao/hsiung   	N W Pacific   	unk   	NP10  
+Melville    	10/24/2007    	Kao/hsiung   	N W Pacific   	unk   	NP10  
+Melville    	11/7/2007    	Kao/hsiung   	N E Pacific   	unk   	NP12  
+Melville    	11/27/2007    	Kao/hsiung   	N W Pacific   	unk   	NP10  
+Melville    	11/30/2007    	Manila   	N W Pacific   	unk   	NP10  
+Melville    	11/30/2007    	Manila Philippines   	Sulu Sea   	  	NP12,
+Melville    	1/9/2008    	Manila Philippines   	Philip. Archipe   	 
+Melville    	2/7/2008    	Manila Philippines   	S.China Sea   	  	NP10,
+Melville    	2/29/2008    	Iloilo Panay Philippines   	S.China Sea  
+Melville    	3/9/2008    	Kao-hsiung Taiwan   	NW Pacific   	  	NP10,
+Melville    	3/17/2008    	Kao-hsiung Taiwan   	In port   	  	NP12, NP12  
+Melville    	3/23/2008    	Kao-hsiung Taiwan   	Philippine Sea   	 
+Melville    	3/23/2008    	Kao-hsiung Taiwan   	Philippine Sea   	 
+Melville    	3/23/2008    	Kao-hsiung Taiwan   	Philippine Sea   	 
+Melville    	4/5/2008    	Apra Harbor Guam   	Off Guam   	  	NP10, NP10  
+Melville    	4/5/2008    	Apra Harbor Guam   	Off Guam   	  	NP10, NP10  
+Melville    	4/28/2008    	Apra Harbor Guam   	NW Pacific   	  	NP10,
+Melville    	5/5/2008    	Kao-hsiung Taiwan   	East of Taiwan   	 
+Melville    	5/15/2008    	Kao-hsiung Taiwan   	NW Pacific   	  	NP12,
+Melville    	5/31/2008    	Honolulu HI USA   	In port   	  	NP12, NP12  
+Melville    	6/5/2008    	Honolulu HI USA   	100nmi S.Oahu   	  	NP12,
+Melville    	6/8/2008    	Honolulu HI USA   	In port   	  	NP12, NP12  
+Melville    	6/16/2008    	Honolulu HI USA   	PMRF   	  	NP11, NP11  
+Melville    	6/16/2008    	Honolulu HI USA   	PMRF   	  	NP11, NP11  
+Melville    	7/7/2008    	Honolulu HI USA   	100nmi S.Oahu   	  	NP12,
+Melville    	7/11/2008    	Honolulu HI USA   	In port   	  	NP12, NP12  
+Melville    	7/27/2008    	Honolulu HI USA   	PMRF   	  	NP12, NP12  
+Melville    	8/12/2008    	Honolulu HI USA   	North Pacific   	  	NP12,
+Melville    	8/12/2008    	Honolulu HI USA   	North Pacific   	  	NP12,
+Melville    	8/24/2008    	Dutch Harbor AK USA   	E. Bering Sea   	 
+Melville    	8/24/2008    	Dutch Harbor AK USA   	E. Bering Sea   	 
+Melville    	9/12/2008    	Dutch Harbor AK USA   	North Pacific   	 
+Melville    	9/12/2008    	Dutch Harbor AK USA   	North Pacific   	 
+Melville    	9/12/2008    	Dutch Harbor AK USA   	North Pacific   	 
+Melville    	9/30/2008    	San Diego CA USA   	Calif. Coast   	  	NP9,
+Melville    	10/30/2008    	San Diego CA USA   	In port   	  	NP9, NP9  
+Melville    	11/9/2008    	San Diego CA USA   	Sta.Barb.Basin   	  	NP9,
+Melville    	1/1/2009    	San Diego CA USA   	Pacific   	  	NP9, NP9  
+Melville    	1/9/2009    	San Diego CA USA   	  	  	NP9, IN2  
+Melville    	2/6/2009    	Manila Philippines   	Philippine Sea   	 
+Melville    	2/27/2009    	Manila Philippines   	  	  	NP10, NP10  
+Melville    	3/23/2009    	Manila Philippines   	Philippine Sea   	 
+Melville    	3/23/2009    	Manila Philippines   	Philippine Sea   	 
+Melville    	3/31/2009    	Kao-hsiung Taiwan   	Philippine Sea   	 
+Melville    	4/14/2009    	Kao-hsiung Taiwan   	Philippine Sea   	 
+Melville    	5/6/2009    	Kao-hsiung Taiwan   	Philippine Sea   	 
+Melville    	5/17/2009    	Kao-hsiung Taiwan   	  	  	NP10, NP12  
+Melville    	5/20/2009    	Chi-Lung Taiwan   	East China Sea   	  	NP10,
+Melville    	5/28/2009    	Chi-Lung Taiwan   	  	  	 
+Melville    	10/29/2009    	Chi-Lung Taiwan   	NP10, SP1   	  	 
+Melville    	11/13/2009    	Brisbane Australia   	SP1   	  	 
+Melville    	11/21/2009    	Brisbane Australia   	SP   	  	SP4, SP6A  
+Melville    	11/21/2009    	Brisbane Australia   	SP   	  	SP4, SP6A  
+Melville    	1/5/2010    	Papeete Tahiti French Polynesia   	  	  	 
+Melville    	2/14/2010    	Bahia de Valparaiso Chile   	  	  	 
+Melville    	2/18/2010    	Bahia de Valparaiso Chile   	  	  	 
+Melville    	2/24/2010    	Puerto Montt Chile   	  	  	 
+Melville    	3/17/2010    	Bahia de Valparaiso Chile   	  	  	SP6A, SP6A  
+Melville    	3/17/2010    	Bahia de Valparaiso Chile   	  	  	SP6A, SP6A  
+Melville    	3/25/2010    	Bahia de Valparaiso Chile   	  	  	 
+Melville    	4/4/2010    	Puntarenas Costa Rica   	  	  	 
+Melville    	4/13/2010    	Puerto Caldera Costa Rica   	Pac.
+Melville    	5/17/2010    	Puerto Caldera Costa Rica   	N. Galapagos
+Melville    	6/22/2010    	Puerto Caldera Costa Rica   	  	  	 
+Melville    	7/28/2010    	Puntarenas Costa Rica   	Central Pacific
+Melville    	8/14/2010    	San Diego CA USA   	  	  	NP9, NP9  
+Melville    	9/8/2010    	San Diego CA USA   	Off West Coast   	  	NP9,
+Melville    	9/25/2010    	San Diego CA USA   	Santa Barbara   	  	NP9,
+Melville    	10/9/2010    	San Diego CA USA   	  	  	NP13, NP13  
+Melville    	10/19/2010    	Puntarenas Costa Rica   	Panama/Peru Bsn
+Melville    	11/18/2010    	Rada de Arica Chile   	W of Chile   	  	SP3,
+Melville    	12/15/2010    	Isla de Pascua Chile   	  	  	 
+Melville    	12/29/2010    	Rada Punta Arenas Chile   	  	  	 
+Melville    	12/29/2010    	Rada Punta Arenas Chile   	  	  	 
+Melville    	12/29/2010    	Rada Punta Arenas Chile   	  	  	 
+Melville    	1/8/2011    	Rada Punta Arenas Chile   	S. Atlantic   	  	 
+Melville    	2/20/2011    	Cape Town South Africa   	  	  	 
+Melville    	2/20/2011    	Cape Town South Africa   	  	  	 
+Melville    	3/15/2011    	Bahia de Valparaiso Chile   	  	  	 
+Melville    	3/21/2011    	Bahia de Valparaiso Chile   	ETSP   	  	 
+Melville    	4/26/2011    	Rada de Arica Chile   	SE Pacific   	  	 
+Melville    	5/31/2011    	San Diego CA USA   	  	  	 
+Melville    	6/14/2011    	San Diego CA USA   	  	  	 
+Melville    	7/20/2011    	San Diego CA USA   	  	  	 
+Melville    	7/27/2011    	San Diego CA USA   	SantaCruz Basin   	  	 
+Melville    	8/11/2011    	San Diego CA USA   	N.Pac/Atlan   	  	 
+Melville    	8/11/2011    	San Diego CA USA   	N.Pac/Atlan   	  	 
+Melville    	8/24/2011    	Balboa Panama   	N.Pac/Atlan   	  	 
+Melville    	9/1/2011    	Bridgetown Barbados   	Amazon plume   	  	 
+Melville    	9/1/2011    	Bridgetown Barbados   	Amazon plume   	  	 
+Melville    	9/1/2011    	Bridgetown Barbados   	Amazon plume   	  	 
+Melville    	10/10/2011    	Bridgetown Barbados   	  	  	 
+Melville    	11/1/2011    	Port Elizabeth South Africa   	  	  	 
+Melville    	11/29/2011    	Durban South Africa   	  	  	 
+Melville    	11/29/2011    	Durban South Africa   	  	  	 
+Melville    	1/18/2012    	Durban South Africa   	  	  	 
+Melville    	1/22/2012    	Cape Town South Africa   	Agulhas Plateau
+Melville    	2/10/2012    	Cape Town South Africa   	Walvis Ridge   	  	 
+Melville    	4/3/2012    	Cape Town South Africa   	  	  	 
+Melville    	4/19/2012    	Rada Punta Arenas Chile   	  	  	 
+Melville    	4/19/2012    	Rada Punta Arenas Chile   	  	  	 
+Melville    	4/19/2012    	Rada Punta Arenas Chile   	  	  	 
+Melville    	5/2/2012    	Bahia de Valparaiso Chile   	central Chile
+Melville    	5/20/2012    	Bahia de Valparaiso Chile   	  	  	 
+Melville    	5/20/2012    	Bahia de Valparaiso Chile   	  	  	 
+Melville    	5/20/2012    	Bahia de Valparaiso Chile   	  	  	 
+Melville    	6/6/2012    	Puerto Ayora Galapagos Islands Ecuador  
+Melville    	6/6/2012    	Puerto Ayora Galapagos Islands Ecuador  
+Melville    	6/6/2012    	Puerto Ayora Galapagos Islands Ecuador  
+Melville    	6/28/2012    	San Diego CA USA   	San Diego   	  	 
+Melville    	7/25/2012    	San Diego CA USA   	  	  	 
+Melville    	8/31/2012    	San Diego CA USA   	So Cal Margin   	  	 
+Melville    	9/12/2012    	San Diego CA USA   	  	  	 
+Melville    	10/12/2012    	San Diego CA USA   	  	  	 
+Melville    	10/25/2012    	San Diego CA USA   	SB Basin   	  	 
+Melville    	11/2/2012    	San Diego CA USA   	  	  	 
+Melville    	11/10/2012    	San Diego CA USA   	Mendocino Ridge   	  	 
+Melville    	12/7/2012    	San Diego CA USA   	San Diego   	  	 
+Melville    	12/18/2012    	San Diego CA USA   	1300km S of HI   	  	 
+Melville    	1/2/2013    	San Diego CA USA   	N Pacific   	  	 
+Melville    	1/16/2013    	Honolulu HI USA   	  	  	 
+Melville    	2/1/2013    	Apra Harbor Guam   	  	  	NP10  
+Melville    	2/18/2013    	Apra Harbor Guam   	  	  	 
+Melville    	2/25/2013    	Yokohama Ko Japan   	  	  	NP07  
+Melville    	2/25/2013    	Yokohama Ko Japan   	  	  	NP07  
+Melville    	3/21/2013    	Yokohama Ko Japan   	North Pacific   	  	NP09  
+Melville    	4/3/2013    	Yokohama Ko Japan   	  	  	 
+Melville    	4/4/2013    	Yokohama Ko Japan   	North Pacific   	  	NP09  
+Melville    	5/8/2013    	Honolulu HI USA   	North Pacific   	  	NP09  
+Melville    	6/7/2013    	San Diego CA USA   	San Diego   	  	 
+Melville    	6/12/2013    	San Diego CA USA   	  	  	NP09  
+Melville    	7/15/2013    	Seattle WA USA   	Papa   	  	NP09  
+Melville    	8/4/2013    	Seattle WA USA   	Gulf of Alaska   	  	NP05  
+Melville    	8/4/2013    	Seattle WA USA   	Gulf of Alaska   	  	NP05  
+Melville    	8/26/2013    	Seattle WA USA   	  	  	 
+Melville    	8/26/2013    	Seattle WA USA   	  	  	 
+Melville    	9/6/2013    	San Diego CA USA   	San Diego   	  	 
+Melville    	10/3/2013    	San Diego CA USA   	Eastern Pacific   	  	IN02  
+Melville    	10/31/2013    	San Diego CA USA   	  	  	NP09  
+Melville    	11/7/2013    	San Diego CA USA   	SOCAL   	  	NP09  
+Melville    	12/5/2013    	San Diego CA USA   	  	  	 
+Melville    	1/1/2014    	San Diego CA USA   	  	  	 
+Melville    	2/15/2014    	San Diego CA USA   	  	  	NP09  
+Melville    	2/26/2014    	San Diego CA USA   	Home port   	  	NP09  
+Melville    	3/30/2014    	San Diego CA USA   	Shipyard tran.   	  	NP09  
+Melville    	4/3/2014    	Oakland CA USA   	Bay area   	  	NP09  
+Melville    	5/13/2014    	San Francisco CA USA   	CA current   	  	NP09  
+Melville    	6/10/2014    	Seattle WA USA   	OS Papa   	  	NP09  
+Melville    	6/10/2014    	Seattle WA USA   	OS Papa   	  	NP09  
+Melville    	6/10/2014    	Seattle WA USA   	OS Papa   	  	NP09  
+Melville    	7/3/2014    	San Diego CA USA   	Central Califor   	  	NP09  
+Melville    	8/6/2014    	San Diego CA USA   	CA Current   	  	NP09  
+Melville    	9/10/2014    	San Diego CA USA   	Off Newport, OR   	  	NP09  
+Melville    	10/1/2014    	San Diego CA USA   	Home port   	  	NP09  
+Melville    	10/24/2014    	San Diego CA USA   	  	  	NP09  
+Moana Wave    	1/11/1991    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	1/21/1991    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	2/1/1991    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	2/11/1991    	Honolulu   	SW Pacific   	  	SP1, SP2  
+Moana Wave    	3/2/1991    	Port Vila   	N/S Pacific   	  	SP1, NP10  
+Moana Wave    	4/3/1991    	Guam   	Guam   	  	NP10  
+Moana Wave    	4/23/1991    	Guam   	Phil Sea   	  	NP10  
+Moana Wave    	5/11/1991    	Madang   	SW Pac   	  	IN5, SP1  
+Moana Wave    	5/23/1991    	Lae   	Vitiaz Strait   	  	NP1  
+Moana Wave    	6/6/1991    	Lae   	W. Equat.Pac.   	  	SP1, NP11  
+Moana Wave    	6/12/1991    	Madang   	Paupa N. Guinea   	  	SP1  
+Moana Wave    	8/1/1991    	Papeete   	Central Pac.   	  	SP2, NP12  
+Moana Wave    	9/16/1991    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	9/29/1991    	Honolulu   	N. CenPac   	  	NP12  
+Moana Wave    	11/14/1991    	Honolulu   	E. Equat.Pac   	  	NP12, SP2  
+Moana Wave    	1/6/1992    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	1/23/1992    	Honolulu   	SP, 2   	  	NP11, 12  
+Moana Wave    	2/17/1992    	Madang   	Vitiaz St.   	  	SP1  
+Moana Wave    	3/5/1992    	Lae   	W. Solomon Sea   	  	SP1  
+Moana Wave    	4/16/1992    	Guam   	SP1   	  	NP11  
+Moana Wave    	5/18/1992    	Majuro   	  	  	NP10, 11, 12  
+Moana Wave    	6/5/1992    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	6/12/1992    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	7/9/1992    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	7/27/1992    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	8/3/1992    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	8/11/1992    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	8/24/1992    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	9/4/1992    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	9/14/1992    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	9/20/1992    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	9/29/1992    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	10/17/1992    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	10/27/1992    	Honolulu   	  	  	SP1, NP11  
+Moana Wave    	12/12/1992    	Guam   	  	  	NP10  
+Moana Wave    	12/12/1992    	Guam   	SWPAC   	  	NP10  
+Moana Wave    	1/22/1993    	Guam   	SWPAC   	  	NP10  
+Moana Wave    	2/23/1993    	Guam   	  	  	 
+Moana Wave    	3/2/1993    	Guam   	SWPAC   	  	NP10, 11, 12  
+Moana Wave    	4/4/1993    	Pohnpei   	SWPAC   	  	SP1  
+Moana Wave    	4/21/1993    	Lae   	SWPAC   	  	SP1  
+Moana Wave    	5/31/1993    	Guam   	NWPAC   	  	NP7  
+Moana Wave    	6/20/1993    	Yokosuka   	NWPAC   	  	NP7  
+Moana Wave    	7/4/1993    	Yokosuka   	Shipyard   	  	 
+Moana Wave    	8/6/1993    	At Sea   	NWPAC   	  	NP7, 10, 11  
+Moana Wave    	9/9/1993    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	9/14/1993    	At Sea   	Hawaii   	  	NP12  
+Moana Wave    	9/20/1993    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	9/25/1993    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	10/3/1993    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	10/9/1993    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	10/12/1993    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	10/27/1993    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	11/1/1993    	Honolulu   	Shipyard   	  	 
+Moana Wave    	1/1/1994    	Honolulu   	Shipyard   	  	 
+Moana Wave    	1/18/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	1/24/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	2/1/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	2/6/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	2/12/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	2/15/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	2/21/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	2/22/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	2/24/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	2/25/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	2/26/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	2/28/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	3/7/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	3/15/1994    	Honolulu   	SWPac   	  	NP10,11,12  
+Moana Wave    	4/10/1994    	Pohnpei   	SWPac   	  	NP10,11,12  
+Moana Wave    	5/13/1994    	Guam   	NWPac   	  	NP7  
+Moana Wave    	6/6/1994    	At Sea   	SWPac   	  	SP1, 4  
+Moana Wave    	6/17/1994    	Honolulu   	Hawaii   	  	NP11  
+Moana Wave    	6/25/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	7/2/1994    	Honolulu   	SWPac   	  	SP4  
+Moana Wave    	7/22/1994    	Honolulu   	Hawaii   	  	NP11  
+Moana Wave    	7/28/1994    	Honolulu   	SWPac   	  	SP4  
+Moana Wave    	8/20/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	8/28/1994    	Honolulu   	Hawaii   	  	NP11  
+Moana Wave    	9/4/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	9/9/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	9/21/1994    	Honolulu   	Hawaii   	  	NP11  
+Moana Wave    	9/28/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	10/7/1994    	Honolulu   	Hawaii   	  	NP11  
+Moana Wave    	10/13/1994    	Honolulu   	Hawaii   	  	NP11  
+Moana Wave    	10/18/1994    	At Sea   	Hawaii   	  	NP12  
+Moana Wave    	10/27/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	11/17/1994    	Honolulu   	Hawaii   	  	NP11  
+Moana Wave    	11/23/1994    	Honolulu   	SWPac   	  	SP4  
+Moana Wave    	12/6/1994    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	12/8/1994    	Honolulu   	SWPac   	  	SP4  
+Moana Wave    	12/30/1994    	Honolulu   	  	  	NP1  
+Moana Wave    	1/1/1995    	Nuku'alofa   	  	  	SP1  
+Moana Wave    	2/4/1995    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	2/12/1995    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	3/2/1995    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	4/4/1995    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	5/5/1995    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	5/12/1995    	Honolulu   	  	  	NP12,7,8,11,12  
+Moana Wave    	5/29/1995    	Yokosuka   	Japan   	  	NP7  
+Moana Wave    	6/26/1995    	Yokosuka   	  	  	NP7  
+Moana Wave    	7/13/1995    	Yokosuka   	  	  	NP7,8,11,12  
+Moana Wave    	8/3/1995    	Honolulu   	  	  	NP8,11,12  
+Moana Wave    	8/27/1995    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	9/25/1995    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	10/25/1995    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	11/3/1995    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	11/12/1995    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	11/15/1995    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	11/22/1995    	Honolulu   	N. Pac   	  	NP9,12  
+Moana Wave    	1/15/1996    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	1/28/1996    	Honolulu   	SPAC-SPAC   	  	SP1,2 NP11,12  
+Moana Wave    	2/8/1996    	Suva   	S PAC / HMR1   	  	SP1  
+Moana Wave    	3/11/1996    	Pago Pago   	S PAC - N PAC   	  	SP1,2
+Moana Wave    	3/25/1996    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	4/22/1996    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	5/9/1996    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	5/20/1996    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	6/3/1996    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	6/24/1996    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	7/8/1996    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	7/25/1996    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	8/19/1996    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	8/28/1996    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	9/14/1996    	Honolulu   	Hawaii/MOBY   	  	NP12  
+Moana Wave    	9/30/1996    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	10/7/1996    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	10/28/1996    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	11/2/1996    	Honolulu   	Hawaii/MOBY   	  	NP12  
+Moana Wave    	11/14/1996    	Honolulu   	Hawaii/MOBY   	  	NP12  
+Moana Wave    	12/9/1996    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	1/6/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	1/6/1997    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	1/11/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	1/11/1997    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	1/21/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	2/10/1997    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	2/16/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	2/21/1997    	Honolulu   	N E Pacific   	unk   	NP12  
+Moana Wave    	2/23/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	3/10/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	3/10/1997    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	3/19/1997    	Honolulu   	N E Pacific   	unk   	NP12  
+Moana Wave    	3/25/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	4/7/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	4/7/1997    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	4/15/1997    	Honolulu   	N E Pacific   	unk   	NP12  
+Moana Wave    	4/15/1997    	Honolulu   	Hawaiian   	  	NP12  
+Moana Wave    	4/25/1997    	Honolulu   	N E Pacific   	unk   	NP12  
+Moana Wave    	5/5/1997    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	5/5/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	5/12/1997    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	5/12/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	5/19/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	5/20/1997    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	6/2/1997    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	6/2/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	6/11/1997    	Honolulu   	N E Pacific   	unk   	NP12  
+Moana Wave    	6/19/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	6/26/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	7/7/1997    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	7/7/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	7/15/1997    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	7/19/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	7/28/1997    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	7/31/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	8/5/1997    	Honolulu   	N W Pacific   	unk   	NP10-11-12  
+Moana Wave    	8/6/1997    	Honolulu   	NPAC   	  	NP10,11,12  
+Moana Wave    	8/19/1997    	Guam   	N W Pacific   	unk   	NP10  
+Moana Wave    	8/20/1997    	Guam   	NPAC   	  	NP10  
+Moana Wave    	9/5/1997    	Guam   	N W Pacific   	geo   	NP10-IN5-SP1  
+Moana Wave    	9/10/1997    	Guam   	NPAC   	  	NP10  
+Moana Wave    	9/25/1997    	Pohnpei   	S W Pacific   	geo  
+Moana Wave    	10/2/1997    	Pohnpei   	NPAC   	  	NP10,11,12  
+Moana Wave    	10/17/1997    	Honolulu   	PAC   	  	NP12,11  
+Moana Wave    	11/18/1997    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	11/24/1997    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	12/1/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	12/2/1997    	Honolulu   	N E Pacific   	unk   	NP12  
+Moana Wave    	12/3/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	12/9/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	12/11/1997    	Honolulu   	N E Pacific   	unk   	NP12  
+Moana Wave    	12/19/1997    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	1/9/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	1/9/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	1/26/1998    	Honolulu   	N E Pacific   	met   	NP12  
+Moana Wave    	1/26/1998    	Honolulu   	NPAC   	  	NP12  
+Moana Wave    	2/17/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	2/17/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	3/16/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	3/16/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	3/29/1998    	Honolulu   	N E Pacific   	met   	NP12  
+Moana Wave    	3/29/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	4/7/1998    	Honolulu   	N E Pacific   	equip test   	NP12  
+Moana Wave    	4/7/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	4/13/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	4/13/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	4/18/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	4/18/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	4/21/1998    	Honolulu   	N E Pacific   	met   	NP12  
+Moana Wave    	4/21/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	4/27/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	4/27/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	5/1/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	5/1/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	5/11/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	5/11/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	5/21/1998    	Honolulu   	N E Pacific   	unk   	NP12  
+Moana Wave    	5/21/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	6/15/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	6/15/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	7/13/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	7/13/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	7/22/1998    	Hgonolulu   	N E Pacific   	met   	NP12  
+Moana Wave    	7/22/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	8/8/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	8/8/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	8/15/1998    	Honolulu   	NPAC   	  	NP9,12  
+Moana Wave    	8/15/1998    	Honolulu   	N E Pacific   	phys oc   	NP9-12  
+Moana Wave    	9/1/1998    	Honolulu   	N E Pacific   	bio   	NP9-12  
+Moana Wave    	9/1/1998    	San Fran   	NPAC   	  	NP9,12  
+Moana Wave    	9/26/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	9/26/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	10/17/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	10/17/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	10/24/1998    	Honolulu   	N E Pacific   	met   	NP12  
+Moana Wave    	10/24/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	11/5/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	11/5/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	11/9/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	11/9/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	11/16/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	11/16/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	12/7/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	12/7/1998    	Honolulu   	Hawaii   	  	NP12  
+Moana Wave    	12/14/1998    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	1/11/1999    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	1/21/1999    	Honolulu   	N E Pacific   	geo   	NP12  
+Moana Wave    	2/6/1999    	Honolulu   	N E Pacific   	met   	NP12  
+Moana Wave    	2/16/1999    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	3/15/1999    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	4/12/1999    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	4/23/1999    	Honolulu   	N E Pacific   	unk   	NP12  
+Moana Wave    	5/1/1999    	Honolulu   	N E Pacific   	met   	NP12  
+Moana Wave    	5/8/1999    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Moana Wave    	5/15/1999    	Honolulu   	N E Pacific   	unk   	NP12  
+Moana Wave    	5/28/1999    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Ron Brown    	10/1/1997    	Underway   	  	  	 
+Ron Brown    	10/9/1997    	Newport, OR   	  	  	 
+Ron Brown    	10/29/1997    	San Francisco, CA   	  	  	 
+Ron Brown    	11/16/1997    	Key West, FL   	  	  	 
+Ron Brown    	11/22/1997    	Norfolk, VA   	  	  	 
+Ron Brown    	1/3/1998    	Norfolk, VA   	  	  	 
+Ron Brown    	1/3/1998    	Miami   	N W Atlantic   	transit   	NA6-NA9  
+Ron Brown    	1/8/1998    	Miami, FL   	  	  	 
+Ron Brown    	1/8/1998    	Miami   	N W Atlantic   	phys oc   	NA9-NA10  
+Ron Brown    	1/23/1998    	Las Palmas, Canary Islands   	  	  	 
+Ron Brown    	1/23/1998    	Las Palmas   	N W Atlantic   	phys oc  
+Ron Brown    	2/26/1998    	Miami, FL   	  	  	 
+Ron Brown    	3/3/1998    	  	  	  	 
+Ron Brown    	4/28/1998    	Brooklyn, NY   	  	  	 
+Ron Brown    	4/29/1998    	Norfolk, VA   	  	  	 
+Ron Brown    	5/7/1998    	Miami, FL   	  	  	 
+Ron Brown    	5/7/1998    	Miami   	N W Atlantic   	chem  
+Ron Brown    	5/25/1998    	Lisboa   	N E Atlantic   	chem   	NA5-NA7  
+Ron Brown    	5/25/1998    	Lisbon, Portugal   	  	  	 
+Ron Brown    	6/28/1998    	Ponta Delgada, Azores   	  	  	 
+Ron Brown    	6/28/1998    	Pta.delgada   	N E Atlantic   	chem  
+Ron Brown    	7/11/1998    	Miami   	N W Atlantic   	transit  
+Ron Brown    	7/11/1998    	Miami, FL   	  	  	 
+Ron Brown    	7/30/1998    	Newport, OR   	  	  	 
+Ron Brown    	7/30/1998    	Newport   	N E Pacific   	phys oc   	NP9  
+Ron Brown    	8/18/1998    	Victoria, BC   	  	  	 
+Ron Brown    	8/18/1998    	Victoria   	N E Pacific   	phys oc   	NP9  
+Ron Brown    	8/24/1998    	Newport, OR   	  	  	 
+Ron Brown    	8/24/1998    	Newport   	N E Pacific   	phys oc   	NP9  
+Ron Brown    	9/23/1998    	Victoria   	N E Pacific   	phys oc   	NP9  
+Ron Brown    	9/23/1998    	Victoria, BC   	  	  	 
+Ron Brown    	10/1/1998    	At Sea   	N E Pacific   	phys oc   	NP9  
+Ron Brown    	10/1/1998    	Underway   	  	  	 
+Ron Brown    	10/9/1998    	Seattle   	N E Pacific   	phys oc  
+Ron Brown    	10/13/1998    	Seattle, WA   	  	  	 
+Ron Brown    	11/16/1998    	Balboa, Panama   	  	  	 
+Ron Brown    	12/14/1998    	Charleston, SC   	  	  	 
+Ron Brown    	1/14/1999    	Norfolk, VA   	  	chem   	 
+Ron Brown    	1/14/1999    	Charleston   	N W Atlantic   	chem  
+Ron Brown    	2/10/1999    	Cape Town   	S E Atlantic   	chem  
+Ron Brown    	2/11/1999    	Cape Town, South Africa   	  	chem   	 
+Ron Brown    	2/21/1999    	Mauritius   	Indian   	met   	IN3-IN4-IN1  
+Ron Brown    	2/22/1999    	Port Louis, Mauritius   	  	  	 
+Ron Brown    	3/4/1999    	Male, Maldives   	  	  	 
+Ron Brown    	3/4/1999    	Male   	Indian   	met   	IN3-IN4-IN1  
+Ron Brown    	3/26/1999    	Male   	Indian   	met   	IN3-IN4-IN1  
+Ron Brown    	3/26/1999    	Male, Maldives   	  	  	 
+Ron Brown    	4/7/1999    	Male   	Indian   	transit   	IN2-IN4-NP7A  
+Ron Brown    	4/7/1999    	Male, Maldives   	  	  	 
+Ron Brown    	4/30/1999    	Singapore   	Indian   	phys oc   	IN2-IN4  
+Ron Brown    	4/30/1999    	Singapore   	  	  	 
+Ron Brown    	6/15/1999    	Darwin, Australia   	  	  	 
+Ron Brown    	6/15/1999    	Darwin   	Indian   	phys oc  
+Ron Brown    	7/25/1999    	Kwajalein   	  	  	 
+Ron Brown    	7/25/1999    	Kwajalein   	N Pacific   	phys oc   	NP11  
+Ron Brown    	8/24/1999    	Kwajalein   	  	  	 
+Ron Brown    	9/14/1999    	Kwajalein   	  	  	 
+Ron Brown    	9/25/1999    	Honolulu, HI   	  	  	 
+Ron Brown    	10/1/1999    	Underway   	  	  	 
+Ron Brown    	10/5/1999    	Dutch Harbor, AK   	  	  	 
+Ron Brown    	11/1/1999    	Seattle   	N E Pacific   	phys oc   	NP13  
+Ron Brown    	11/1/1999    	Seattle, WA   	  	  	 
+Ron Brown    	11/6/1999    	San Diego, CA   	  	  	 
+Ron Brown    	12/11/1999    	San Diego, CA   	  	  	 
+Ron Brown    	1/1/2000    	San Diego, CA   	  	repairs   	NP9  
+Ron Brown    	2/23/2000    	San Diego, CA   	N E Pacific   	unk   	NP9  
+Ron Brown    	2/23/2000    	San Diego, CA   	  	  	 
+Ron Brown    	3/15/2000    	San Diego   	N E Pacific   	  	NP9  
+Ron Brown    	3/17/2000    	Seattle, WA   	  	unk   	 
+Ron Brown    	3/17/2000    	Seattle, WA   	  	  	 
+Ron Brown    	3/24/2000    	Newport, OR   	  	unk   	NP9  
+Ron Brown    	3/24/2000    	Newport, OR   	  	  	 
+Ron Brown    	3/24/2000    	Newport   	N E Pacific   	phys oc   	NP9  
+Ron Brown    	4/21/2000    	Seattle, WA   	  	  	 
+Ron Brown    	4/21/2000    	Seattle, WA   	  	transit   	NP6  
+Ron Brown    	4/24/2000    	Seattle   	N E Pacific   	bio   	NP9-NP6  
+Ron Brown    	4/28/2000    	Ketchikan, AK   	  	  	 
+Ron Brown    	4/28/2000    	Ketchikan, AK   	  	transit   	NP9  
+Ron Brown    	4/29/2000    	Kodiak   	N E Pacific   	bio   	NP6  
+Ron Brown    	5/1/2000    	Seattle, WA   	  	repairs   	NP9  
+Ron Brown    	5/10/2000    	Dutch Harbor   	N E Pacific   	bio   	NP6  
+Ron Brown    	5/20/2000    	Seattle, WA   	  	  	 
+Ron Brown    	5/20/2000    	Seattle, WA   	  	unk   	NP6  
+Ron Brown    	6/5/2000    	Dutch Harbor   	N E Pacific   	phys oc  
+Ron Brown    	6/13/2000    	Seattle, WA   	  	  	 
+Ron Brown    	6/13/2000    	Seattle, WA   	  	transit   	NP9  
+Ron Brown    	6/17/2000    	Victoria, B.C.   	  	unk   	NP9  
+Ron Brown    	6/17/2000    	Victoria, BC   	  	  	 
+Ron Brown    	6/19/2000    	Victoria   	N E Pacific   	phys oc   	NP9  
+Ron Brown    	6/29/2000    	Newport, OR   	  	unk   	 
+Ron Brown    	7/9/2000    	Newport   	N E Pacific   	phys oc   	NP9  
+Ron Brown    	7/20/2000    	Victoria, B.C.   	  	unk   	 
+Ron Brown    	7/20/2000    	Victoria   	N E Pacific   	phys oc   	NP91  
+Ron Brown    	7/20/2000    	Victoria, BC   	  	  	 
+Ron Brown    	8/9/2000    	Seattle, WA   	  	unk   	NP6  
+Ron Brown    	8/9/2000    	Seattle, WA   	  	  	 
+Ron Brown    	8/10/2000    	Seattle   	N E Pacific   	phys oc   	NP9  
+Ron Brown    	8/26/2000    	Dutch Harbor, AK   	  	  	 
+Ron Brown    	8/26/2000    	Dutch Harbor, AK   	  	unk   	NP5  
+Ron Brown    	9/7/2000    	Kodiak   	N E Pacific   	bio   	NP9-NP6  
+Ron Brown    	9/16/2000    	Dutch Harbor, AK   	  	  	 
+Ron Brown    	9/16/2000    	Dutch Harbor, AK   	  	unk   	NP5  
+Ron Brown    	9/25/2000    	Dutch Harbor, AK   	  	  	 
+Ron Brown    	9/25/2000    	Dutch Harbor, AK   	  	unk   	NP6  
+Ron Brown    	10/1/2000    	Underway   	  	  	 
+Ron Brown    	10/16/2000    	San Diego, CA   	  	unk   	 
+Ron Brown    	10/16/2000    	San Diego, CA   	  	  	 
+Ron Brown    	11/19/2000    	Rodman, Panama   	  	transit   	 
+Ron Brown    	11/19/2000    	Rodman, Panama   	  	  	 
+Ron Brown    	11/26/2000    	Charleston, SC   	  	  	 
+Ron Brown    	11/26/2000    	  	  	unk   	NA6  
+Ron Brown    	1/24/2001    	Charleston, SC   	  	unk   	NP13  
+Ron Brown    	1/24/2001    	Charleston, SC   	  	  	 
+Ron Brown    	1/28/2001    	Miami, FL   	  	  	 
+Ron Brown    	2/1/2001    	Rodman, Panama   	  	  	 
+Ron Brown    	3/14/2001    	Pearl Harbor, Hawaii   	  	unk   	NP7  
+Ron Brown    	3/14/2001    	Pearl Harbor, HI   	  	  	 
+Ron Brown    	4/27/2001    	Yokosuka, Japan   	  	transit   	NP9  
+Ron Brown    	4/27/2001    	Yokosuka, Japan   	  	  	 
+Ron Brown    	5/6/2001    	Dutch Harbor, AK   	  	unk   	NP5  
+Ron Brown    	5/6/2001    	Dutch Harbor, AK   	  	  	 
+Ron Brown    	5/13/2001    	Seward, AK   	  	unk   	NP5  
+Ron Brown    	5/25/2001    	Kodiak, AK   	  	unk   	NP5  
+Ron Brown    	5/25/2001    	Kodiak, AK   	  	  	 
+Ron Brown    	6/10/2001    	Dutch Harbor, Ak   	  	unk   	NP6  
+Ron Brown    	6/10/2001    	Dutch Harbor, AK   	  	  	 
+Ron Brown    	6/26/2001    	Victoria, B.C.   	N E Pacific   	bio   	NP9  
+Ron Brown    	6/26/2001    	Victoria, BC   	  	  	 
+Ron Brown    	6/26/2001    	Victoria, BC   	  	  	 
+Ron Brown    	7/14/2001    	Newport, B.C.   	  	unk   	NP9  
+Ron Brown    	7/14/2001    	Newport, OR   	  	  	 
+Ron Brown    	7/14/2001    	Newport, OR   	  	  	 
+Ron Brown    	8/1/2001    	Victoria, B.C.   	  	unk   	NP9  
+Ron Brown    	8/1/2001    	Victoria, BC   	  	  	 
+Ron Brown    	8/3/2001    	Seattle, WA   	  	unk   	NP9  
+Ron Brown    	8/27/2001    	Seattle, WA   	  	  	 
+Ron Brown    	8/27/2001    	Seattle, WA   	  	unk   	NP9  
+Ron Brown    	8/27/2001    	Seattle, WA   	  	  	 
+Ron Brown    	9/5/2001    	San Diego, CA   	  	unk   	NP13  
+Ron Brown    	9/5/2001    	San Diego, CA   	  	  	 
+Ron Brown    	10/1/2001    	Underway   	  	  	 
+Ron Brown    	10/1/2001    	Underway   	Santa Cruz, Galapagos Is,
+Ron Brown    	10/7/2001    	Balboa, Panama   	  	  	 
+Ron Brown    	10/9/2001    	Sabta Cruz, Galapagos   	  	phys oc   	SP3A  
+Ron Brown    	10/9/2001    	Santa Cruz   	  	  	 
+Ron Brown    	10/9/2001    	Santa Cruz   	  	  	 
+Ron Brown    	10/29/2001    	Arica, Chile   	  	unk   	SP3  
+Ron Brown    	10/29/2001    	Arica, Chile   	  	  	 
+Ron Brown    	12/8/2001    	Balboa, Panama   	  	transit   	NA9  
+Ron Brown    	1/15/2002    	Charleston, SC   	  	unk   	NA9  
+Ron Brown    	1/15/2002    	Charleston, SC   	  	  	 
+Ron Brown    	2/1/2002    	Recife, Brazil   	  	unk   	NA10  
+Ron Brown    	2/1/2002    	Recife, Brazil   	  	  	 
+Ron Brown    	3/2/2002    	Bridgetown, Barbados   	  	unk   	NA9  
+Ron Brown    	3/2/2002    	Bridgetown, BA   	  	  	 
+Ron Brown    	3/10/2002    	Bridgetown, Barbados   	  	unk   	NA9  
+Ron Brown    	3/10/2002    	Bridgetown, BA   	  	  	 
+Ron Brown    	3/21/2002    	St Thomas, USVI   	  	unk   	NA8  
+Ron Brown    	3/21/2002    	St. Thomas, USVI   	  	  	 
+Ron Brown    	4/1/2002    	Jacksonville, FL   	  	  	 
+Ron Brown    	4/1/2002    	Jacksonville, FL   	  	unk   	NA6  
+Ron Brown    	6/17/2002    	Jacksonville, FL   	  	  	 
+Ron Brown    	6/17/2002    	Jacksonville, FL   	  	unk   	NA6  
+Ron Brown    	7/2/2002    	Miami, FL   	  	  	 
+Ron Brown    	7/2/2002    	Miami, FL   	  	unk   	NA6  
+Ron Brown    	7/12/2002    	Charleston, SC   	  	  	 
+Ron Brown    	7/12/2002    	Charleston, SC   	  	unk   	NA9  
+Ron Brown    	7/29/2002    	Portsmouth, NH   	  	  	 
+Ron Brown    	7/29/2002    	Portsmouth, NH   	  	unk   	NA9  
+Ron Brown    	8/16/2002    	Miami, FL   	  	unk   	NP9  
+Ron Brown    	8/16/2002    	Charleston, SC   	  	  	 
+Ron Brown    	8/19/2002    	Miami, FL   	  	unk   	NP9  
+Ron Brown    	8/19/2002    	Miami, FL   	  	  	 
+Ron Brown    	8/27/2002    	Miami, FL   	  	  	 
+Ron Brown    	8/27/2002    	Miami, FL   	  	unk   	NP13  
+Ron Brown    	9/19/2002    	New York, NY   	  	  	 
+Ron Brown    	9/19/2002    	New York, NY   	  	unk   	NA6  
+Ron Brown    	10/3/2002    	San Juan, PR   	  	unk   	NA6  
+Ron Brown    	10/6/2002    	Colon, Panama   	  	unk   	NA6  
+Ron Brown    	10/8/2002    	Balboa, Panama   	  	unk   	NA6  
+Ron Brown    	11/10/2002    	Balboa, Panama   	  	unk   	NA6  
+Ron Brown    	11/17/2002    	Balboa, Panama   	  	unk   	NA6  
+Roger Revelle    	1/1/1996    	Moss Point   	  	  	NA9,NP9  
+Roger Revelle    	7/8/1996    	Moss Point   	  	  	NA9,NP9  
+Roger Revelle    	8/8/1996    	San Diego   	Off So. Calif.   	  	NP9  
+Roger Revelle    	9/27/1996    	San Diego   	Off So. Calif.   	  	NP9  
+Roger Revelle    	10/10/1996    	San Diego   	Off So. Calif.   	  	NP9  
+Roger Revelle    	10/12/1996    	at sea   	S. Calif. Bight   	  	NP9  
+Roger Revelle    	10/27/1996    	at sea   	S. Calif. Bight   	  	NP9  
+Roger Revelle    	10/28/1996    	at sea   	S. Calif. Bight   	  	NP9  
+Roger Revelle    	10/29/1996    	at sea   	Off So. Calif.   	  	NP9  
+Roger Revelle    	11/3/1996    	at sea   	Off So. Calif.   	  	NP9  
+Roger Revelle    	11/10/1996    	San Diego   	Off So. Calif   	  	NP9  
+Roger Revelle    	11/18/1996    	San Diego   	Off So. Calif.   	  	NP9  
+Roger Revelle    	11/21/1996    	San Diego   	San Diego   	  	 
+Roger Revelle    	12/27/1996    	San Diego   	Transit   	  	SP6,9  
+Roger Revelle    	12/27/1996    	San Diego   	Transit   	  	SP6,9  
+Roger Revelle    	1/10/1997    	Talara   	S E Pacific   	geo   	SP6-SP9  
+Roger Revelle    	1/11/1997    	Talara   	  	  	SP6,9  
+Roger Revelle    	2/23/1997    	Punta Arenas   	  	  	SP3A,6A,9A  
+Roger Revelle    	2/23/1997    	Punta Arenas   	S E Pacific   	geo  
+Roger Revelle    	4/9/1997    	Callao   	  	  	NP12-13  
+Roger Revelle    	4/9/1997    	Callao   	N E Pacific   	unk   	NP12-13  
+Roger Revelle    	5/5/1997    	San Diego   	N E Pacific   	unk   	NP9  
+Roger Revelle    	5/8/1997    	San Diego   	Tanner Banks   	  	NP9  
+Roger Revelle    	5/14/1997    	San Diego   	N E Pacific   	geo   	NP9  
+Roger Revelle    	5/19/1997    	San Diego   	Off San Diego   	  	NP9  
+Roger Revelle    	5/22/1997    	San Diego   	N E Pacific   	unk  
+Roger Revelle    	5/23/1997    	San Diego   	  	  	 
+Roger Revelle    	7/28/1997    	San Diego   	Off San Diego   	  	NP9  
+Roger Revelle    	8/3/1997    	San Diego   	N E Pacific   	bio   	NP9  
+Roger Revelle    	8/4/1997    	San Diego   	Monterey Bay   	  	NP9  
+Roger Revelle    	8/10/1997    	San Franc   	N E Pacific   	transit  
+Roger Revelle    	8/11/1997    	San Franc.   	Transit to Hawaii   	  	NP9  
+Roger Revelle    	8/23/1997    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	8/24/1997    	Honolulu   	Off Hawaii   	  	NP11,12  
+Roger Revelle    	9/22/1997    	At Sea   	N E Pacific   	unk   	NP12  
+Roger Revelle    	9/24/1997    	Honolulu   	Off Hawaii   	  	NP12  
+Roger Revelle    	9/25/1997    	Honolulu   	N E Pacific   	transit  
+Roger Revelle    	9/28/1997    	Honolulu   	  	  	NP12,SP1,4  
+Roger Revelle    	10/17/1997    	Lyttelton   	S W Pacific   	bio   	SP7  
+Roger Revelle    	10/20/1997    	Lyttelton   	  	  	SP7  
+Roger Revelle    	11/23/1997    	Lyttelton   	S W Pacific   	bio   	SP7  
+Roger Revelle    	12/2/1997    	Lyttelton   	  	  	SP7  
+Roger Revelle    	1/4/1998    	Lyttleton   	S W Pacific   	bio   	SP7  
+Roger Revelle    	1/8/1998    	Lyttelton   	S W Pacific   	bio   	SP7  
+Roger Revelle    	2/13/1998    	Lyttelton   	S W Pacific   	bio   	SP7  
+Roger Revelle    	3/24/1998    	Lyttelton   	S W Pacific   	chem   	SP1  
+Roger Revelle    	5/3/1998    	Suva   	S W Pacific   	transit   	SP1-NP11  
+Roger Revelle    	5/9/1998    	Pago Pago   	S Pacific   	geo   	SP2  
+Roger Revelle    	6/3/1998    	Honolulu   	N E Pacific   	phys oc  
+Roger Revelle    	7/8/1998    	Honolulu   	N E Pacific   	geo   	NP12  
+Roger Revelle    	7/11/1998    	Honolulu   	N E Pacific   	phys oc  
+Roger Revelle    	8/15/1998    	Honolulu   	N E Pacific   	phys oc  
+Roger Revelle    	9/19/1998    	Honolulu   	N E Pacific   	phys oc  
+Roger Revelle    	10/17/1998    	San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	10/26/1998    	Pichilingue   	N E Pacific   	unk  
+Roger Revelle    	11/7/1998    	San Diego   	N E Pacific   	educ   	NP9  
+Roger Revelle    	11/11/1998    	San Diego   	N E Pacific   	unk   	NP9  
+Roger Revelle    	11/30/1998    	Lyttelton   	S W Pacific   	bio   	SP7  
+Roger Revelle    	1/7/1999    	San Diego   	N E Pacific   	phys oc   	NP9  
+Roger Revelle    	1/9/1999    	San Diego   	N E Pacific   	bio   	NP9  
+Roger Revelle    	2/18/1999    	San Diego   	N E Pacific   	transit  
+Roger Revelle    	3/1/1999    	Honolulu   	N W Pacific   	  	NP7-11  
+Roger Revelle    	4/3/1999    	Guam   	N W Pacific   	phys oc   	NP7-1  
+Roger Revelle    	5/5/1999    	Pusan   	N W Pacific   	phys oc   	NP7  
+Roger Revelle    	5/19/1999    	Pusan   	N W Pacific   	phys oc   	NP7  
+Roger Revelle    	6/6/1999    	Pusan   	N W Pacific   	phys oc   	NP7  
+Roger Revelle    	6/24/1999    	Pusan   	N E Pacific   	phys oc   	NP9  
+Roger Revelle    	7/22/1999    	Pusan   	N W Pacific   	phys oc  
+Roger Revelle    	8/12/1999    	Guam   	N W Pacific   	phys oc  
+Roger Revelle    	9/3/1999    	Guam   	N W Pacific   	phys oc  
+Roger Revelle    	10/2/1999    	Naha   	N W Pacific   	  	NP7  
+Roger Revelle    	10/9/1999    	Pusan   	N W Pacific   	phys oc   	NP7  
+Roger Revelle    	10/24/1999    	Pusan   	N W Pacific   	equip test  
+Roger Revelle    	10/28/1999    	Pusan   	N W Pacific   	  	NP7  
+Roger Revelle    	1/1/2000    	Suva   	  	transit   	 
+Roger Revelle    	1/1/2000    	Suva   	  	transit   	 
+Roger Revelle    	1/1/2000    	Suva   	  	transit   	 
+Roger Revelle    	1/1/2000    	Papeete   	S Pacific   	unk   	SP8  
+Roger Revelle    	1/1/2000    	Papeete   	S Pacific   	unk   	SP8  
+Roger Revelle    	1/1/2000    	Papeete   	S Pacific   	unk   	SP8  
+Roger Revelle    	1/1/2000    	Suva   	  	transit   	 
+Roger Revelle    	1/1/2000    	Papeete   	S Pacific   	unk   	SP8  
+Roger Revelle    	1/1/2000    	Suva   	S Pacific   	phys oc   	SP2  
+Roger Revelle    	1/1/2000    	Nuku'alofa   	S W Pacific   	unk   	SP1  
+Roger Revelle    	1/1/2000    	Suva   	S W Pacific   	bio   	SP1  
+Roger Revelle    	1/1/2000    	Suva   	  	transit   	 
+Roger Revelle    	1/1/2000    	Suva   	  	transit   	 
+Roger Revelle    	1/1/2000    	Papeete   	S Pacific   	unk   	SP8  
+Roger Revelle    	1/1/2000    	Papeete   	S Pacific   	unk   	SP8  
+Roger Revelle    	1/1/2000    	Suva   	  	transit   	 
+Roger Revelle    	1/1/2000    	Papeete   	S Pacific   	unk   	SP8  
+Roger Revelle    	1/1/2000    	Suva   	  	transit   	 
+Roger Revelle    	1/1/2000    	Papeete   	S Pacific   	unk   	SP8  
+Roger Revelle    	1/1/2000    	Suva   	  	transit   	 
+Roger Revelle    	1/1/2000    	Papeete   	S Pacific   	unk   	SP8  
+Roger Revelle    	1/1/2000    	Papeete   	S Pacific   	unk   	SP8  
+Roger Revelle    	1/1/2000    	Suva   	  	transit   	 
+Roger Revelle    	1/1/2000    	  	N W Pacific   	unk   	NP5  
+Roger Revelle    	1/1/2000    	Suva   	  	transit   	 
+Roger Revelle    	1/1/2000    	Auckland   	S W Pacific   	unk   	SP4  
+Roger Revelle    	1/1/2000    	Callao   	unk   	unk   	 
+Roger Revelle    	1/1/2000    	Suva   	  	transit   	 
+Roger Revelle    	1/1/2000    	  	N W Pacific   	unk   	NP5  
+Roger Revelle    	1/1/2000    	Papeete   	S W Pacific   	unk   	SP1  
+Roger Revelle    	1/1/2000    	Auckland   	S W Pacific   	unk   	SP4  
+Roger Revelle    	1/1/2000    	San Diego   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	Papeete   	S W Pacific   	unk   	SP1  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Roger Revelle    	1/1/2000    	Sasebo   	N W Pacific   	unk   	NP7  
+Roger Revelle    	1/1/2000    	Auckland   	S W Pacific   	unk   	SP4  
+Roger Revelle    	1/1/2000    	Auckland   	S W Pacific   	unk   	SP4  
+Roger Revelle    	1/1/2000    	Papeete   	S Pacific   	unk   	SP8  
+Roger Revelle    	1/1/2000    	Auckland   	S W Pacific   	unk   	SP4  
+Roger Revelle    	1/1/2000    	Auckland   	S W Pacific   	unk   	SP4  
+Roger Revelle    	1/1/2000    	Auckland   	S W Pacific   	unk   	SP4  
+Roger Revelle    	1/1/2000    	Auckland   	S W Pacific   	unk   	SP4  
+Roger Revelle    	1/1/2000    	San Diego   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	Auckland   	S W Pacific   	unk   	SP4  
+Roger Revelle    	1/1/2000    	San Diego   	unk   	geo   	 
+Roger Revelle    	1/1/2000    	Auckland   	S W Pacific   	unk   	SP4  
+Roger Revelle    	1/1/2000    	Auckland   	S W Pacific   	unk   	SP4  
+Roger Revelle    	1/1/2000    	Auckland   	S W Pacific   	unk   	SP4  
+Roger Revelle    	1/1/2000    	Auckland   	S W Pacific   	unk   	SP4  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	Callao   	unk   	unk   	 
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	?/San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	?/San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	Callao   	unk   	unk   	 
+Roger Revelle    	1/1/2000    	Callao   	unk   	unk   	 
+Roger Revelle    	1/1/2000    	Callao   	unk   	unk   	 
+Roger Revelle    	1/1/2000    	San Diego   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Roger Revelle    	1/1/2000    	?/San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	1/1/2000    	Callao   	unk   	unk   	 
+Roger Revelle    	1/1/2000    	Callao   	unk   	unk   	 
+Roger Revelle    	1/1/2000    	Callao   	unk   	unk   	 
+Roger Revelle    	1/1/2000    	Callao   	unk   	unk   	 
+Roger Revelle    	1/1/2000    	Callao   	unk   	unk   	 
+Roger Revelle    	1/1/2000    	Callao   	unk   	unk   	 
+Roger Revelle    	1/1/2000    	Callao   	unk   	unk   	 
+Roger Revelle    	1/1/2000    	Callao   	unk   	unk   	 
+Roger Revelle    	1/1/2000    	Callao   	unk   	unk   	 
+Roger Revelle    	1/1/2000    	Callao   	unk   	unk   	 
+Roger Revelle    	1/1/2000    	Callao   	unk   	unk   	 
+Roger Revelle    	1/1/2000    	?/San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	1/1/2000    	Suva   	  	transit   	 
+Roger Revelle    	1/1/2000    	Suva   	S W Pacific   	bio   	SP1  
+Roger Revelle    	1/1/2000    	Papeete   	S Pacific   	unk   	SP8  
+Roger Revelle    	1/1/2000    	?/San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	?/San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	?/San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	1/1/2000    	?/San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	?/San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	Papeete   	S Pacific   	unk   	SP8  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	?/San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	?/San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	?/San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	?/San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	1/1/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/1/2000    	?/San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	1/12/2000    	Sasebo   	  	transit   	NP7  
+Roger Revelle    	1/16/2000    	Pusan   	N W Pacific   	unk   	NP7  
+Roger Revelle    	2/7/2000    	Pusan   	N W Pacific   	unk   	NP7  
+Roger Revelle    	3/13/2000    	Pusan   	N W Pacific   	phys oc   	NP7  
+Roger Revelle    	4/8/2000    	Pusan   	N W Pacific   	unk   	NP10  
+Roger Revelle    	5/5/2000    	Kao/Hsiung Kang, Taiwan   	N W Pacific
+Roger Revelle    	5/24/2000    	Honolulu   	N E Pacific   	phys oc  
+Roger Revelle    	7/7/2000    	San Diego   	N E Pacific   	unk   	NP9  
+Roger Revelle    	7/12/2000    	at sea   	N E Pacific   	unk   	NP9  
+Roger Revelle    	7/14/2000    	San Diego   	N E Pacific   	unk   	NP6  
+Roger Revelle    	7/28/2000    	at sea   	N E Pacific   	unk   	NP6  
+Roger Revelle    	8/13/2000    	Astoria   	N E Pacific   	unk   	NP12  
+Roger Revelle    	8/29/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	10/4/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	11/11/2000    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	12/7/2000    	Hilo   	  	transit   	NP12  
+Roger Revelle    	1/30/2001    	San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	2/17/2001    	San Diego   	  	unk   	NP12  
+Roger Revelle    	2/25/2001    	Hilo   	N E Pacific   	unk   	NP12  
+Roger Revelle    	3/28/2001    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	4/14/2001    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	4/28/2001    	Hilo   	N E Pacific   	unk   	NP9  
+Roger Revelle    	5/14/2001    	San Diego   	N E Pacific   	phys oc  
+Roger Revelle    	6/14/2001    	San Diego   	N E Pacific   	phys oc  
+Roger Revelle    	7/30/2001    	Pto. Caldera   	N E Pacific   	unk  
+Roger Revelle    	8/23/2001    	Pto. Caldera   	S E Pacific   	unk  
+Roger Revelle    	8/27/2001    	Pto. Ayora   	N E Pacific   	unk   	NP13  
+Roger Revelle    	9/21/2001    	Pto. Ayora   	N E Pacific   	unk   	NP9  
+Roger Revelle    	9/28/2001    	Pto. Caldera   	S E Pacific   	phys oc
+Roger Revelle    	11/5/2001    	Callao   	S E Pacific   	unk   	SP3A  
+Roger Revelle    	12/16/2001    	Easter Island   	  	transit   	SP3  
+Roger Revelle    	1/6/2002    	Lyttelton   	S W Pacific   	unk   	SP7  
+Roger Revelle    	2/17/2002    	Lyttelton   	unk   	unk   	 
+Roger Revelle    	2/25/2002    	Lyttelton   	  	transit   	NP11  
+Roger Revelle    	3/7/2002    	Pago Pago   	S Pacific   	unk   	SP5  
+Roger Revelle    	3/8/2002    	Pago Pago   	N E Pacific   	transit  
+Roger Revelle    	3/18/2002    	Hilo   	N Pacific   	unk   	NP11  
+Roger Revelle    	4/1/2002    	Hilo   	N E Pacific   	unk   	NP12  
+Roger Revelle    	4/23/2002    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	5/7/2002    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	5/21/2002    	Honolulu   	  	transit   	NP9  
+Roger Revelle    	6/4/2002    	San Diego   	N E Pacific   	unk   	NP9  
+Roger Revelle    	6/8/2002    	San Diego   	N E Pacific   	phys oc   	NP9  
+Roger Revelle    	6/26/2002    	Newport   	N E Pacific   	geo   	NP9  
+Roger Revelle    	7/31/2002    	Newport   	N E Pacific   	multi   	NP9  
+Roger Revelle    	8/21/2002    	Newport   	N E Pacific   	transit   	NP9  
+Roger Revelle    	9/2/2002    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	10/1/2002    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	10/24/2002    	Honolulu   	N E Pacific   	transit  
+Roger Revelle    	11/21/2002    	San Diego   	unk   	unk   	 
+Roger Revelle    	11/23/2002    	San Diego   	N E Pacific   	bio   	NP9  
+Roger Revelle    	12/2/2002    	San Diego   	unk   	unk   	 
+Roger Revelle    	1/7/2003    	San Diego   	N E Pacific   	educ   	NP9  
+Roger Revelle    	1/15/2003    	San Diego   	N E Pacific   	unk   	NP9  
+Roger Revelle    	2/14/2003    	San Diego   	unk   	unk   	 
+Roger Revelle    	4/3/2003    	San Diego   	N E Pacific   	phys oc   	NP9  
+Roger Revelle    	4/4/2003    	San Diego   	N E Pacific   	phys oc   	NP9  
+Roger Revelle    	5/19/2003    	San Diego   	N E Pacific   	unk   	NP9  
+Roger Revelle    	5/29/2003    	San Diego   	N E Pacific   	transit  
+Roger Revelle    	6/10/2003    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	6/18/2003    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	6/24/2003    	Honolulu   	N E Pacific   	phys oc  
+Roger Revelle    	7/13/2003    	Honolulu   	N E Pacific   	bio   	NP12  
+Roger Revelle    	8/25/2003    	Honolulu   	N E Pacific   	transit  
+Roger Revelle    	9/5/2003    	Newport   	N E Pacific   	phys oc   	NP9  
+Roger Revelle    	9/27/2003    	San Diego   	S E Pacific   	geo   	SP3A  
+Roger Revelle    	11/10/2003    	Manta   	S E Pacific   	phys oc   	SP3A  
+Roger Revelle    	11/30/2003    	Arica   	S E Pacific   	phys oc   	SP3A  
+Roger Revelle    	12/28/2003    	Callao   	N E Pacific   	unk   	NP13  
+Roger Revelle    	2/9/2004    	Puerto Caldera   	N E Pacific   	phys
+Roger Revelle    	3/11/2004    	Mazatlan   	N E Pacific   	unk   	NP13  
+Roger Revelle    	4/24/2004    	San Diego   	N E Pacific   	unk   	NP13  
+Roger Revelle    	5/26/2004    	San Diego   	  	phys oc   	NP9  
+Roger Revelle    	6/24/2004    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	7/10/2004    	Dutch Harbor   	N W Pacific   	phys oc
+Roger Revelle    	8/20/2004    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	9/13/2004    	Honolulu   	N E Pacific   	phys oc  
+Roger Revelle    	10/10/2004    	Honolulu   	N E Pacific   	transit  
+Roger Revelle    	10/30/2004    	San Diego   	N E Pacific   	bio   	NP9  
+Roger Revelle    	11/2/2004    	San Diego   	N E Pacific   	phys oc  
+Roger Revelle    	12/3/2004    	San Diego   	N E Pacific   	unk   	NP12  
+Roger Revelle    	1/9/2005    	Papeete   	S Pacific   	unk   	SP5  
+Roger Revelle    	2/26/2005    	Wellington   	S W Pacific   	geo   	SP4  
+Roger Revelle    	3/29/2005    	Auckland   	  	transit   	NP10  
+Roger Revelle    	4/18/2005    	Kaohsiung   	N W Pacific   	unk   	NP10  
+Roger Revelle    	5/16/2005    	Kao/hsiung   	  	transit   	NP7  
+Roger Revelle    	5/26/2005    	Yokohama   	N W Pacific   	phys oc   	NP7  
+Roger Revelle    	6/17/2005    	Yokohama   	N W Pacific   	phys oc   	NP7  
+Roger Revelle    	7/21/2005    	Yokohama   	N Pacific   	unk   	NP8  
+Roger Revelle    	9/2/2005    	Honolulu   	N E Pacific   	unk   	NP9  
+Roger Revelle    	10/5/2005    	San Diego   	N E Pacific   	unk   	NP9  
+Roger Revelle    	10/12/2005    	San Diego   	  	repairs   	NP9  
+Roger Revelle    	1/5/2006    	San Diego   	  	transit   	SP5  
+Roger Revelle    	1/20/2006    	Papeete   	S Pacific   	geo   	SP5  
+Roger Revelle    	3/7/2006    	Papeete   	S W Pacific   	geo   	SP4  
+Roger Revelle    	4/18/2006    	Honolulu   	N E Pacific   	phys oc  
+Roger Revelle    	5/26/2006    	Honolulu   	N E Pacific   	educ   	NP12  
+Roger Revelle    	6/2/2006    	Honolulu   	N E Pacific   	phys oc   	NP12  
+Roger Revelle    	6/22/2006    	Honolulu   	N E Pacific   	phys oc  
+Roger Revelle    	7/1/2006    	Honolulu   	N E Pacific   	unk   	NP12  
+Roger Revelle    	7/5/2006    	Hilo   	N E Pacific   	transit   	NP9  
+Roger Revelle    	7/16/2006    	San Diego   	N E Pacific   	unk   	NP9  
+Roger Revelle    	8/12/2006    	San Francisco   	N E Pacific   	unk  
+Roger Revelle    	9/26/2006    	San Diego   	N E Pacific   	unk   	NP9  
+Roger Revelle    	10/6/2006    	San Diego   	N E Pacific   	unk   	NP9  
+Roger Revelle    	10/21/2006    	San Diego   	Southern   	bio   	AN1  
+Roger Revelle    	11/7/2006    	San Diego   	N E Pacific   	educ   	NP9  
+Roger Revelle    	11/11/2006    	San Diego   	N E Pacific   	educ   	NP9  
+Roger Revelle    	12/1/2006    	San Diego   	S Pacific   	transit   	SP5  
+Roger Revelle    	12/17/2006    	Apia, Samoa   	S W Pacific   	unk   	SP4  
+Roger Revelle    	2/4/2007    	Dunedin, NZ   	Indian   	phys oc   	IN7  
+Roger Revelle    	3/22/2007    	Fremantle, Aus.   	Indian   	phys oc  
+Roger Revelle    	5/7/2007    	Phuket   	Indian   	unk   	IN4  
+Roger Revelle    	6/18/2007    	Phuket   	Indian   	unk   	IN2  
+Roger Revelle    	8/7/2007    	Singapore   	  	unk   	 
+Roger Revelle    	8/14/2007    	Singapore   	Indian   	transit   	IN1  
+Roger Revelle    	8/23/2007    	Goa(Marmagoa)   	Indian   	unk   	IN1  
+Roger Revelle    	9/20/2007    	Goa(Marmagoa)   	Indian   	chem   	IN1  
+Roger Revelle    	10/22/2007    	Marmagoa (Goa) India   	Indian   	unk
+Roger Revelle    	11/7/2007    	Victoria, Seychelles   	Indian   	phys
+Roger Revelle    	11/28/2007    	Mauritius   	Indian   	unk   	IN3  
+Roger Revelle    	12/10/2007    	Durban South Africa   	In port   	 
+Roger Revelle    	12/10/2007    	Durban   	  	unk   	SA4  
+Roger Revelle    	1/7/2008    	Durban South Africa   	SE Indian
+Roger Revelle    	1/7/2008    	Durban South Africa   	SE Indian
+Roger Revelle    	2/4/2008    	Durban South Africa   	S. Indian
+Roger Revelle    	3/20/2008    	Cape Town South Africa   	Atlantic  
+Roger Revelle    	3/20/2008    	Cape Town South Africa   	Atlantic  
+Roger Revelle    	3/20/2008    	Cape Town South Africa   	Atlantic  
+Roger Revelle    	4/19/2008    	Port Everglades FL USA   	TOTO/AUTEC
+Roger Revelle    	5/2/2008    	Port Everglades FL USA   	NW.
+Roger Revelle    	6/2/2008    	Woods Hole MA USA   	In port   	  	NA6,
+Roger Revelle    	6/7/2008    	Woods Hole MA USA   	In port   	  	NA6,
+Roger Revelle    	7/9/2008    	Woods Hole MA USA   	MAR   	  	NA7, NA10  
+Roger Revelle    	7/9/2008    	Woods Hole MA USA   	MAR   	  	NA7, NA10  
+Roger Revelle    	7/9/2008    	Woods Hole MA USA   	MAR   	  	NA7, NA10  
+Roger Revelle    	8/21/2008    	Miami FL USA   	TOTO/AUTEC   	  	NA9, NA9  
+Roger Revelle    	10/7/2008    	Port Everglades FL USA   	Gulf of
+Roger Revelle    	10/7/2008    	Port Everglades FL USA   	Gulf of
+Roger Revelle    	10/27/2008    	Tampa FL USA   	  	  	NA9, NA9  
+Roger Revelle    	11/11/2008    	Tampa FL USA   	NW-SW Atlantic   	 
+Roger Revelle    	11/11/2008    	Tampa FL USA   	NW-SW Atlantic   	 
+Roger Revelle    	12/4/2008    	Montevideo Uruguay   	Patagonian
+Roger Revelle    	12/4/2008    	Montevideo Uruguay   	Patagonian
+Roger Revelle    	1/10/2009    	Rada Punta Arenas Chile   	Antartic
+Roger Revelle    	2/27/2009    	Rada Punta Arenas Chile   	South
+Roger Revelle    	3/20/2009    	Cape Town South Africa   	Indian
+Roger Revelle    	3/20/2009    	Cape Town South Africa   	Indian
+Roger Revelle    	5/20/2009    	Fremantle Australia   	  	  	IN5, IN5  
+Roger Revelle    	6/25/2009    	Port Darwin Australia   	IN5   	  	IN5,
+Roger Revelle    	7/1/2009    	Port Darwin Australia   	  	  	IN5, NP10  
+Roger Revelle    	7/1/2009    	Port Darwin Australia   	  	  	IN5, NP10  
+Roger Revelle    	7/16/2009    	Chi-Lung Taiwan   	  	  	NP10, NP10  
+Roger Revelle    	8/3/2009    	Chi-Lung Taiwan   	East China Sea   	 
+Roger Revelle    	8/13/2009    	Chi-Lung Taiwan   	East China Sea   	 
+Roger Revelle    	8/23/2009    	Chi-Lung Taiwan   	East China Sea   	 
+Roger Revelle    	9/8/2009    	Chi-Lung Taiwan   	East China Sea   	 
+Roger Revelle    	9/12/2009    	Chi-Lung Taiwan   	East China Sea   	 
+Roger Revelle    	9/19/2009    	Chi-Lung Taiwan   	Western Pacific  
+Roger Revelle    	10/13/2009    	Kao-hsiung Taiwan   	Western
+Roger Revelle    	11/6/2009    	Apra Harbor Guam   	Western Pacific
+Roger Revelle    	11/6/2009    	Apra Harbor Guam   	Western Pacific
+Roger Revelle    	11/6/2009    	Apra Harbor Guam   	Western Pacific
+Roger Revelle    	11/21/2009    	Nuku'alofa Tonga   	Lau Basin   	 
+Roger Revelle    	12/9/2009    	Suva Harbor Fiji Islands   	Lau
+Roger Revelle    	12/9/2009    	Suva Harbor Fiji Islands   	Lau
+Roger Revelle    	12/18/2009    	Nuku'alofa Tonga   	South Pacific  
+Roger Revelle    	12/24/2009    	Tauranga New Zealand   	  	  	 
+Roger Revelle    	12/24/2009    	Tauranga New Zealand   	standown   	  	 
+Roger Revelle    	1/13/2010    	Tauranga New Zealand   	  	  	SP4, SP4  
+Roger Revelle    	1/26/2010    	Wellington New Zealand   	  	  	 
+Roger Revelle    	2/22/2010    	Wellington New Zealand   	IN5   	  	IN5,
+Roger Revelle    	2/22/2010    	Wellington New Zealand   	IN5   	  	IN5,
+Roger Revelle    	2/22/2010    	Wellington New Zealand   	IN5   	  	IN5,
+Roger Revelle    	2/22/2010    	Wellington New Zealand   	IN5   	  	IN5,
+Roger Revelle    	3/21/2010    	Kao-hsiung Taiwan   	  	  	IN2, NP7  
+Roger Revelle    	4/6/2010    	Kao-hsiung Taiwan   	Philippine Sea  
+Roger Revelle    	5/6/2010    	Kao-hsiung Taiwan   	Philippine Sea  
+Roger Revelle    	6/1/2010    	Kao-hsiung Taiwan   	  	  	 
+Roger Revelle    	6/14/2010    	Kao-hsiung Taiwan   	  	  	 
+Roger Revelle    	6/19/2010    	Kao-hsiung Taiwan   	S.ChinaSea   	 
+Roger Revelle    	7/4/2010    	Kao-hsiung Taiwan   	  	  	 
+Roger Revelle    	7/7/2010    	Kao-hsiung Taiwan   	Philippine Sea  
+Roger Revelle    	7/31/2010    	Kao-hsiung Taiwan   	  	  	NP10, NP10  
+Roger Revelle    	8/14/2010    	Kao-hsiung Taiwan   	Luzon Strait   	 
+Roger Revelle    	9/12/2010    	Kao-hsiung Taiwan   	  	  	NP10, NP10  
+Roger Revelle    	9/20/2010    	Kao-hsiung Taiwan   	  	  	NP10, NP10  
+Roger Revelle    	10/12/2010    	Naha Ko Ryukyu Islands Japan   	  	 
+Roger Revelle    	10/26/2010    	Kao-hsiung Taiwan   	  	  	NP10, NP10  
+Roger Revelle    	11/6/2010    	Kao-hsiung Taiwan   	  	  	NP12, NP12  
+Roger Revelle    	11/6/2010    	Kao-hsiung Taiwan   	  	  	NP12, NP12  
+Roger Revelle    	11/25/2010    	Kao-hsiung Taiwan   	  	  	 
+Roger Revelle    	11/27/2010    	Chi-Lung Taiwan   	  	  	 
+Roger Revelle    	11/27/2010    	Chi-Lung Taiwan   	  	  	 
+Roger Revelle    	2/7/2011    	Chi-Lung Taiwan   	  	  	 
+Roger Revelle    	2/11/2011    	Chi-Lung Taiwan   	  	  	 
+Roger Revelle    	2/15/2011    	Chi-Lung Taiwan   	  	  	 
+Roger Revelle    	2/26/2011    	Chi-Lung Taiwan   	  	  	 
+Roger Revelle    	2/28/2011    	Kao-hsiung Taiwan   	  	  	 
+Roger Revelle    	3/2/2011    	Kao-hsiung Taiwan   	  	  	 
+Roger Revelle    	3/22/2011    	Kao-hsiung Taiwan   	Philippine Sea   	  	 
+Roger Revelle    	3/22/2011    	Kao-hsiung Taiwan   	Philippine Sea   	  	 
+Roger Revelle    	4/18/2011    	Kao-hsiung Taiwan   	  	  	 
+Roger Revelle    	4/28/2011    	Kao-hsiung Taiwan   	Philippine Sea   	  	 
+Roger Revelle    	5/17/2011    	Kao-hsiung Taiwan   	Lamon Bay   	  	 
+Roger Revelle    	6/8/2011    	Kao-hsiung Taiwan   	Luzon Passage   	  	 
+Roger Revelle    	6/21/2011    	Kao-hsiung Taiwan   	Luzon Passage   	  	 
+Roger Revelle    	7/9/2011    	Kao-hsiung Taiwan   	Luzon Passage   	  	 
+Roger Revelle    	7/23/2011    	Kao-hsiung Taiwan   	Luzon Passage   	  	 
+Roger Revelle    	8/4/2011    	Kao-hsiung Taiwan   	  	  	 
+Roger Revelle    	8/14/2011    	Kao-hsiung Taiwan   	  	  	 
+Roger Revelle    	8/14/2011    	Kao-hsiung Taiwan   	  	  	 
+Roger Revelle    	8/24/2011    	Port Darwin Australia   	Indian
+Roger Revelle    	8/24/2011    	Port Darwin Australia   	Indian
+Roger Revelle    	8/24/2011    	Port Darwin Australia   	Indian
+Roger Revelle    	9/28/2011    	Phuket Thailand   	eq. Indian Oc.   	  	 
+Roger Revelle    	9/28/2011    	Phuket Thailand   	eq. Indian Oc.   	  	 
+Roger Revelle    	9/28/2011    	Phuket Thailand   	eq. Indian Oc.   	  	 
+Roger Revelle    	11/5/2011    	Phuket Thailand   	eq. Indian Oc.   	  	 
+Roger Revelle    	11/5/2011    	Phuket Thailand   	eq. Indian Oc.   	  	 
+Roger Revelle    	11/5/2011    	Phuket Thailand   	eq. Indian Oc.   	  	 
+Roger Revelle    	12/13/2011    	Phuket Thailand   	Indian Ocean   	  	 
+Roger Revelle    	12/13/2011    	Phuket Thailand   	Indian Ocean   	  	 
+Roger Revelle    	12/13/2011    	Phuket Thailand   	Indian Ocean   	  	 
+Roger Revelle    	12/13/2011    	Phuket Thailand   	Indian Ocean   	  	 
+Roger Revelle    	1/8/2012    	Phuket Thailand   	Indian Ocean   	  	 
+Roger Revelle    	2/15/2012    	Durban South Africa   	S IndianOcean
+Roger Revelle    	3/26/2012    	Fremantle Australia   	  	  	 
+Roger Revelle    	4/9/2012    	Fremantle Australia   	  	  	 
+Roger Revelle    	4/22/2012    	Legazpi Port Philippines   	Lamon
+Roger Revelle    	5/16/2012    	Kao-hsiung Taiwan   	  	  	 
+Roger Revelle    	5/22/2012    	Kao-hsiung Taiwan   	  	  	 
+Roger Revelle    	5/26/2012    	Kao-hsiung Taiwan   	  	  	 
+Roger Revelle    	6/12/2012    	Kao-hsiung Taiwan   	  	  	 
+Roger Revelle    	6/16/2012    	Da Nang Vietnam   	South China Sea   	  	 
+Roger Revelle    	7/1/2012    	Da Nang Vietnam   	  	  	 
+Roger Revelle    	7/1/2012    	Da Nang Vietnam   	  	  	 
+Roger Revelle    	7/20/2012    	Apia Western Samoa   	Samoan Passage
+Roger Revelle    	9/3/2012    	Apia Western Samoa   	Lau Basin   	  	 
+Roger Revelle    	9/3/2012    	Apia Western Samoa   	Lau Basin   	  	 
+Roger Revelle    	9/29/2012    	Apia Western Samoa   	  	  	 
+Roger Revelle    	9/29/2012    	Apia Western Samoa   	  	  	 
+Roger Revelle    	1/1/2013    	San Diego CA USA   	  	  	 
+Roger Revelle    	1/21/2013    	San Diego CA USA   	  	  	 
+Roger Revelle    	1/29/2013    	Anacortes WA USA   	  	  	 
+Roger Revelle    	3/19/2013    	Anacortes WA USA   	  	  	 
+Roger Revelle    	3/23/2013    	Anacortes WA USA   	  	  	 
+Roger Revelle    	4/1/2013    	Anacortes WA USA   	  	  	 
+Roger Revelle    	4/26/2013    	Kao-hsiung Taiwan   	luzon   	  	IN02  
+Roger Revelle    	5/7/2013    	Kao-hsiung Taiwan   	Luzon   	  	IN02  
+Roger Revelle    	5/18/2013    	Kao-hsiung Taiwan   	Luzon   	  	IN02  
+Roger Revelle    	5/30/2013    	Kao-hsiung Taiwan   	Luzon   	  	IN02  
+Roger Revelle    	6/12/2013    	Kao-hsiung Taiwan   	Subtr. Pacific   	  	 
+Roger Revelle    	6/12/2013    	Kao-hsiung Taiwan   	Subtr. Pacific   	  	 
+Roger Revelle    	6/29/2013    	Malakal Harbor Caroline Islands
+Roger Revelle    	7/22/2013    	Apra Harbor Guam   	Tuvalu/Samoa   	 
+Roger Revelle    	8/28/2013    	Suva Harbor Fiji Islands   	Western
+Roger Revelle    	8/28/2013    	Suva Harbor Fiji Islands   	Western
+Roger Revelle    	8/28/2013    	Suva Harbor Fiji Islands   	Western
+Roger Revelle    	8/30/2013    	Pago Pago Harbor American Samoa  
+Roger Revelle    	8/30/2013    	Pago Pago Harbor American Samoa  
+Roger Revelle    	8/30/2013    	Pago Pago Harbor American Samoa  
+Roger Revelle    	9/8/2013    	Lae Papua New Guinea   	Western
+Roger Revelle    	9/8/2013    	Lae Papua New Guinea   	Western
+Roger Revelle    	10/5/2013    	Manila Philippines   	  	  	 
+Roger Revelle    	10/9/2013    	Kao-hsiung Taiwan   	  	  	 
+Roger Revelle    	10/21/2013    	Kao-hsiung Taiwan   	Western
+Roger Revelle    	10/21/2013    	Kao-hsiung Taiwan   	Western
+Roger Revelle    	11/10/2013    	Colombo Sri Lanka   	Bay of Bengal
+Roger Revelle    	11/27/2013    	Colombo Sri Lanka   	Sri Lankan EEZ
+Roger Revelle    	12/17/2013    	Colombo Sri Lanka   	Bay of Bengal
+Roger Revelle    	12/28/2013    	Colombo Sri Lanka   	Mentawai
+Roger Revelle    	12/28/2013    	Colombo Sri Lanka   	Mentawai
+Roger Revelle    	12/28/2013    	Colombo Sri Lanka   	Mentawai
+Roger Revelle    	12/28/2013    	Colombo Sri Lanka   	Mentawai
+Roger Revelle    	1/24/2014    	Kao-hsiung Taiwan   	South China Sea
+Roger Revelle    	2/22/2014    	Kao-hsiung Taiwan   	  	  	 
+Roger Revelle    	3/17/2014    	Kao-hsiung Taiwan   	Palau   	  	NP10  
+Roger Revelle    	4/14/2014    	Malakal Harbor Caroline Islands
+Roger Revelle    	4/19/2014    	Chi-Lung Taiwan   	  	  	 
+Roger Revelle    	5/29/2014    	Chi-Lung Taiwan   	  	  	NP10  
+Roger Revelle    	6/17/2014    	Chennai Tamil Nadu India   	Bay of
+Roger Revelle    	6/29/2014    	Chennai Tamil Nadu India   	BoB   	 
+Roger Revelle    	7/2/2014    	Trincomalee Harbor Sri Lanka   	BoB  
+Roger Revelle    	7/14/2014    	Trincomalee Harbor Sri Lanka   	  	 
+Roger Revelle    	8/7/2014    	  	  	  	SA02  
+Roger Revelle    	9/4/2014    	  	  	  	NP10  
+Roger Revelle    	9/10/2014    	Chi-Lung Taiwan   	  	  	NP10  
+Roger Revelle    	10/21/2014    	Chi-Lung Taiwan   	  	  	NP10  
+Roger Revelle    	10/29/2014    	Apra Harbor Guam   	Western Pacific
+Roger Revelle    	10/29/2014    	Apra Harbor Guam   	Western Pacific
+Roger Revelle    	11/29/2014    	Apra Harbor Guam   	NW Eifuku   	  	NP10  
+Roger Revelle    	11/29/2014    	Apra Harbor Guam   	NW Eifuku   	  	NP10  
+Roger Revelle    	11/29/2014    	Apra Harbor Guam   	NW Eifuku   	  	NP10  
+Roger Revelle    	11/29/2014    	Apra Harbor Guam   	NW Eifuku   	  	NP10  
+Roger Revelle    	12/23/2014    	Apra Harbor Guam   	  	  	NP10  
+Roger Revelle    	12/23/2014    	Apra Harbor Guam   	transit   	  	NP10  
+Roger Revelle    	1/9/2015    	Hobart Tasmania   	Tasman Sea   	  	SP04  
+Roger Revelle    	2/6/2015    	Hobart Tasmania   	Tasman Sea   	  	SP04  
+Roger Revelle    	2/28/2015    	Hobart Tasmania   	Tasman Sea   	  	SP04  
+Roger Revelle    	3/13/2015    	Hobart Tasmania   	transit   	  	IN08  
+Roger Revelle    	3/13/2015    	Hobart Tasmania   	transit   	  	IN08  
+Roger Revelle    	3/20/2015    	Auckland New Zealand   	Auckland   	 
+Roger Revelle    	3/27/2015    	Auckland New Zealand   	Havre
+Roger Revelle    	3/27/2015    	Auckland New Zealand   	Havre
+Roger Revelle    	4/21/2015    	Auckland New Zealand   	ELSC, Tonga
+Roger Revelle    	5/19/2015    	Auckland New Zealand   	New Zealand
+Roger Revelle    	6/20/2015    	Napier New Zealand   	  	  	SP04  
+Roger Revelle    	7/1/2015    	Napier New Zealand   	In port   	  	SP04  
+Roger Revelle    	7/8/2015    	Napier New Zealand   	Indian Ocean   	 
+Roger Revelle    	8/4/2015    	Colombo Sri Lanka   	Bay of Bengal   	 
+Roger Revelle    	8/4/2015    	Colombo Sri Lanka   	Bay of Bengal   	 
+Roger Revelle    	8/17/2015    	Colombo Sri Lanka   	transit   	  	IN01  
+Roger Revelle    	8/23/2015    	Chennai Tamil Nadu India   	Bay of
+Roger Revelle    	9/22/2015    	Chennai Tamil Nadu India   	Transit
+Roger Revelle    	10/12/2015    	Malakal Harbor Caroline Islands
+Roger Revelle    	11/13/2015    	Malakal Harbor Caroline Islands
+Roger Revelle    	11/19/2015    	Chi-Lung Taiwan   	Taiwan   	  	NP10  
