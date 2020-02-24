@@ -1,0 +1,12 @@
+Notes on expocodes:
+
+Most buoy operators do not record the cruise start date in a buoy data file; it 
+does not pertain directly to the data in the file. In WHOI/UOP, we record the name
+of the ship and the cruise ID assigned by the ship operator - e.g. 
+	  <date_set>October 25,2008 18:46 UTC</date_set>
+		<set_ship_cruise>R.V. Ronald H. Brown. RB-08-06</set_ship_cruise>
+    
+  To backfill this info for JCOMMOPS, we need a way to generate expocodes.
+  I've found some cruise start dates at https://www.researchvessels.org, but
+  it is not a complete list. What I've gbeen able to assemble is in this folder.
+  
