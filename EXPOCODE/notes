@@ -8,5 +8,5 @@ of the ship and the cruise ID assigned by the ship operator - e.g.
     
   To backfill this info for JCOMMOPS, we need a way to generate expocodes.
   I've found some cruise start dates at https://www.researchvessels.org, but
-  it is not a complete list. What I've gbeen able to assemble is in this folder.
+  it is not a complete list. What I've been able to assemble is in this folder.
   
