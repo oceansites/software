@@ -3,7 +3,7 @@ Collection of software utilities and code in a variety of languages to search, c
 
 ### Contents:
 * L22: 
-  * Lookup L22 codes and standard terms for instruments
+  * Lookup L22 codes and standard terms for instruments, from Nan Galbraith
 * Matthias_Matlab_Code 	
   * OS_EXAMPLEFILE_FORMAT-1-2_D.nc       
   * generate_OS_EXAMPLEFILE.m	    
@@ -15,3 +15,6 @@ Collection of software utilities and code in a variety of languages to search, c
 * compliance_report:
   * GDAC_compliance_report.ipynb 
   * compliance_report.py
+
+* checkOSglobals:
+  * Matlab code to open any file and report back on the global attributes; missing attributes are returned in a list; attributes that were found are returned with their values.
